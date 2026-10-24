@@ -89,7 +89,7 @@ def eiga_cinemas(S, tr, DAYS, source, log, budget_ok):
             syn = p.get_text("\n", strip=True) if p else None
             orig = re.search(r"原題(?:または英題)?[：:]\s*([^<\n／]+)", r.text)
             yr = re.search(r"(\d{4})年製作", r.text)
-            return mid, {"synopsis_ja": syn, "title_orig": orig.group(1).strip() if orig else None, "year": yr.group(1) if yr else None}
+            return mid, {"synopsis_ja": syn, "title_orig": __import__("html").unescape(orig.group(1).strip()) if orig else None, "year": yr.group(1) if yr else None}
         except Exception as e:
             return mid, {}
     with ThreadPoolExecutor(6) as ex: info = dict(ex.map(minfo, list(movie_ids)))
