@@ -24,3 +24,4 @@ a{color:var(--acc)}footer{padding:16px 12px 40px;max-width:820px;margin:0 auto}
 .src{display:flex;gap:6px;align-items:center;font-size:12px;margin:3px 0}.dot{width:8px;height:8px;border-radius:50%;background:#16a34a;flex:none}.dot.bad{background:#dc2626}
 .empty{text-align:center;padding:30px 10px;color:var(--muted)}
 .jump{display:flex;gap:6px;overflow-x:auto;padding:4px 0 2px;scrollbar-width:none}.jump a{font-size:12.5px;white-space:nowrap;text-decoration:none;background:var(--chip);padding:4px 9px;border-radius:999px;color:var(--fg)}
+.region{padding-top:8px}.region button{font-weight:600}

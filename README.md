@@ -1,4 +1,6 @@
-# Okinawa Now
+# Family Activity Planner
+
+(Formerly "Okinawa Now". The repo name and URL are unchanged.)
 
 A mobile-first static app that shows what's on across Okinawa's main island: movies (Theater Donut first), events, concerts and nightlife, family activities, outdoors, food, and on-base happenings.
 
@@ -18,6 +20,8 @@ git add data && git commit -m "data refresh $(TZ=Asia/Tokyo date +%F)" && git pu
 You need Python 3.9+ and `node` on PATH, because Star Theaters schedule payloads are JS. Optional: set `MYMEMORY_EMAIL=you@example.com` to raise the free translation quota.
 
 ## Sources
+Fukuoka–Beppu region: showtimes come from eiga.com theater pages (21 cinemas in Fukuoka city, Dazaifu area, Kurume, Kitakyushu, Oita and Beppu), with synopses from eiga.com movie pages. Events come from yokanavi.com (Fukuoka City) and visit-oita.jp. Set TRANSLATE_BUDGET_SEC (default 330) to cap translation time.
+
 | Source | What |
 |---|---|
 | theater-donut.com | Theater Donut Okinawa (Koza) schedule + synopses |

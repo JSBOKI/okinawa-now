@@ -1,6 +1,6 @@
 {
- "checked_at": "2026-10-24 10:06 JST",
- "generated": "2026-10-24T10:06:49.210576+09:00",
+ "checked_at": "2026-10-24 10:37 JST",
+ "generated": "2026-10-24T10:37:41.005178+09:00",
  "items": [
   {
    "title_ja": "滞在プログラム「首里城を彩る紅～琉球のちむぐくる～」",
@@ -18,7 +18,8 @@
    "city": "Yomitan Village",
    "time": null,
    "description": "2026年3月1日(日)〜2027年3月31日(水)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "2026年度 かりゆしビーチ営業期間および営業時間のお知らせ",
@@ -36,7 +37,8 @@
    "city": "Nago City",
    "time": null,
    "description": "2026年3月5日(木)〜2026年10月31日(土)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "ぎのざマルシェ",
@@ -54,7 +56,8 @@
    "city": "Ginoza Village",
    "time": null,
    "description": "2026年3月15日(日)〜2026年11月15日(日)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "【期間限定】オーシャンランド開催",
@@ -72,7 +75,8 @@
    "city": "Motobu Town",
    "time": null,
    "description": "2026年3月20日(金)〜2026年11月30日(月)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "泳げる季節がやってきた！エメラルドビーチ遊泳スタート",
@@ -90,7 +94,8 @@
    "city": "Motobu Town",
    "time": null,
    "description": "2026年4月1日(水)〜2026年10月31日(土)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "🏖️ Sunset on the Beach 2026",
@@ -108,7 +113,28 @@
    "city": "Chatan, Okinawa",
    "time": null,
    "description": "2026年4月18日(土)〜2026年11月14日(土)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
+  },
+  {
+   "title_ja": "「Live@Museum」ライブ＠ミュージアム ～2026 最新イベントスケジュール！【福岡アジア美術館】",
+   "desc_ja": "金曜日の夜はアジア美術館でライブ演奏を楽しみませんか\n毎週金曜日の18時30分から、福岡アジア美術館アートカフェにて音楽や伝統芸能などのミニライブを実施します。\n会場内のミュージアムカフェでは、オリジナルブレンドコーヒーのほか、クラフトビール等のアルコールメニューもご用意。\nまた、金曜夜は20時までアジア美術館が開館しています。ドリンクを楽しみながらライブ鑑賞をした後は、夜のギャラリーでアー...",
+   "when_ja": "2026年4月24日～2027年3月19日 毎週金曜日＊18時30分～　（30分程度）",
+   "venue_ja": "",
+   "city_ja": "福岡市",
+   "region": "kyushu",
+   "area": "fukuoka",
+   "start": "2026-04-24",
+   "end": "2027-03-19",
+   "category": "concerts",
+   "source": "https://yokanavi.com/events/269601",
+   "src_name": "Yokanavi (Fukuoka City official)",
+   "title": "Live @ Museum Live @ Museum ~ 2026 Latest Event Schedule! [Fukuoka Asian Art Museum]",
+   "city": "FUKUOKA CITY",
+   "venue": "",
+   "time": null,
+   "price": null,
+   "description": "2026年4月24日～2027年3月19日 毎週金曜日＊18時30分～　（30分程度）"
   },
   {
    "title_ja": "海洋博公園コスプレ撮影会",
@@ -126,7 +152,8 @@
    "city": "Motobu Town",
    "time": null,
    "description": "2026年5月30日(土)〜2026年12月20日(日)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "おきみゅーナイトミュージアム",
@@ -144,7 +171,8 @@
    "city": "Naha-shi",
    "time": null,
    "description": "2026年6月12日(金)〜2026年12月25日(金)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "草野球沖縄一決定戦 第31回 オリオンスーパーベースボール2026",
@@ -162,7 +190,8 @@
    "city": "Tomigusuku City",
    "time": null,
    "description": "2026年6月27日(土)〜2026年11月1日(日)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "南国の太陽と自然が育んだ色彩のDINNER BUFFET",
@@ -180,7 +209,50 @@
    "city": "Nago City",
    "time": null,
    "description": "2026年7月1日(水)〜2026年10月31日(土)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
+  },
+  {
+   "title_ja": "くじゅう＆ユネスコエコパーク体感スタンプラリー 夏キャンペーン 涼をめぐる旅",
+   "desc_ja": "",
+   "when_ja": "2026年7月1日（水）～10月31日（土）",
+   "venue_ja": "",
+   "city_ja": "佐伯市",
+   "region": "kyushu",
+   "area": "oita-other",
+   "start": "2026-07-01",
+   "end": "2026-10-31",
+   "category": "family",
+   "source": "https://www.visit-oita.jp/events/detail/14426",
+   "src_name": "Visit Oita (visit-oita.jp)",
+   "cancelled": false,
+   "title": "Kuju & UNESCO Ecopark Experience Stamp Rally Summer Campaign Cooling Trip",
+   "city": "Saiki, Ōita",
+   "venue": "",
+   "time": null,
+   "price": null,
+   "description": "2026年7月1日（水）～10月31日（土）"
+  },
+  {
+   "title_ja": "昭和の町でアート＆クリームソーダ（第5弾）",
+   "desc_ja": "",
+   "when_ja": "2026年7月11日（土）～11月30日（月）",
+   "venue_ja": "",
+   "city_ja": "豊後高田市",
+   "region": "kyushu",
+   "area": "nakatsu-usa",
+   "start": "2026-07-11",
+   "end": "2026-11-30",
+   "category": "food",
+   "source": "https://www.visit-oita.jp/events/detail/14203",
+   "src_name": "Visit Oita (visit-oita.jp)",
+   "cancelled": false,
+   "title": "Art & Cream Soda in Showa Town (Volume 5)",
+   "city": "Bungo-takada-shi",
+   "venue": "",
+   "time": null,
+   "price": null,
+   "description": "2026年7月11日（土）～11月30日（月）"
   },
   {
    "title_ja": "ネオパークオキナワフォトコンテスト2026",
@@ -198,7 +270,29 @@
    "city": "Nago City",
    "time": null,
    "description": "2026年7月18日(土)〜2026年11月30日(月)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
+  },
+  {
+   "title_ja": "周遊型謎解きイベント「周防灘に潜む謎を追え！」",
+   "desc_ja": "",
+   "when_ja": "2026年7月18日（土）～12月25日（金）",
+   "venue_ja": "",
+   "city_ja": "中津市",
+   "region": "kyushu",
+   "area": "nakatsu-usa",
+   "start": "2026-07-18",
+   "end": "2026-12-25",
+   "category": "family",
+   "source": "https://www.visit-oita.jp/events/detail/14466",
+   "src_name": "Visit Oita (visit-oita.jp)",
+   "cancelled": false,
+   "title": "Traveling Mystery Solving Event \"Chase the Mystery Lurking in Suonada!\"",
+   "city": "Nakatsu, Ōita",
+   "venue": "",
+   "time": null,
+   "price": null,
+   "description": "2026年7月18日（土）～12月25日（金）"
   },
   {
    "title_ja": "うるまでマルごと！トクトク周遊スタンプラリー",
@@ -216,7 +310,48 @@
    "city": "Uruma City",
    "time": null,
    "description": "2026年7月24日(金)〜2026年12月31日(木)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
+  },
+  {
+   "title_ja": "福岡ウエストコースト フォトコンテスト2026 ～西海岸の魅力再発見～",
+   "desc_ja": "福岡ウエストコーストの魅力を写真で発信するInstagramフォトコンテスト「福岡ウエストコースト フォトコンテスト2026」を開催します。\n本コンテストは、福岡ウエストコーストエリアの魅力を写真で発信し、この地域を訪れるひとに地域の良さを知っていただき、もっと地域を大切にしてもらうことを目的としたInstagramフォトコンテストです。\n応募作品は、ウエストコーストの情報発信など観光PR素...",
+   "when_ja": "2026年7月24日（金曜日）～2027年1月31日（日曜日）",
+   "venue_ja": "",
+   "city_ja": "福岡市",
+   "region": "kyushu",
+   "area": "fukuoka",
+   "start": "2026-07-24",
+   "end": "2027-01-31",
+   "category": "outdoors",
+   "source": "https://yokanavi.com/events/274519",
+   "src_name": "Yokanavi (Fukuoka City official)",
+   "title": "Fukuoka West Coast Photo Contest 2026 - Rediscovering the West Coast -",
+   "city": "FUKUOKA CITY",
+   "venue": "",
+   "time": null,
+   "price": null,
+   "description": "2026年7月24日（金曜日）～2027年1月31日（日曜日）"
+  },
+  {
+   "title_ja": "日本庭園が幻想的な光の世界に。体験型ナイトアート「世解-SEKAI-」【大濠公園 日本庭園】2026",
+   "desc_ja": "福岡を代表する日本庭園、大濠公園日本庭園が夜になると、光と水、テクノロジーが織りなす幻想的なアート空間へと姿を変えます。会場の象徴は、水面に浮かぶ巨大な球体に映し出される全天球型プロジェクションマッピング「大濠スフィア」。\n光をまとった球体と水面の映り込みが一体となり、まるで水上に浮遊しているかのような特別な写真体験が楽しめます。ほかにも、ハンドルを回すと景色が変化する「プリズムの森」や、ピ...",
+   "when_ja": "2026年8月1日（土曜日）〜12月31日（木曜日） ※原則月曜休園",
+   "venue_ja": "",
+   "city_ja": "福岡市",
+   "region": "kyushu",
+   "area": "fukuoka",
+   "start": "2026-08-01",
+   "end": "2026-12-31",
+   "category": "concerts",
+   "source": "https://yokanavi.com/events/274534",
+   "src_name": "Yokanavi (Fukuoka City official)",
+   "title": "Japanese gardens in a fantastic world of light. Experiential night art \"Sekai\" [Ohori Park Japanese Garden] 2026",
+   "city": "FUKUOKA CITY",
+   "venue": "",
+   "time": null,
+   "price": null,
+   "description": "2026年8月1日（土曜日）〜12月31日（木曜日） ※原則月曜休園"
   },
   {
    "title_ja": "来園者参加型イベント首里城復興「絆のタペストリー」はた織体験",
@@ -234,7 +369,29 @@
    "city": "Naha-shi",
    "time": null,
    "description": "2026年8月15日(土)〜2026年11月3日(火)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
+  },
+  {
+   "title_ja": "中津ハモスタンプラリー",
+   "desc_ja": "",
+   "when_ja": "2026年8月30日（日）～11月30日（月）",
+   "venue_ja": "",
+   "city_ja": "中津市",
+   "region": "kyushu",
+   "area": "nakatsu-usa",
+   "start": "2026-08-30",
+   "end": "2026-11-30",
+   "category": "family",
+   "source": "https://www.visit-oita.jp/events/detail/14456",
+   "src_name": "Visit Oita (visit-oita.jp)",
+   "cancelled": false,
+   "title": "Nakatsu Hamostan Prairie",
+   "city": "Nakatsu, Ōita",
+   "venue": "",
+   "time": null,
+   "price": null,
+   "description": "2026年8月30日（日）～11月30日（月）"
   },
   {
    "title_ja": "秋限定『オリエンタルオクトーバーフェスト』開催 シャインマスカットとビール料理が彩る体験型ブッフェ",
@@ -252,7 +409,8 @@
    "city": "Nago City",
    "time": null,
    "description": "2026年9月1日(火)〜2026年11月3日(火)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "秋限定『オリエンタルオクトーバーフェスト』開催\nシャインマスカットとビール料理が彩る体験型ブッフェ",
@@ -270,7 +428,8 @@
    "city": "Naha-shi",
    "time": null,
    "description": "2026年9月1日(火)〜2026年11月3日(火)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "[9～11月]秋薫る、旬の味覚を愉しむ季節限定コース",
@@ -288,7 +447,8 @@
    "city": "Nago City",
    "time": null,
    "description": "2026年9月1日(火)〜2026年11月30日(月)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "[9～11月] 秋の味覚の共演を楽しむ、スイーツコレクション",
@@ -306,7 +466,8 @@
    "city": "Nago City",
    "time": null,
    "description": "2026年9月1日(火)〜2026年11月30日(月)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "【期間限定】沖縄黒糖を使った特別メニューがレストラン「フォンテーヌ」「花風」に登場",
@@ -324,7 +485,8 @@
    "city": "Naha-shi",
    "time": null,
    "description": "2026年9月1日(火)〜2026年10月31日(土)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "サウナとカフェで紅芋を堪能「ご褒美紅芋スイーツナイト」",
@@ -342,7 +504,8 @@
    "city": "Onna Village",
    "time": null,
    "description": "2026年9月1日(火)〜2026年11月30日(月)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "首里城正殿復興！歴史的な節目をお祝いする「首里城かりゆしステイ」",
@@ -360,7 +523,8 @@
    "city": "Naha-shi",
    "time": null,
    "description": "2026年9月1日(火)〜2027年3月31日(水)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "「夏の続きを やんばるで」Free-Flowのハイボールとハンモックで沖縄・やんばるの夜を愉しむレイトサマーイベント",
@@ -378,7 +542,49 @@
    "city": "Nago City",
    "time": null,
    "description": "2026年9月1日(火)〜2026年10月31日(土)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
+  },
+  {
+   "title_ja": "「さわらの秋」開催中！【早良区各所】2026年",
+   "desc_ja": "早良区では、9月～11月にかけて区内の秋の魅力を紹介する「さわらの秋」を開催しています。\nおでかけスポットやグルメ、イベント情報などを掲載したパンフレットを配布しているほか、先着で脇山米がもらえるスタンプラリーや、自然や歴史文化を満喫できる体験イベントを開催するなど、区の魅力がギュッと詰まったキャンペーンとなっています。\n◎今年はスマホでも参加OK！合計７００名に脇山米をプレゼントするスタン...",
+   "when_ja": "2026年9月1日（火曜日）～2026年11月30日（月曜日）",
+   "venue_ja": "",
+   "city_ja": "福岡市",
+   "region": "kyushu",
+   "area": "fukuoka",
+   "start": "2026-09-01",
+   "end": "2026-11-30",
+   "category": "food",
+   "source": "https://yokanavi.com/events/274385",
+   "src_name": "Yokanavi (Fukuoka City official)",
+   "title": "Autumn of the Sawara is now available! [Sawara Ward locations] 2026",
+   "city": "FUKUOKA CITY",
+   "venue": "",
+   "time": null,
+   "price": null,
+   "description": "2026年9月1日（火曜日）～2026年11月30日（月曜日）"
+  },
+  {
+   "title_ja": "東九州伊勢えび海道・伊勢えび祭り2026",
+   "desc_ja": "",
+   "when_ja": "2026年9月2日（水）～11月30日（月）",
+   "venue_ja": "",
+   "city_ja": "佐伯市",
+   "region": "kyushu",
+   "area": "oita-other",
+   "start": "2026-09-02",
+   "end": "2026-11-30",
+   "category": "events",
+   "source": "https://www.visit-oita.jp/events/detail/14110",
+   "src_name": "Visit Oita (visit-oita.jp)",
+   "cancelled": false,
+   "title": "Higashi Kyushu Ise Shrimp Kaido/Ise Shrimp Festival 2026",
+   "city": "Saiki, Ōita",
+   "venue": "",
+   "time": null,
+   "price": null,
+   "description": "2026年9月2日（水）～11月30日（月）"
   },
   {
    "title_ja": "「ジョルジュ・ルオー　－聖と俗－」「山城見信特別展」",
@@ -396,7 +602,8 @@
    "city": "Ginowan",
    "time": null,
    "description": "2026年9月3日(木)〜2026年11月23日(月)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "土日祝日限定 本格中華ランチビュッフェ「飲茶×薬膳フェア」",
@@ -414,7 +621,49 @@
    "city": "Nago City",
    "time": null,
    "description": "2026年9月5日(土)〜2026年11月29日(日)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
+  },
+  {
+   "title_ja": "日本遺産やばけい遊覧博覧会 やばはく2026秋",
+   "desc_ja": "",
+   "when_ja": "2026年9月6日（日）～11月8日（日）※要事前申込",
+   "venue_ja": "",
+   "city_ja": "中津市",
+   "region": "kyushu",
+   "area": "nakatsu-usa",
+   "start": "2026-09-06",
+   "end": "2026-11-08",
+   "category": "family",
+   "source": "https://www.visit-oita.jp/events/detail/14468",
+   "src_name": "Visit Oita (visit-oita.jp)",
+   "cancelled": false,
+   "title": "Japanese Heritage Yabakei Tourism Expo Yabahaku 2026 Autumn",
+   "city": "Nakatsu, Ōita",
+   "venue": "",
+   "time": null,
+   "price": null,
+   "description": "2026年9月6日（日）～11月8日（日）※要事前申込"
+  },
+  {
+   "title_ja": "【FaN Week 2026】企画展×現代作家ファイル2026 山内光枝展 潮ノ記【福岡市美術館】2026",
+   "desc_ja": "山内光枝（やまうちてるえ）（1982-）は、福岡を拠点に、海に生きる人々の生活や文化に焦点を当てた作品を制作しています。2010年頃、素の身体で海辺に立つ海女の写真と出会い、そのしなやかな生命力に満ちた姿に強く惹かれたことを契機に、流動的な大自然である海を生活の場とする人々からインスピレーションを得た作品を数多く発表してきました。その表現は、ドローイングや映像、インスタレーションなど多岐にわ...",
+   "when_ja": "2026年9月8日（火曜日）〜12月20日（日曜日） 9時30分～17時30分",
+   "venue_ja": "",
+   "city_ja": "福岡市",
+   "region": "kyushu",
+   "area": "fukuoka",
+   "start": "2026-09-08",
+   "end": "2026-12-20",
+   "category": "outdoors",
+   "source": "https://yokanavi.com/events/274530",
+   "src_name": "Yokanavi (Fukuoka City official)",
+   "title": "[FaN Week 2026] Special Exhibition x Contemporary Artist File 2026 Mitsueda Yamauchi Exhibition Shio-Noki [Fukuoka City Museum of Art] 2026",
+   "city": "FUKUOKA CITY",
+   "venue": "",
+   "time": null,
+   "price": null,
+   "description": "2026年9月8日（火曜日）〜12月20日（日曜日） 9時30分～17時30分"
   },
   {
    "title_ja": "染谷聡 個展「Relational Horizon -片身替わりの地平-」",
@@ -432,7 +681,8 @@
    "city": "Yomitan Village",
    "time": null,
    "description": "2026年9月11日(金)〜2027年1月17日(日)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "デンファレ寄せ植え体験",
@@ -450,7 +700,8 @@
    "city": "Uruma City",
    "time": null,
    "description": "2026年9月12日(土)〜2026年11月30日(月)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "令和8年度第2期常設展「昭和の時代へタイムトリップ―20世紀沖縄の漆器―」",
@@ -468,7 +719,8 @@
    "city": "Urasoe City",
    "time": null,
    "description": "2026年9月12日(土)〜2027年1月17日(日)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "ビオスの丘 らんの花祭り 秋",
@@ -486,7 +738,29 @@
    "city": "Uruma City",
    "time": null,
    "description": "2026年9月12日(土)〜2026年11月30日(月)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
+  },
+  {
+   "title_ja": "くじゅう花公園「空とつながる天空の花畑 オータムフラワーフェスタ 2026」",
+   "desc_ja": "",
+   "when_ja": "2026年9月12日（土）～11月3日（火・祝）※期間中は無休",
+   "venue_ja": "",
+   "city_ja": "竹田市",
+   "region": "kyushu",
+   "area": "oita-other",
+   "start": "2026-09-12",
+   "end": "2026-11-03",
+   "category": "events",
+   "source": "https://www.visit-oita.jp/events/detail/14460",
+   "src_name": "Visit Oita (visit-oita.jp)",
+   "cancelled": false,
+   "title": "Kuju Flower Park \"Sky Connected Flower Field Autumn Flower Festa 2026\"",
+   "city": "Takeda-shi",
+   "venue": "",
+   "time": null,
+   "price": null,
+   "description": "2026年9月12日（土）～11月3日（火・祝）※期間中は無休"
   },
   {
    "title_ja": "ANTEROOM PRESENTS SHIROMA-OYAKO EXHIBITION Shiromar Land",
@@ -504,7 +778,8 @@
    "city": "Naha-shi",
    "time": null,
    "description": "2026年9月18日(金)〜2026年11月15日(日)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "美術館コレクションギャラリー企画展 クムイの淵に立つ巨人 山城見信 関連催事",
@@ -522,7 +797,8 @@
    "city": "Naha-shi",
    "time": null,
    "description": "2026年9月19日(土)〜2026年10月30日(金)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "美術館コレクション展",
@@ -540,7 +816,8 @@
    "city": "Naha-shi",
    "time": null,
    "description": "2026年9月19日(土)〜2027年3月28日(日)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "読書の秋を満喫する「よんなー BOOK days」",
@@ -558,7 +835,69 @@
    "city": "Yomitan Village",
    "time": null,
    "description": "2026年9月19日(土)〜2026年11月8日(日)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
+  },
+  {
+   "title_ja": "特別展「石川賢治月光写真展　月光浴　月夜の晩に」【福岡市科学館】",
+   "desc_ja": "1年に12回しかない満月の下で撮り続ける月光写真家・石川賢治。\n30年間の世界４大陸に渡る満月の旅を経て、2016年福岡・糸島半島に移り住みました。撮り下ろした新作には、糸島を中心とした北海道から沖縄まで日本の春夏秋冬を舞台に月夜の情景が綴られます。星空の下、月光を浴びていのちを輝かせる草花やいきものたち、昼間とは違う表情の原風景に、宇宙の中に自分が存在することを実感します。\nどうぞ福岡市科...",
+   "when_ja": "2026年9月19日（土曜日）～10月25日（日曜日） 9時30分～18時（入場は17時30分まで）",
+   "venue_ja": "",
+   "city_ja": "福岡市",
+   "region": "kyushu",
+   "area": "fukuoka",
+   "start": "2026-09-19",
+   "end": "2026-10-25",
+   "category": "outdoors",
+   "source": "https://yokanavi.com/events/274526",
+   "src_name": "Yokanavi (Fukuoka City official)",
+   "title": "Special Exhibition \"Kenji Ishikawa Moonlight Photography Exhibition On the Evening of the Moonlight Bath\" [Fukuoka City Science Museum]",
+   "city": "FUKUOKA CITY",
+   "venue": "",
+   "time": null,
+   "price": null,
+   "description": "2026年9月19日（土曜日）～10月25日（日曜日） 9時30分～18時（入場は17時30分まで）"
+  },
+  {
+   "title_ja": "特別展「アジア美術の歩き方　南アジア特別編　対立の先へ―光の水脈をめぐる旅」【福岡アジア美術館】2026年",
+   "desc_ja": "2026年度の福岡アジア美術館コレクション展のシリーズ企画第二弾！\nアジアの3つのエリアを旅するようにめぐりながら、それぞれの地域ならではの美術と文化の魅力をご紹介！\n2026年度の福岡アジア美術館では、コレクション展のシリーズ企画として「アジア美術の歩き方」を開催しています。\n本シリーズでは、アジア美術に初めて触れる方にも親しみやすい形で、「東アジア」「南アジア」「東南アジア」の3つのエリ...",
+   "when_ja": "2026年9月19日（土曜日）～2027年1月11日（月曜日） 9時30分～18時（金曜日・土曜日は20時まで） ※ギャラリー入室は閉室30分前まで ※休館日：水曜日、2026年12月26日～2027年1月1日",
+   "venue_ja": "",
+   "city_ja": "福岡市",
+   "region": "kyushu",
+   "area": "fukuoka",
+   "start": "2026-09-19",
+   "end": "2027-01-01",
+   "category": "events",
+   "source": "https://yokanavi.com/events/274542",
+   "src_name": "Yokanavi (Fukuoka City official)",
+   "title": "Special Exhibition \"How to Walk in Asian Art, South Asia Special Edition: Beyond Conflict: A Journey through the Waters of Light\" [Fukuoka Asian Art Museum] 2026",
+   "city": "FUKUOKA CITY",
+   "venue": "",
+   "time": null,
+   "price": null,
+   "description": "2026年9月19日（土曜日）～2027年1月11日（月曜日） 9時30分～18時（金曜日・土曜日は20時まで） ※ギャラリー入室は閉室30分前まで ※休館日：水曜日、2026年12月26日～2027年1月1日"
+  },
+  {
+   "title_ja": "るるパーク「コキアンヒルカーニバル2026」",
+   "desc_ja": "",
+   "when_ja": "2026年9月19日（土）～11月3日（火・祝）",
+   "venue_ja": "",
+   "city_ja": "杵築市",
+   "region": "kyushu",
+   "area": "beppu",
+   "start": "2026-09-19",
+   "end": "2026-11-03",
+   "category": "events",
+   "source": "https://www.visit-oita.jp/events/detail/14469",
+   "src_name": "Visit Oita (visit-oita.jp)",
+   "cancelled": false,
+   "title": "Ruru Park \"Coquian Hill Carnival 2026\"",
+   "city": "Kitsuki, Ōita",
+   "venue": "",
+   "time": null,
+   "price": null,
+   "description": "2026年9月19日（土）～11月3日（火・祝）"
   },
   {
    "title_ja": "おきみゅーシネマラボ 沖縄映画の現在形と未来地図",
@@ -576,7 +915,8 @@
    "city": "Naha-shi",
    "time": null,
    "description": "2026年9月20日(日)〜2026年11月15日(日)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "エヴァンゲリオンイラスト展Ⅱ(那覇）",
@@ -594,7 +934,8 @@
    "city": "Naha-shi",
    "time": null,
    "description": "2026年9月25日(金)〜2026年10月31日(土)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "沖縄県立埋蔵文化財センター 企画展示室",
@@ -612,7 +953,8 @@
    "city": "Nishihara, Okinawa",
    "time": null,
    "description": "2026年9月30日(水)〜2026年11月8日(日)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "沖芸サテライト・ミニ・ギャラリーVol. 20",
@@ -630,7 +972,8 @@
    "city": "Naha-shi",
    "time": null,
    "description": "2026年9月30日(水)〜2027年3月29日(月)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "ハロウィンイベント（ホテルアートステイ那覇国際通り）",
@@ -648,7 +991,8 @@
    "city": "Naha-shi",
    "time": null,
    "description": "2026年10月1日(木)〜2026年10月31日(土)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "こびとフェスティバル in 海洋博公園",
@@ -666,7 +1010,8 @@
    "city": "Motobu Town",
    "time": null,
    "description": "2026年10月1日(木)〜2026年11月30日(月)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "【秋冬限定スパトリートメント】\n癒しの秋、温もりの冬。心と身体に、やさしいご褒美を。",
@@ -684,7 +1029,8 @@
    "city": "Motobu Town",
    "time": null,
    "description": "2026年10月1日(木)〜2027年1月15日(金)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "Dining19 シーズナルカクテルのご案内",
@@ -702,7 +1048,8 @@
    "city": "Naha-shi",
    "time": null,
    "description": "2026年10月1日(木)〜2026年12月31日(木)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "「工房嬉楽（きらく）作品展」＠コザ工芸館ふんどぅ",
@@ -720,7 +1067,8 @@
    "city": "Okinawa",
    "time": null,
    "description": "2026年10月1日(木)〜2026年11月1日(日)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "NAKIJIN SUIKA TIME―沖縄北部・今帰仁村の特産品「今帰仁スイカ」半玉",
@@ -738,7 +1086,8 @@
    "city": "Nago City",
    "time": null,
    "description": "2026年10月1日(木)〜2026年10月31日(土)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "【Restaurant】HALLOWEEN APEROL SPRITZ ハロウィン・アペロール・スプリッツ",
@@ -756,7 +1105,29 @@
    "city": "Nago City",
    "time": null,
    "description": "2026年10月1日(木)〜2026年10月31日(土)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
+  },
+  {
+   "title_ja": "くにさきおにむすびスタンプラリー",
+   "desc_ja": "",
+   "when_ja": "2026年10月1日（木）～12月31日（木）",
+   "venue_ja": "",
+   "city_ja": "国東市",
+   "region": "kyushu",
+   "area": "oita-other",
+   "start": "2026-10-01",
+   "end": "2026-12-31",
+   "category": "family",
+   "source": "https://www.visit-oita.jp/events/detail/14490",
+   "src_name": "Visit Oita (visit-oita.jp)",
+   "cancelled": false,
+   "title": "Kunisaki Onimusubi Stamp Rally",
+   "city": "Kunisaki",
+   "venue": "",
+   "time": null,
+   "price": null,
+   "description": "2026年10月1日（木）～12月31日（木）"
   },
   {
    "title_ja": "中華ディナーオーダーバイキング 本格薬膳火鍋フェア",
@@ -774,7 +1145,8 @@
    "city": "Nago City",
    "time": null,
    "description": "2026年10月2日(金)〜2027年1月24日(日)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "第1回 パームロイヤルRUN＆ウォーク in 豊崎ヤシの木ロード",
@@ -792,7 +1164,8 @@
    "city": "Tomigusuku City",
    "time": null,
    "description": "2026年10月3日(土)〜2027年3月6日(土)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "【数量限定】\n 琉球舞踊イベントをご鑑賞のお客様へ\n 夜の振る舞い 沖縄そば 無料配布",
@@ -810,7 +1183,8 @@
    "city": "Motobu Town",
    "time": null,
    "description": "2026年10月3日(土)〜2026年10月31日(土)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "メーリアンの立体昆虫図譜展",
@@ -828,7 +1202,8 @@
    "city": "Okinawa",
    "time": null,
    "description": "2026年10月3日(土)〜2027年3月15日(月)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "週末限定ランチブッフェ",
@@ -846,7 +1221,29 @@
    "city": "Nago City",
    "time": null,
    "description": "2026年10月3日(土)〜2026年12月20日(日)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
+  },
+  {
+   "title_ja": "メイプル耶馬サイクリングロードデジタルスタンプラリー",
+   "desc_ja": "",
+   "when_ja": "2026年10月3日（土）～12月6日（日）",
+   "venue_ja": "",
+   "city_ja": "中津市",
+   "region": "kyushu",
+   "area": "nakatsu-usa",
+   "start": "2026-10-03",
+   "end": "2026-12-06",
+   "category": "family",
+   "source": "https://www.visit-oita.jp/events/detail/14470",
+   "src_name": "Visit Oita (visit-oita.jp)",
+   "cancelled": false,
+   "title": "Maple Horses Cycling Road Digital Stamp Rally",
+   "city": "Nakatsu, Ōita",
+   "venue": "",
+   "time": null,
+   "price": null,
+   "description": "2026年10月3日（土）～12月6日（日）"
   },
   {
    "title_ja": "金城次郎館　第16回展示ご案内",
@@ -864,7 +1261,8 @@
    "city": "Nanjō, Okinawa",
    "time": null,
    "description": "2026年10月4日(日)〜2026年12月27日(日)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "令和8年度 変わり塗り教室",
@@ -882,7 +1280,49 @@
    "city": "Urasoe City",
    "time": null,
    "description": "2026年10月4日(日)〜2026年11月15日(日)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
+  },
+  {
+   "title_ja": "博多おくんち（櫛田神社 秋季大祭）2026年【櫛田神社】　博多おくんちのスケジュール・行事詳細。五穀豊穣市や千灯明、古式ゆかしい御神幸パレードは必見！～日本三大くんち～",
+   "desc_ja": "お櫛田さまの秋祭。日本三大くんちの一つ「博多おくんち」\n1,200年前から続く秋の実りに感謝する伝統行事。\n目次\n・博多おくんち概要・博多おくんち行事スケジュール・博多おくんちと甘酒・基本情報\n \n● 博多総鎮守櫛田神社の秋祭り、博多おくんち。\n博多の総鎮守 櫛田神社の秋季大祭「博多おくんち」は、1,200年前から続く秋の実りに感謝する古式ゆかしい伝統行事。\n唐津や長崎に並ぶ日本三大くんちの...",
+   "when_ja": "●奉納剣道大会：2026年10月4日（日曜日）9時 ●奉納相撲大会：2026年10月9日（金曜日）9時 ●奉納柔道大会：2026年10月10日（土曜日）9時 ●博多灯明ウォッチング：2026年10月17日（土曜日）18時～21時 ●博多おくんち：2026年10月22日（木曜日）～10月24日（土曜日） ●千灯明（夕刻～）：2026年10月22日（木曜日）、10月23日（金曜日） ●御神幸（おくんちパレード）：2026年10月24日（土曜日）14時～17時（予定）",
+   "venue_ja": "",
+   "city_ja": "福岡市",
+   "region": "kyushu",
+   "area": "fukuoka",
+   "start": "2026-10-04",
+   "end": "2026-10-24",
+   "category": "concerts",
+   "source": "https://yokanavi.com/events/239012",
+   "src_name": "Yokanavi (Fukuoka City official)",
+   "title": "Hakata Okunchi (Kushida Shrine Autumn Festival) 2026 [Kushida Shrine] Hakata Okunchi schedule and event details. A must-see for the Gokufushi City, Senbomei, and Ancient Yukari Shinbuki Parade! ~ Japan's Three Great Kunchi ~",
+   "city": "FUKUOKA CITY",
+   "venue": "",
+   "time": null,
+   "price": null,
+   "description": "●奉納剣道大会：2026年10月4日（日曜日）9時 ●奉納相撲大会：2026年10月9日（金曜日）9時 ●奉納柔道大会：2026年10月10日（土曜日）9時 ●博多灯明ウォッチング：2026年10月17日（土曜日）18時～21時 ●博多おくんち：2026年10月22日（木曜日）～10月24日（土曜日） ●千灯明（夕刻～）：2026年10月22日（木曜日）、10月23日（金曜日） ●御神幸（おくんちパレード）：2026年10月24日（土曜日）14時～17時（予定）"
+  },
+  {
+   "title_ja": "ベップ・アート・マンス 2026",
+   "desc_ja": "",
+   "when_ja": "2026年10月10日（土）〜11月29日（日）",
+   "venue_ja": "",
+   "city_ja": "別府市",
+   "region": "kyushu",
+   "area": "beppu",
+   "start": "2026-10-10",
+   "end": "2026-11-29",
+   "category": "family",
+   "source": "https://www.visit-oita.jp/events/detail/14491",
+   "src_name": "Visit Oita (visit-oita.jp)",
+   "cancelled": false,
+   "title": "Beppe Art Month 2026",
+   "city": "Beppu, Ōita",
+   "venue": "",
+   "time": null,
+   "price": null,
+   "description": "2026年10月10日（土）〜11月29日（日）"
   },
   {
    "title_ja": "わくわくキッズパーク in なごアグリパーク（なごアグリに屋内遊園地が登場！）",
@@ -900,7 +1340,8 @@
    "city": "Nago City",
    "time": null,
    "description": "2026年10月11日(日)〜2026年11月23日(月)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "SHIMA KAJI MENSORE 風と音と、島時間。 10/13~12/27",
@@ -918,7 +1359,8 @@
    "city": "Nakijin Village",
    "time": null,
    "description": "2026年10月13日(火)〜2026年12月27日(日)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "新里堅進原画展の開催について",
@@ -936,7 +1378,8 @@
    "city": "Uruma City",
    "time": null,
    "description": "2026年10月15日(木)〜2026年11月29日(日)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "「記録が語る沖縄展」―戦後の歩みから考える私たちの社会― Records Tell the Story of Okinawa–Reflecting on Our Society through Okinawa’s Postwar History",
@@ -954,7 +1397,48 @@
    "city": "Haebaru, Okinawa",
    "time": null,
    "description": "2026年10月15日(木)〜2027年9月26日(日)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
+  },
+  {
+   "title_ja": "第13回はかた伝統工芸館感謝祭2026【はかた伝統工芸館】　～「作る・使う・学ぶ」をテーマに、ものづくりのすばらしさを楽しむイベント！",
+   "desc_ja": "はかた伝統工芸館感謝祭イベント開催！\n「作る・使う・学ぶ」をテーマに、ものづくりのすばらしさを楽しんでいただく体験型イベント。\n物販（使う）では、博多織や博多人形をはじめ小石原焼など今回体験できる作家の作品を購入できるので、 工房ツアーに行った気分が味わえます。\n体験（作る・学ぶ）では、博多織、博多人形、博多張子、今宿人形、博多おきあげ、小石原焼、八女提灯、 錫工芸の作家の皆さんからものづく...",
+   "when_ja": "＜はかた伝統工芸館感謝祭＞ 2026年10月15日（木曜日）～10月25日（日曜日） 10時～18時（感謝祭の販売は最終日は16時まで） ＜ワークショップ＞ 2026年10月24日（土曜日）10時～17時 2026年10月25日（日曜日）10時～16時",
+   "venue_ja": "",
+   "city_ja": "福岡市",
+   "region": "kyushu",
+   "area": "fukuoka",
+   "start": "2026-10-15",
+   "end": "2026-10-25",
+   "category": "events",
+   "source": "https://yokanavi.com/events/274554",
+   "src_name": "Yokanavi (Fukuoka City official)",
+   "title": "The 13th Hakata Traditional Crafts Hall Thanksgiving Festival 2026 [Hakata Traditional Crafts Hall] ~ An event to enjoy the wonders of manufacturing with the theme of \"making, using, and learning\"!",
+   "city": "FUKUOKA CITY",
+   "venue": "",
+   "time": null,
+   "price": null,
+   "description": "＜はかた伝統工芸館感謝祭＞ 2026年10月15日（木曜日）～10月25日（日曜日） 10時～18時（感謝祭の販売は最終日は16時まで） ＜ワークショップ＞ 2026年10月24日（土曜日）10時～17時 2026年10月25日（日曜日）10時～16時"
+  },
+  {
+   "title_ja": "福岡オクトーバーフェスト2026【冷泉公園】本場ミュンヘンの雰囲気を福岡で！",
+   "desc_ja": "「バイエルンビール協会」が認めた日本唯一のビール祭り！秋の冷泉公園でドイツのビールと料理を堪能しよう！\n2010年から始まり、今年で開催15回目を迎える福岡の秋の風物詩「オクトーバーフェスト」。福岡の伝統文化豊かなエリア・冷泉公園で、本場ドイツ・ミュンヘンの雰囲気を忠実に再現した本格的なオクトーバーフェストを10日間開催します。\n会場ではドイツ製の大型テントを使用し、本場ミュンヘンのオクトー...",
+   "when_ja": "2026年10月16日（金曜日）〜10月25日（日曜日) 平日：16時〜22時 土日：11時〜22時",
+   "venue_ja": "",
+   "city_ja": "福岡市",
+   "region": "kyushu",
+   "area": "fukuoka",
+   "start": "2026-10-16",
+   "end": "2026-10-25",
+   "category": "concerts",
+   "source": "https://yokanavi.com/events/274398",
+   "src_name": "Yokanavi (Fukuoka City official)",
+   "title": "Fukuoka Oktoberfest 2026 [Reizei Park] Enjoy the authentic Munich atmosphere in Fukuoka!",
+   "city": "FUKUOKA CITY",
+   "venue": "",
+   "time": null,
+   "price": null,
+   "description": "2026年10月16日（金曜日）〜10月25日（日曜日) 平日：16時〜22時 土日：11時〜22時"
   },
   {
    "title_ja": "おきなわワールドでハッピーハロウィン",
@@ -972,7 +1456,8 @@
    "city": "Nanjō, Okinawa",
    "time": null,
    "description": "2026年10月17日(土)〜2026年11月3日(火)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "和田直樹　かじあきの 和田直樹 ＋ かじあきの　二人展",
@@ -990,7 +1475,8 @@
    "city": "Kitanakagusuku Village",
    "time": null,
    "description": "2026年10月17日(土)〜2026年10月25日(日)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "世界キツネザルの日2026",
@@ -1008,7 +1494,8 @@
    "city": "Nago City",
    "time": null,
    "description": "2026年10月17日(土)〜2026年11月2日(月)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "金城哲夫生誕地イベント2026",
@@ -1026,7 +1513,8 @@
    "city": "Haebaru, Okinawa",
    "time": null,
    "description": "2026年10月17日(土)〜2026年11月1日(日)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "「知花均作品展 境界性を巡って1990-2024」",
@@ -1044,7 +1532,8 @@
    "city": "Yomitan Village",
    "time": null,
    "description": "2026年10月17日(土)〜2026年11月23日(月)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "特別巡回展示「MIRAI‐Bit」",
@@ -1062,7 +1551,8 @@
    "city": "Okinawa",
    "time": null,
    "description": "2026年10月17日(土)〜2027年2月23日(火)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "沖縄観光闘牛",
@@ -1080,7 +1570,49 @@
    "city": "Uruma City",
    "time": null,
    "description": "2026年10月17日(土)〜2027年3月20日(土)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
+  },
+  {
+   "title_ja": "ひかりの鴻臚館まつり【舞鶴公園鴻臚館広場】2026年～鴻臚館北館東門の復元後初公開・平安時代の外交拠点「鴻臚館」が光と体験で蘇る！～",
+   "desc_ja": "全長6mの「光る遣唐使船」や古代の遊びを現代技術で遊ぶ「ひかる屋台」、平安の食文化に着想を得た「平安ジビエ」まで。夜の舞鶴公園が歴史体験空間に！ \n古代〜平安時代、大陸との外交・交易の拠点であった迎賓館「鴻臚館」。その「北館東門」の復元公開に合わせ、光・体験・食で歴史を体感するナイトイベントを開催します。\n★会場の見どころ★光・遊び・食の3テーマで、古代の鴻臚館を“夜”に体感\n01｜光で彩る...",
+   "when_ja": "2026年10月17日（土曜日）～10月25日（日曜日）※台風30号の影響により10/25（日）は中止といたします。 16時〜21時  ※土・日曜日はマルシェのみ12時から ※ひかる屋台・ひかりの遊び広場・床マッピング・ひかる鴻臚館文字は18時から",
+   "venue_ja": "",
+   "city_ja": "福岡市",
+   "region": "kyushu",
+   "area": "fukuoka",
+   "start": "2026-10-17",
+   "end": "2026-10-25",
+   "category": "concerts",
+   "source": "https://yokanavi.com/events/274546",
+   "src_name": "Yokanavi (Fukuoka City official)",
+   "title": null,
+   "city": "FUKUOKA CITY",
+   "venue": "",
+   "time": null,
+   "price": null,
+   "description": "2026年10月17日（土曜日）～10月25日（日曜日）※台風30号の影響により10/25（日）は中止といたします。 16時〜21時  ※土・日曜日はマルシェのみ12時から ※ひかる屋台・ひかりの遊び広場・床マッピング・ひかる鴻臚館文字は18時から"
+  },
+  {
+   "title_ja": "第18回 大分アジア彫刻展",
+   "desc_ja": "",
+   "when_ja": "2026年10月18日（日）～11月23日（月・祝）",
+   "venue_ja": "",
+   "city_ja": "豊後大野市",
+   "region": "kyushu",
+   "area": "oita-other",
+   "start": "2026-10-18",
+   "end": "2026-11-23",
+   "category": "events",
+   "source": "https://www.visit-oita.jp/events/detail/14488",
+   "src_name": "Visit Oita (visit-oita.jp)",
+   "cancelled": false,
+   "title": null,
+   "city": "豊後大野市",
+   "venue": "",
+   "time": null,
+   "price": null,
+   "description": "2026年10月18日（日）～11月23日（月・祝）"
   },
   {
    "title_ja": "【しまくとぅばの日20周年】琉大図書館で記念パネル展示「しまくとぅば保存と琉大の取組」を開催します！",
@@ -1098,7 +1630,8 @@
    "city": "Nishihara, Okinawa",
    "time": null,
    "description": "2026年10月19日(月)〜2026年11月13日(金)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "『戦前の与那原のまちと集落 -韓国済州国立大学所蔵の空中写真でみる与那原-』",
@@ -1116,7 +1649,8 @@
    "city": "Yonabaru Town",
    "time": null,
    "description": "2026年10月19日(月)〜2026年11月2日(月)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "金城宏次　紅型展",
@@ -1134,7 +1668,8 @@
    "city": "Naha-shi",
    "time": null,
    "description": "2026年10月20日(火)〜2026年10月26日(月)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "第35回全琉秀作写真選抜展",
@@ -1152,7 +1687,8 @@
    "city": "Naha-shi",
    "time": null,
    "description": "2026年10月20日(火)〜2026年10月25日(日)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "2026年10月20日 第9回久米梁氏美術展",
@@ -1170,7 +1706,8 @@
    "city": "Naha-shi",
    "time": null,
    "description": "2026年10月20日(火)〜2026年10月25日(日)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "NIGHTMARE展vol.7",
@@ -1188,7 +1725,28 @@
    "city": "Naha-shi",
    "time": null,
    "description": "2026年10月21日(水)〜2026年10月27日(火)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
+  },
+  {
+   "title_ja": "PARCO PRODUCE 2026 「アメリカン・ドリーム」【キャナルシティ クラフティア劇場】　～三谷幸喜渾身の書き下ろし新作舞台！",
+   "desc_ja": "注目の新作舞台『アメリカン・ドリーム』、クラフティア劇場で上演決定！\n三谷幸喜が長年温めていたテーマを豪華キャストで描く渾身の書き下ろし！\n1994年からPARCO劇場をホームグラウンドとして、新作を発表し続けている三谷幸喜。注目の新作舞台『アメリカン・ドリーム』は、三谷幸喜が長年温めていたテーマを豪華キャストで描く、渾身の書き下ろしです。\n出演は、コミカルな役からシリアスな役まで幅広い役柄...",
+   "when_ja": "公演日程【全5回】 2026年10月22日（木曜日）18時 2026年10月23日（金曜日）13時 2026年10月24日（土曜日）13時／18時 2026年10月25日（日曜日）13時",
+   "venue_ja": "",
+   "city_ja": "福岡市",
+   "region": "kyushu",
+   "area": "fukuoka",
+   "start": "2026-10-22",
+   "end": "2026-10-25",
+   "category": "concerts",
+   "source": "https://yokanavi.com/events/274553",
+   "src_name": "Yokanavi (Fukuoka City official)",
+   "title": null,
+   "city": "FUKUOKA CITY",
+   "venue": "",
+   "time": null,
+   "price": null,
+   "description": "公演日程【全5回】 2026年10月22日（木曜日）18時 2026年10月23日（金曜日）13時 2026年10月24日（土曜日）13時／18時 2026年10月25日（日曜日）13時"
   },
   {
    "title_ja": "「第32回全国重要無形文化財保持団体秀作展」",
@@ -1206,7 +1764,8 @@
    "city": "Nago City",
    "time": null,
    "description": "2026年10月23日(金)〜2026年11月12日(木)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "沖縄南国イルミネーション 2026-2027",
@@ -1224,7 +1783,8 @@
    "city": "Okinawa",
    "time": null,
    "description": "2026年10月23日(金)〜2027年5月23日(日)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "兼島拓也×栗山民也新作「終わりの代わりに」",
@@ -1242,7 +1802,8 @@
    "city": "Naha-shi",
    "time": null,
    "description": "2026年10月23日(金)〜2026年10月25日(日)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "Jazz de Night 2026",
@@ -1260,7 +1821,8 @@
    "city": "Okinawa",
    "time": null,
    "description": "2026年10月24日(土)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "【杜deマルシェ後編】",
@@ -1278,7 +1840,8 @@
    "city": "Tomigusuku City",
    "time": null,
    "description": "2026年10月24日(土)〜2026年10月25日(日)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "【チケット情報】RYUKYUDAIHATSU Presents 第5回沖縄アリーナカップ",
@@ -1296,7 +1859,8 @@
    "city": "Okinawa",
    "time": null,
    "description": "2026年10月24日(土)〜2026年10月25日(日)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "KIDS HALLOWEEN WEEK 2026 ウミカジ＆あしびなーハロウィン2026",
@@ -1314,7 +1878,8 @@
    "city": "Tomigusuku City",
    "time": null,
    "description": "2026年10月24日(土)〜2026年10月31日(土)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "沖縄こどもの国ハロウィンカーニバル2026",
@@ -1332,7 +1897,8 @@
    "city": "Okinawa",
    "time": null,
    "description": "2026年10月24日(土)〜2026年10月25日(日)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "マカヒキフェスティバル2026",
@@ -1350,7 +1916,49 @@
    "city": "Tomigusuku City",
    "time": null,
    "description": "2026年10月24日(土)〜2026年10月25日(日)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
+  },
+  {
+   "title_ja": "視覚を超えて、音楽を全身で感じる。「川畠成道ヴァイオリン・リサイタル」 【福岡市民ホール】2026",
+   "desc_ja": "小学生の時に視覚を失いながらも、世界的に活躍するヴァイオリニスト川畠成道を迎える特別なコンサートが、福岡市民ホールで開催。ピアニスト寺嶋陸也との共演で贈るプログラムでは、客席と舞台を完全に暗転させ、視覚情報を排した状態で音楽を体験する演出も予定されています。\n「見る」から「聴く・感じる」へと意識を切り替えることで、普段とは違う音楽体験ができるのが最大の魅力。視覚に障がいのある方もそうでない方...",
+   "when_ja": "2026年10月24日（土曜日） 18時30分 開場／19時 開演",
+   "venue_ja": "",
+   "city_ja": "福岡市",
+   "region": "kyushu",
+   "area": "fukuoka",
+   "start": "2026-10-24",
+   "end": "2026-10-24",
+   "category": "concerts",
+   "source": "https://yokanavi.com/events/274537",
+   "src_name": "Yokanavi (Fukuoka City official)",
+   "title": null,
+   "city": "FUKUOKA CITY",
+   "venue": "",
+   "time": null,
+   "price": null,
+   "description": "2026年10月24日（土曜日） 18時30分 開場／19時 開演"
+  },
+  {
+   "title_ja": "坂道の城下町 杵築 観月祭 ※天候不良が予想されるため中止となりました",
+   "desc_ja": "",
+   "when_ja": "2026年10月24日（土）",
+   "venue_ja": "",
+   "city_ja": "杵築市",
+   "region": "kyushu",
+   "area": "beppu",
+   "start": "2026-10-24",
+   "end": "2026-10-24",
+   "category": "events",
+   "source": "https://www.visit-oita.jp/events/detail/14208",
+   "src_name": "Visit Oita (visit-oita.jp)",
+   "cancelled": true,
+   "title": null,
+   "city": "Kitsuki, Ōita",
+   "venue": "",
+   "time": null,
+   "price": null,
+   "description": "2026年10月24日（土）"
   },
   {
    "title": "3-Day TAP Workshop",
@@ -1368,7 +1976,8 @@
     "M&amp;FRC"
    ],
    "source": "https://kadenafss.com/event/3-day-tap-workshop/2026-10-24",
-   "src_name": "Kadena FSS (kadenafss.com)"
+   "src_name": "Kadena FSS (kadenafss.com)",
+   "region": "okinawa"
   },
   {
    "title": "Book your Dive Session with Kadena Marina!",
@@ -1386,7 +1995,8 @@
     "Marina"
    ],
    "source": "https://kadenafss.com/event/book-your-dive-session-with-kadena-marina/2026-10-24",
-   "src_name": "Kadena FSS (kadenafss.com)"
+   "src_name": "Kadena FSS (kadenafss.com)",
+   "region": "okinawa"
   },
   {
    "title": "Power Boat Safety Classes",
@@ -1404,7 +2014,8 @@
     "Marina"
    ],
    "source": "https://kadenafss.com/event/power-boat-safety-classes-2-2/2026-10-24",
-   "src_name": "Kadena FSS (kadenafss.com)"
+   "src_name": "Kadena FSS (kadenafss.com)",
+   "region": "okinawa"
   },
   {
    "title": "Trolling with Taka",
@@ -1422,7 +2033,8 @@
     "Marina"
    ],
    "source": "https://kadenafss.com/event/trolling-with-taka/2026-10-24",
-   "src_name": "Kadena FSS (kadenafss.com)"
+   "src_name": "Kadena FSS (kadenafss.com)",
+   "region": "okinawa"
   },
   {
    "title": "Japanese Flower Arrangement",
@@ -1440,7 +2052,8 @@
     "Shilling Community Center"
    ],
    "source": "https://kadenafss.com/event/japanese-flower-arrangement/2026-10-24",
-   "src_name": "Kadena FSS (kadenafss.com)"
+   "src_name": "Kadena FSS (kadenafss.com)",
+   "region": "okinawa"
   },
   {
    "title": "Intro to Archery Class",
@@ -1458,7 +2071,8 @@
     "Outdoor Rec"
    ],
    "source": "https://kadenafss.com/event/intro-to-archery-class-2",
-   "src_name": "Kadena FSS (kadenafss.com)"
+   "src_name": "Kadena FSS (kadenafss.com)",
+   "region": "okinawa"
   },
   {
    "title": "Archery Practice",
@@ -1476,7 +2090,8 @@
     "Outdoor Rec"
    ],
    "source": "https://kadenafss.com/event/archery-practice-2/2026-10-24",
-   "src_name": "Kadena FSS (kadenafss.com)"
+   "src_name": "Kadena FSS (kadenafss.com)",
+   "region": "okinawa"
   },
   {
    "title_ja": "新エントランス リニューアル記念！エイサー特別演舞",
@@ -1494,7 +2109,8 @@
    "city": "Uruma City",
    "time": null,
    "description": "2026年10月25日(日)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "おきみゅーエントランスコンサート 美術コース作品展示 応援ミニコンサート",
@@ -1512,7 +2128,8 @@
    "city": "Naha-shi",
    "time": null,
    "description": "2026年10月25日(日)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "第４回ももやまエイサー祭り – ももやまエイサー",
@@ -1530,7 +2147,8 @@
    "city": "Okinawa",
    "time": null,
    "description": "2026年10月25日(日)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "やえせde怪談話！ヤースーがやってくる！",
@@ -1548,7 +2166,8 @@
    "city": "Yaese Town",
    "time": null,
    "description": "2026年10月25日(日)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "るぽふぇすた　Halloween party",
@@ -1566,7 +2185,8 @@
    "city": "Okinawa",
    "time": null,
    "description": "2026年10月25日(日)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "朱日流 朱・尚子之会 会主披露公演 ～古典七踊り～ 心彩七舞",
@@ -1584,7 +2204,8 @@
    "city": "Urasoe City",
    "time": null,
    "description": "2026年10月25日(日)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "沖縄交響楽団　創立70周年記念演奏会",
@@ -1602,7 +2223,8 @@
    "city": "Naha-shi",
    "time": null,
    "description": "2026年10月25日(日)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "アラマハイナ コンドホテル7周年記念イベント 書アート×琉球古典音楽「月華」",
@@ -1620,7 +2242,8 @@
    "city": "Motobu Town",
    "time": null,
    "description": "2026年10月25日(日)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title": "Sunday Family Day",
@@ -1639,7 +2262,111 @@
     "Fun Events"
    ],
    "source": "https://kadenafss.com/event/sunday-family-day/2026-10-25",
-   "src_name": "Kadena FSS (kadenafss.com)"
+   "src_name": "Kadena FSS (kadenafss.com)",
+   "region": "okinawa"
+  },
+  {
+   "title_ja": "第十三回 福岡まつり月華祭【福岡天神／警固神社／警固公園】2026年",
+   "desc_ja": "【月華祭パレード・豊年祭 中止／秋の夜祭 延期のお知らせ】\n※10月25日（日）の月華祭のパレードおよび豊年祭（天神豊年祭・大名豊年祭・警固豊年祭）は、台風の接近に伴い、安全を考慮して中止することとなりました。なお、13時からのセレモニーは警固神社社務所ビル5階で執り行います。※「秋の夜祭」は延期となりました（日程は現在未定）。日程は決まり次第、警固神社公式Instagram等で案内されます...",
+   "when_ja": "・福岡まつり月華祭 2026年10月25日（日曜日） 13時～：セレモニー（警固公園）（※セレモニーの会場は「警固神社社務所ビル5階」に変更となりました。） 13時30分～：月華祭パレード（※パレードは中止となりました） ・警固神社 秋の夜祭（※秋の夜祭は延期となりました） 2026年10月24日（土曜日）～ 10月25日（日曜日） 17時～20時",
+   "venue_ja": "",
+   "city_ja": "福岡市",
+   "region": "kyushu",
+   "area": "fukuoka",
+   "start": "2026-10-25",
+   "end": "2026-10-25",
+   "category": "concerts",
+   "source": "https://yokanavi.com/events/274410",
+   "src_name": "Yokanavi (Fukuoka City official)",
+   "title": null,
+   "city": "FUKUOKA CITY",
+   "venue": "",
+   "time": null,
+   "price": null,
+   "description": "・福岡まつり月華祭 2026年10月25日（日曜日） 13時～：セレモニー（警固公園）（※セレモニーの会場は「警固神社社務所ビル5階」に変更となりました。） 13時30分～：月華祭パレード（※パレードは中止となりました） ・警固神社 秋の夜祭（※秋の夜祭は延期となりました） 2026年10月24日（土曜日）～ 10月25日（日曜日） 17時～20時"
+  },
+  {
+   "title_ja": "Japanese Tea Experience～日本茶体験～【ライオン広場】2026～福岡の緑茶文化を、味わい、遊び、感じる。",
+   "desc_ja": "Japanese Tea Experience　～日本茶体験～福岡の緑茶文化を、味わい、遊び、感じる。\n福岡は、海を越えて伝わった文化を受け入れ、暮らしの中で育んできたまち。お茶もまた、博多にゆかりの深い文化のひとつです。そんな博多とお茶の深い縁に触れながら、一服のお茶を通して、日本茶の魅力を楽しんでみませんか。\n【味わう。】出前茶寮日本茶と博多菓子のペアリング体験。福岡県内のお茶３種と福岡...",
+   "when_ja": "2026年10月25日（日曜日） 12時～18時",
+   "venue_ja": "",
+   "city_ja": "福岡市",
+   "region": "kyushu",
+   "area": "fukuoka",
+   "start": "2026-10-25",
+   "end": "2026-10-25",
+   "category": "family",
+   "source": "https://yokanavi.com/events/274549",
+   "src_name": "Yokanavi (Fukuoka City official)",
+   "title": null,
+   "city": "FUKUOKA CITY",
+   "venue": "",
+   "time": null,
+   "price": null,
+   "description": "2026年10月25日（日曜日） 12時～18時"
+  },
+  {
+   "title_ja": "米水津おさかなまつり",
+   "desc_ja": "",
+   "when_ja": "2026年10月25日（日）※雨天決行",
+   "venue_ja": "",
+   "city_ja": "佐伯市",
+   "region": "kyushu",
+   "area": "oita-other",
+   "start": "2026-10-25",
+   "end": "2026-10-25",
+   "category": "food",
+   "source": "https://www.visit-oita.jp/events/detail/14508",
+   "src_name": "Visit Oita (visit-oita.jp)",
+   "cancelled": false,
+   "title": null,
+   "city": "Saiki, Ōita",
+   "venue": "",
+   "time": null,
+   "price": null,
+   "description": "2026年10月25日（日）※雨天決行"
+  },
+  {
+   "title_ja": "大分空港「空の日イベント2026」",
+   "desc_ja": "",
+   "when_ja": "2026年10月25日（日）",
+   "venue_ja": "",
+   "city_ja": "国東市",
+   "region": "kyushu",
+   "area": "oita-other",
+   "start": "2026-10-25",
+   "end": "2026-10-25",
+   "category": "events",
+   "source": "https://www.visit-oita.jp/events/detail/14506",
+   "src_name": "Visit Oita (visit-oita.jp)",
+   "cancelled": false,
+   "title": null,
+   "city": "Kunisaki",
+   "venue": "",
+   "time": null,
+   "price": null,
+   "description": "2026年10月25日（日）"
+  },
+  {
+   "title_ja": "第39回 御嶽流神楽大会",
+   "desc_ja": "",
+   "when_ja": "2026年10月25日（日）",
+   "venue_ja": "",
+   "city_ja": "豊後大野市",
+   "region": "kyushu",
+   "area": "oita-other",
+   "start": "2026-10-25",
+   "end": "2026-10-25",
+   "category": "events",
+   "source": "https://www.visit-oita.jp/events/detail/14487",
+   "src_name": "Visit Oita (visit-oita.jp)",
+   "cancelled": false,
+   "title": null,
+   "city": "豊後大野市",
+   "venue": "",
+   "time": null,
+   "price": null,
+   "description": "2026年10月25日（日）"
   },
   {
    "title": "Book your Dive Session with Kadena Marina!",
@@ -1657,7 +2384,8 @@
     "Marina"
    ],
    "source": "https://kadenafss.com/event/book-your-dive-session-with-kadena-marina/2026-10-25",
-   "src_name": "Kadena FSS (kadenafss.com)"
+   "src_name": "Kadena FSS (kadenafss.com)",
+   "region": "okinawa"
   },
   {
    "title": "Trolling with Taka",
@@ -1675,7 +2403,8 @@
     "Marina"
    ],
    "source": "https://kadenafss.com/event/trolling-with-taka/2026-10-25",
-   "src_name": "Kadena FSS (kadenafss.com)"
+   "src_name": "Kadena FSS (kadenafss.com)",
+   "region": "okinawa"
   },
   {
    "title_ja": "第38回 コザ名物 毛遊びコンサート（主催：比謝川をそ生させる会・㈱ラジオ沖縄）",
@@ -1693,7 +2422,8 @@
    "city": "Okinawa",
    "time": null,
    "description": "2026年10月26日(月)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title": "Power Hour",
@@ -1711,7 +2441,8 @@
     "Teen Center"
    ],
    "source": "https://kadenafss.com/event/power-hour-2/2026-10-26",
-   "src_name": "Kadena FSS (kadenafss.com)"
+   "src_name": "Kadena FSS (kadenafss.com)",
+   "region": "okinawa"
   },
   {
    "title": "Salsa Night",
@@ -1730,7 +2461,8 @@
     "The Rocker"
    ],
    "source": "https://kadenafss.com/event/salsa-night-2-2/2026-10-26",
-   "src_name": "Kadena FSS (kadenafss.com)"
+   "src_name": "Kadena FSS (kadenafss.com)",
+   "region": "okinawa"
   },
   {
    "title_ja": "第8回世界のウチナーンチュ大会の開催日程のお知らせ",
@@ -1748,7 +2480,8 @@
    "city": "Naha-shi",
    "time": null,
    "description": "2026年10月27日(火)〜2026年10月31日(土)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "2026年10月27日 第3回 饒平名知健 個展 ～「永遠のまなざし」・紡いだ生の軌跡～",
@@ -1766,7 +2499,8 @@
    "city": "Naha-shi",
    "time": null,
    "description": "2026年10月27日(火)〜2026年11月1日(日)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title": "Post-Deployment Brief",
@@ -1784,7 +2518,8 @@
     "M&amp;FRC"
    ],
    "source": "https://kadenafss.com/event/post-deployment-brief/2026-10-27",
-   "src_name": "Kadena FSS (kadenafss.com)"
+   "src_name": "Kadena FSS (kadenafss.com)",
+   "region": "okinawa"
   },
   {
    "title": "New Parent Support Program Storytime",
@@ -1801,7 +2536,8 @@
     "Library"
    ],
    "source": "https://kadenafss.com/event/new-parent-support-program-storytime/2026-10-27",
-   "src_name": "Kadena FSS (kadenafss.com)"
+   "src_name": "Kadena FSS (kadenafss.com)",
+   "region": "okinawa"
   },
   {
    "title": "Power Hour",
@@ -1819,7 +2555,8 @@
     "Teen Center"
    ],
    "source": "https://kadenafss.com/event/power-hour-2/2026-10-27",
-   "src_name": "Kadena FSS (kadenafss.com)"
+   "src_name": "Kadena FSS (kadenafss.com)",
+   "region": "okinawa"
   },
   {
    "title": "Brick Club",
@@ -1837,7 +2574,8 @@
     "Library"
    ],
    "source": "https://kadenafss.com/event/brick-club/2026-10-27",
-   "src_name": "Kadena FSS (kadenafss.com)"
+   "src_name": "Kadena FSS (kadenafss.com)",
+   "region": "okinawa"
   },
   {
    "title": "KUMON (Math / Japanese)",
@@ -1855,7 +2593,8 @@
     "Shilling Community Center"
    ],
    "source": "https://kadenafss.com/event/kumon-math-japanese/2026-10-27",
-   "src_name": "Kadena FSS (kadenafss.com)"
+   "src_name": "Kadena FSS (kadenafss.com)",
+   "region": "okinawa"
   },
   {
    "title": "Ballroom and Salsa Dance Lessons",
@@ -1873,7 +2612,8 @@
     "Shilling Community Center"
    ],
    "source": "https://kadenafss.com/event/ballroom-and-salsa-dance-lessons-2/2026-10-27",
-   "src_name": "Kadena FSS (kadenafss.com)"
+   "src_name": "Kadena FSS (kadenafss.com)",
+   "region": "okinawa"
   },
   {
    "title": "Smartphone Trivia",
@@ -1891,7 +2631,8 @@
     "The Rocker"
    ],
    "source": "https://kadenafss.com/event/smartphone-trivia/2026-10-27",
-   "src_name": "Kadena FSS (kadenafss.com)"
+   "src_name": "Kadena FSS (kadenafss.com)",
+   "region": "okinawa"
   },
   {
    "title_ja": "沖縄芝居（喜劇）多言語ガイド付き定期公演｜那覇・県庁前駅徒歩3分・約60分",
@@ -1909,7 +2650,8 @@
    "city": "Naha-shi",
    "time": null,
    "description": "2026年10月28日(水)〜2027年3月25日(木)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "【10月28日･29日限定イベント】「秋の薬膳フレンチ」【ランチ・ディナー】",
@@ -1927,7 +2669,8 @@
    "city": "Naha-shi",
    "time": null,
    "description": "2026年10月28日(水)〜2026年10月29日(木)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title": "Department of Labor Employment Track",
@@ -1945,7 +2688,8 @@
     "M&amp;FRC"
    ],
    "source": "https://kadenafss.com/event/department-of-labor-employment-track/2026-10-28",
-   "src_name": "Kadena FSS (kadenafss.com)"
+   "src_name": "Kadena FSS (kadenafss.com)",
+   "region": "okinawa"
   },
   {
    "title": "MAD Warden Training",
@@ -1960,7 +2704,8 @@
    "category": "onbase",
    "tags": [],
    "source": "https://kadenafss.com/event/mad-warden-training/2026-10-28",
-   "src_name": "Kadena FSS (kadenafss.com)"
+   "src_name": "Kadena FSS (kadenafss.com)",
+   "region": "okinawa"
   },
   {
    "title": "Cycling & Snorkeling",
@@ -1978,7 +2723,8 @@
     "Outdoor Rec"
    ],
    "source": "https://kadenafss.com/event/cycling-snorkeling",
-   "src_name": "Kadena FSS (kadenafss.com)"
+   "src_name": "Kadena FSS (kadenafss.com)",
+   "region": "okinawa"
   },
   {
    "title": "EFMP 101",
@@ -1996,7 +2742,8 @@
     "M&amp;FRC"
    ],
    "source": "https://kadenafss.com/event/efmp-101",
-   "src_name": "Kadena FSS (kadenafss.com)"
+   "src_name": "Kadena FSS (kadenafss.com)",
+   "region": "okinawa"
   },
   {
    "title": "Power Hour",
@@ -2014,7 +2761,8 @@
     "Teen Center"
    ],
    "source": "https://kadenafss.com/event/power-hour-2/2026-10-28",
-   "src_name": "Kadena FSS (kadenafss.com)"
+   "src_name": "Kadena FSS (kadenafss.com)",
+   "region": "okinawa"
   },
   {
    "title": "Kids Night Special",
@@ -2033,7 +2781,8 @@
     "The Rocker"
    ],
    "source": "https://kadenafss.com/event/kids-night-special/2026-10-28",
-   "src_name": "Kadena FSS (kadenafss.com)"
+   "src_name": "Kadena FSS (kadenafss.com)",
+   "region": "okinawa"
   },
   {
    "title": "Country Line Dancing",
@@ -2052,7 +2801,28 @@
     "The Rocker"
    ],
    "source": "https://kadenafss.com/event/country-line-dancing-2-2-2/2026-10-28",
-   "src_name": "Kadena FSS (kadenafss.com)"
+   "src_name": "Kadena FSS (kadenafss.com)",
+   "region": "okinawa"
+  },
+  {
+   "title_ja": "第拾弐界博多人形妖怪展【はかた伝統工芸館】2026年　～ライトアップウォーク期間中に妖怪が大集合～",
+   "desc_ja": "毎年人気の「博多人形妖怪展」が今年は秋に開催！\n博多旧市街ライトアップウォーク期間中は、21時まで開館！\nはかた伝統工芸館では10月29日（木曜日）～11月3日（火曜日・祝日）まで、「第拾弐界博多人形妖怪展」を開催します。\nはかた伝統工芸館の夏のイベントとして毎年人気の「博多人形妖怪展」は今回で12回目となります。今年は博多の町がライトアップウォークで賑わう秋の期間に開催となり、10月31日...",
+   "when_ja": "2026年10月29日（木曜日）～11月3日（火曜日・祝日） 10時～18時（入館は17時30分） ※博多旧市街ライトアップウォーク期間中（10月31日～11月3日）は21時まで開館",
+   "venue_ja": "",
+   "city_ja": "福岡市",
+   "region": "kyushu",
+   "area": "fukuoka",
+   "start": "2026-10-29",
+   "end": "2026-11-03",
+   "category": "concerts",
+   "source": "https://yokanavi.com/events/274559",
+   "src_name": "Yokanavi (Fukuoka City official)",
+   "title": null,
+   "city": "FUKUOKA CITY",
+   "venue": "",
+   "time": null,
+   "price": null,
+   "description": "2026年10月29日（木曜日）～11月3日（火曜日・祝日） 10時～18時（入館は17時30分） ※博多旧市街ライトアップウォーク期間中（10月31日～11月3日）は21時まで開館"
   },
   {
    "title": "Power Hour",
@@ -2070,7 +2840,8 @@
     "Teen Center"
    ],
    "source": "https://kadenafss.com/event/power-hour-2/2026-10-29",
-   "src_name": "Kadena FSS (kadenafss.com)"
+   "src_name": "Kadena FSS (kadenafss.com)",
+   "region": "okinawa"
   },
   {
    "title": "STEM Science",
@@ -2088,7 +2859,8 @@
     "Shilling Community Center"
    ],
    "source": "https://kadenafss.com/event/stem-science-2/2026-10-29",
-   "src_name": "Kadena FSS (kadenafss.com)"
+   "src_name": "Kadena FSS (kadenafss.com)",
+   "region": "okinawa"
   },
   {
    "title": "Mongolian BBQ Night",
@@ -2106,7 +2878,8 @@
     "Kazoku"
    ],
    "source": "https://kadenafss.com/event/mongolian-bbq-night-2/2026-10-29",
-   "src_name": "Kadena FSS (kadenafss.com)"
+   "src_name": "Kadena FSS (kadenafss.com)",
+   "region": "okinawa"
   },
   {
    "title": "Drive-By Dinners",
@@ -2125,7 +2898,8 @@
     "The Rocker"
    ],
    "source": "https://kadenafss.com/event/drive-by-dinners-2/2026-10-29",
-   "src_name": "Kadena FSS (kadenafss.com)"
+   "src_name": "Kadena FSS (kadenafss.com)",
+   "region": "okinawa"
   },
   {
    "title": "Karaoke",
@@ -2144,7 +2918,8 @@
     "The Rocker"
    ],
    "source": "https://kadenafss.com/event/karaoke-2-2-2/2026-10-29",
-   "src_name": "Kadena FSS (kadenafss.com)"
+   "src_name": "Kadena FSS (kadenafss.com)",
+   "region": "okinawa"
   },
   {
    "title_ja": "カフーナ旭橋ハロウィン2026フライヤー完成しました♩　　＼カフーナ旭橋ハロウィン2026開催決定！／",
@@ -2162,7 +2937,48 @@
    "city": "Naha-shi",
    "time": null,
    "description": "2026年10月30日(金)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
+  },
+  {
+   "title_ja": "夜の中洲が江戸にタイムスリップ。花魁道中も楽しめる「第51回 中洲まつり」",
+   "desc_ja": "福岡を代表する歓楽街・中洲が、年に一度の祭り一色に染まる「中洲まつり」が10月30日・31日に開催されます。第51回の今年は大抽選会が復活し、特等は10万円分の旅行券です。\n最大の見どころは、中洲大通りが江戸時代の街並みに変わる「花魁道中」(31日)。博多川では、花魁を乗せた舟での川下りも楽しめます。通りには18時頃から飲食ワゴンが並び、老舗の特別メニューも登場。\n五丁目ステージの和太鼓演奏...",
+   "when_ja": "2026年10月30日（金曜日）・31日（土曜日）18時頃〜 ※はしご酒大会は10月29日（木曜日）",
+   "venue_ja": "",
+   "city_ja": "福岡市",
+   "region": "kyushu",
+   "area": "fukuoka",
+   "start": "2026-10-30",
+   "end": "2026-10-29",
+   "category": "concerts",
+   "source": "https://yokanavi.com/events/274556",
+   "src_name": "Yokanavi (Fukuoka City official)",
+   "title": null,
+   "city": "FUKUOKA CITY",
+   "venue": "",
+   "time": null,
+   "price": null,
+   "description": "2026年10月30日（金曜日）・31日（土曜日）18時頃〜 ※はしご酒大会は10月29日（木曜日）"
+  },
+  {
+   "title_ja": "『チームラボ 福岡城跡 光ノ祭』、10月30日(金)から7年ぶりに開催。～作品紹介・チケット・イベントスケジュール。",
+   "desc_ja": "チームラボは、福岡・舞鶴公園の福岡城跡にて、7年ぶり3回目となる夜の野外アート展『 チームラボ 福岡城跡 光ノ祭 2026-2027 』を開催します。会期は、2026年10月30日（金曜日）から2027年1月11日（月曜日・祝日）まで。\n福岡城は、1601年から7年の歳月をかけて築かれた、城の規模としては九州一の巨城です。本丸・二の丸・三の丸などの中心部は総石垣造りで、別名、石城とも呼ばれて...",
+   "when_ja": "2026年10月30日（金曜日）～2027年1月11日（月曜日・祝日） 開催時間： 2026年10月30日（金曜日）～11月6日（金曜日） 18:30～22:00 2026年11月7日（土曜日）～12月31日（木曜日）18:15～22:00 2027年1月1日（金曜日）～1月11日（月曜日・祝日）18:30～22:00",
+   "venue_ja": "",
+   "city_ja": "福岡市",
+   "region": "kyushu",
+   "area": "fukuoka",
+   "start": "2026-10-30",
+   "end": "2027-01-11",
+   "category": "events",
+   "source": "https://yokanavi.com/events/274536",
+   "src_name": "Yokanavi (Fukuoka City official)",
+   "title": null,
+   "city": "FUKUOKA CITY",
+   "venue": "",
+   "time": null,
+   "price": null,
+   "description": "2026年10月30日（金曜日）～2027年1月11日（月曜日・祝日） 開催時間： 2026年10月30日（金曜日）～11月6日（金曜日） 18:30～22:00 2026年11月7日（土曜日）～12月31日（木曜日）18:15～22:00 2027年1月1日（金曜日）～1月11日（月曜日・祝日）18:30～22:00"
   },
   {
    "title": "Power Boat Safety Classes",
@@ -2180,7 +2996,8 @@
     "Marina"
    ],
    "source": "https://kadenafss.com/event/power-boat-safety-classes-2-2/2026-10-30",
-   "src_name": "Kadena FSS (kadenafss.com)"
+   "src_name": "Kadena FSS (kadenafss.com)",
+   "region": "okinawa"
   },
   {
    "title": "Rock and Country Music",
@@ -2199,7 +3016,8 @@
     "The Rocker"
    ],
    "source": "https://kadenafss.com/event/rock-and-country-music/2026-10-30",
-   "src_name": "Kadena FSS (kadenafss.com)"
+   "src_name": "Kadena FSS (kadenafss.com)",
+   "region": "okinawa"
   },
   {
    "title": "Jet Ski Training Course",
@@ -2217,7 +3035,8 @@
     "Marina"
    ],
    "source": "https://kadenafss.com/event/jet-ski-training-course-2/2026-10-30",
-   "src_name": "Kadena FSS (kadenafss.com)"
+   "src_name": "Kadena FSS (kadenafss.com)",
+   "region": "okinawa"
   },
   {
    "title": "Trolling with Taka",
@@ -2235,7 +3054,8 @@
     "Marina"
    ],
    "source": "https://kadenafss.com/event/trolling-with-taka/2026-10-30",
-   "src_name": "Kadena FSS (kadenafss.com)"
+   "src_name": "Kadena FSS (kadenafss.com)",
+   "region": "okinawa"
   },
   {
    "title": "Not So Spooky Halloween",
@@ -2252,7 +3072,8 @@
     "Library"
    ],
    "source": "https://kadenafss.com/event/not-so-spooky-halloween",
-   "src_name": "Kadena FSS (kadenafss.com)"
+   "src_name": "Kadena FSS (kadenafss.com)",
+   "region": "okinawa"
   },
   {
    "title": "Language Exchange ランゲージエクスチェンジ!!",
@@ -2270,7 +3091,8 @@
     "M&amp;FRC"
    ],
    "source": "https://kadenafss.com/event/language-exchange-%e3%83%a9%e3%83%b3%e3%82%b2%e3%83%bc%e3%82%b8%e3%82%a8%e3%82%af%e3%82%b9%e3%83%81%e3%82%a7%e3%83%b3%e3%82%b8/2026-10-30",
-   "src_name": "Kadena FSS (kadenafss.com)"
+   "src_name": "Kadena FSS (kadenafss.com)",
+   "region": "okinawa"
   },
   {
    "title": "Power Hour",
@@ -2288,7 +3110,8 @@
     "Teen Center"
    ],
    "source": "https://kadenafss.com/event/power-hour-2/2026-10-30",
-   "src_name": "Kadena FSS (kadenafss.com)"
+   "src_name": "Kadena FSS (kadenafss.com)",
+   "region": "okinawa"
   },
   {
    "title": "Camping at the Marina",
@@ -2306,7 +3129,8 @@
     "Outdoor Rec"
    ],
    "source": "https://kadenafss.com/event/camping-at-the-marina",
-   "src_name": "Kadena FSS (kadenafss.com)"
+   "src_name": "Kadena FSS (kadenafss.com)",
+   "region": "okinawa"
   },
   {
    "title": "KUMON (Math / Japanese)",
@@ -2324,7 +3148,8 @@
     "Shilling Community Center"
    ],
    "source": "https://kadenafss.com/event/kumon-math-japanese/2026-10-30",
-   "src_name": "Kadena FSS (kadenafss.com)"
+   "src_name": "Kadena FSS (kadenafss.com)",
+   "region": "okinawa"
   },
   {
    "title": "Membership Appreciation Day",
@@ -2342,7 +3167,8 @@
     "Youth Center"
    ],
    "source": "https://kadenafss.com/event/membership-appreciation-day",
-   "src_name": "Kadena FSS (kadenafss.com)"
+   "src_name": "Kadena FSS (kadenafss.com)",
+   "region": "okinawa"
   },
   {
    "title": "Halloween Movie Night",
@@ -2360,7 +3186,8 @@
     "Outdoor Rec"
    ],
    "source": "https://kadenafss.com/event/halloween-movie-night",
-   "src_name": "Kadena FSS (kadenafss.com)"
+   "src_name": "Kadena FSS (kadenafss.com)",
+   "region": "okinawa"
   },
   {
    "title": "Weekly Friday Social Hour",
@@ -2378,7 +3205,8 @@
     "The Rocker"
    ],
    "source": "https://kadenafss.com/event/weekly-friday-social-hour/2026-10-30",
-   "src_name": "Kadena FSS (kadenafss.com)"
+   "src_name": "Kadena FSS (kadenafss.com)",
+   "region": "okinawa"
   },
   {
    "title": "Kid’s Halloween Bash",
@@ -2396,7 +3224,8 @@
     "Fun Events"
    ],
    "source": "https://kadenafss.com/event/kids-halloween-bash",
-   "src_name": "Kadena FSS (kadenafss.com)"
+   "src_name": "Kadena FSS (kadenafss.com)",
+   "region": "okinawa"
   },
   {
    "title": "Halloween Night Golf",
@@ -2414,7 +3243,8 @@
     "Fun Events"
    ],
    "source": "https://kadenafss.com/event/halloween-night-golf",
-   "src_name": "Kadena FSS (kadenafss.com)"
+   "src_name": "Kadena FSS (kadenafss.com)",
+   "region": "okinawa"
   },
   {
    "title_ja": "1031_鳥取戦 - FC琉球",
@@ -2432,7 +3262,8 @@
    "city": "Okinawa",
    "time": null,
    "description": "2026年10月31日(土)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "羽地ハロウィンフェス",
@@ -2450,7 +3281,8 @@
    "city": "Nago City",
    "time": null,
    "description": "2026年10月31日(土)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "（1020更新）はえばる2026ふるさと博覧会について【Topページ】　第23回はえばる2026ふるさと博覧会　第18回福祉まつり・第31回児童館まつり",
@@ -2468,7 +3300,8 @@
    "city": "Haebaru, Okinawa",
    "time": null,
    "description": "2026年10月31日(土)〜2026年11月1日(日)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "海辺のやちむん市",
@@ -2486,7 +3319,8 @@
    "city": "Yomitan Village",
    "time": null,
    "description": "2026年10月31日(土)〜2026年11月23日(月)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "2026年10月31日（土）・11月1日（日） 『第9回ガクアルFESTA高文連軽音楽コンテスト』 （第50回沖縄県高等学校総合文化祭軽音楽部門） をうるま市きむたかホール（入場無料）で開催！",
@@ -2504,7 +3338,8 @@
    "city": "Uruma City",
    "time": null,
    "description": "2026年10月31日(土)〜2026年11月1日(日)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "ハロウィンフェスティバル",
@@ -2522,7 +3357,8 @@
    "city": "Tomigusuku City",
    "time": null,
    "description": "2026年10月31日(土)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "【HALLOWEEN EVENT】「トリック・オア・トリート！」で焼きマシュマロをもらおう–10月31日（土）",
@@ -2540,7 +3376,8 @@
    "city": "Nago City",
    "time": null,
    "description": "2026年10月31日(土)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "第21回 壺屋やちむん通り祭り",
@@ -2558,7 +3395,8 @@
    "city": "Naha-shi",
    "time": null,
    "description": "2026年10月31日(土)〜2026年11月1日(日)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "令和８年度沖縄空手アカデミー",
@@ -2576,7 +3414,8 @@
    "city": "Tomigusuku City",
    "time": null,
    "description": "2026年10月31日(土)〜2027年1月23日(土)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "沖縄の工芸が集う2日間  〜 Pottery Festival in Gala Aoiumi 〜  『第21回 読谷やちむんと工芸市』",
@@ -2594,7 +3433,8 @@
    "city": "Yomitan Village",
    "time": null,
    "description": "2026年10月31日(土)〜2026年11月1日(日)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "【宝くじ公演】TEAMパフォーマンスラボ×ガチャピン・ムックのサーカスエコロジカルについて",
@@ -2612,7 +3452,8 @@
    "city": "Yomitan Village",
    "time": null,
    "description": "2026年10月31日(土)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "和田信一 山里静香 みぃとぅ二人会",
@@ -2630,7 +3471,8 @@
    "city": "Urasoe City",
    "time": null,
    "description": "2026年10月31日(土)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "マブイオト17",
@@ -2648,7 +3490,255 @@
    "city": "Nanjō, Okinawa",
    "time": null,
    "description": "2026年10月31日(土)〜2026年11月1日(日)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
+  },
+  {
+   "title_ja": "「トリフェス2026」今年も開催！～鳥飼八幡宮のグルメな秋まつり～【鳥飼八幡宮】",
+   "desc_ja": "今年もやります秋の神社フェス開催決定！\n創建約1,800年の名社が、秋まつり一色となる2DAYS！\n2023年に初開催した「鳥飼八幡宮秋祭りトリフェス」、2024年2025年に続いて4回目の開催が決定！話題のグルメが境内に集結するほか、縁日やワークショップなどお楽しみアレコレ♪ 一昨年、昨年と大好評だった、マジシャンSHUによる前代未聞のマジックテントもワンコイン（500円）で出現します。\n...",
+   "when_ja": "2026年10月31日（土曜日）、11月1日（日曜日） 9時30分～16時（雨天決行・荒天中止）",
+   "venue_ja": "",
+   "city_ja": "福岡市",
+   "region": "kyushu",
+   "area": "fukuoka",
+   "start": "2026-10-31",
+   "end": "2026-11-01",
+   "category": "concerts",
+   "source": "https://yokanavi.com/events/255753",
+   "src_name": "Yokanavi (Fukuoka City official)",
+   "title": null,
+   "city": "FUKUOKA CITY",
+   "venue": "",
+   "time": null,
+   "price": null,
+   "description": "2026年10月31日（土曜日）、11月1日（日曜日） 9時30分～16時（雨天決行・荒天中止）"
+  },
+  {
+   "title_ja": "九州爬虫類フェス 2026 Autumn【マリンメッセ福岡B館】～福岡で開催される九州最大級の爬虫類の祭典！",
+   "desc_ja": "今秋も開催！爬虫類の祭典『九州爬虫類フェス』！\n≪観て、触って、聞いて、買える！マリンメッセ福岡に多彩な爬虫類が大集合！≫\n福岡博多にて爬虫類・両生類の展示即売イベント『九州爬虫類フェス』が開催されます！日本全国から一流のショップが集い、図鑑でしか見ることができないような世界中の素敵な生き物(ヘビ・カメ・トカゲ・カメレオン・ヤモリ・カエル等々)が並びます。飼育が容易な種類から、動物園で出会う...",
+   "when_ja": "2026年10月31日（土曜日）～11月1日（日曜日） 10時～17時　※11月1日（日曜日）は16時30分終了。最終入場は各日閉場の30分前。",
+   "venue_ja": "",
+   "city_ja": "福岡市",
+   "region": "kyushu",
+   "area": "fukuoka",
+   "start": "2026-10-31",
+   "end": "2026-11-01",
+   "category": "food",
+   "source": "https://yokanavi.com/events/268229",
+   "src_name": "Yokanavi (Fukuoka City official)",
+   "title": null,
+   "city": "FUKUOKA CITY",
+   "venue": "",
+   "time": null,
+   "price": null,
+   "description": "2026年10月31日（土曜日）～11月1日（日曜日） 10時～17時　※11月1日（日曜日）は16時30分終了。最終入場は各日閉場の30分前。"
+  },
+  {
+   "title_ja": "博多旧市街 ライトアップウォーク 千年煌夜 2026【博多旧市街エリア内】 ～今年のライティングテーマ・注目イベント・日程・会場～",
+   "desc_ja": "今年も、博多の秋の風物詩「博多旧市街ライトアップウォーク」 を開催します！\n今年のライティングテーマは「STARS‐悠久の時を巡り、未来を照らす光の星座‐」歴史あるお寺や庭園が、幻想的な光に包まれます。\n【有料会場】承天寺（方丈、開山堂）、東長寺、妙楽寺、永寿院、円覚寺、龍宮寺、本岳寺、善導寺、妙典寺、海元寺【無料会場】承天寺（仏殿）、櫛田神社（賑わい広場）、一行寺、博多千年門、葛城地蔵尊\n...",
+   "when_ja": "2026年10月31日（土曜日）～11月3日（火曜日・祝日） 17時30分～21時（入場は20時45分まで） ※呉服町エリアのみ17時30分～21時30分（入場は21時15分まで）",
+   "venue_ja": "",
+   "city_ja": "福岡市",
+   "region": "kyushu",
+   "area": "fukuoka",
+   "start": "2026-10-31",
+   "end": "2026-11-03",
+   "category": "concerts",
+   "source": "https://yokanavi.com/events/274390",
+   "src_name": "Yokanavi (Fukuoka City official)",
+   "title": null,
+   "city": "FUKUOKA CITY",
+   "venue": "",
+   "time": null,
+   "price": null,
+   "description": "2026年10月31日（土曜日）～11月3日（火曜日・祝日） 17時30分～21時（入場は20時45分まで） ※呉服町エリアのみ17時30分～21時30分（入場は21時15分まで）"
+  },
+  {
+   "title_ja": "櫛田神社の夜を音楽とお酒で彩る。「お櫛田フェス」",
+   "desc_ja": "博多の街を見守る神社として親しまれる櫛田神社の賑わい広場で、毎年恒例の「お櫛田ジャズ」がパワーアップした「お櫛田フェス」が開催されます。17時から21時まで、夜の境内でライブを聴きながらお酒と美味しい料理を楽しめます。\nステージは和楽器の演奏、落語と童謡、ジャズ、弦楽カルテットなど日替わり。各20分のステージが4回あるので、気軽に立ち寄れます。会場ではクラフトビールやワイン、日本酒の飲み比べ...",
+   "when_ja": "2026年10月31日（土曜日）〜11月3日（火曜日・祝日） 17時〜21時",
+   "venue_ja": "",
+   "city_ja": "福岡市",
+   "region": "kyushu",
+   "area": "fukuoka",
+   "start": "2026-10-31",
+   "end": "2026-11-03",
+   "category": "concerts",
+   "source": "https://yokanavi.com/events/274560",
+   "src_name": "Yokanavi (Fukuoka City official)",
+   "title": null,
+   "city": "FUKUOKA CITY",
+   "venue": "",
+   "time": null,
+   "price": null,
+   "description": "2026年10月31日（土曜日）〜11月3日（火曜日・祝日） 17時〜21時"
+  },
+  {
+   "title_ja": "ライトアップの境内で、うどん・そば発祥の地を味わう。「承天寺夜市」",
+   "desc_ja": "うどん・そば・饅頭などの粉食文化や博多織の発祥地とされる承天寺で、夜市が開催されます。承天寺は博多の食文化と織物文化を語るうえで欠かせない場所です。\nライトアップされた夜の境内は、昼とは違う静かで幻想的な雰囲気に包まれます。会場では、うどんやそば、ぜんざいなどの温かい味わいが振る舞われ、博多織の販売もあり、旅の記念になります。今年は仏殿前の境内に休憩スペースが設けられているので、ほっと一息つ...",
+   "when_ja": "2026年10月31日（土曜日）〜11月3日（火曜日・祝日） 17時〜21時",
+   "venue_ja": "",
+   "city_ja": "福岡市",
+   "region": "kyushu",
+   "area": "fukuoka",
+   "start": "2026-10-31",
+   "end": "2026-11-03",
+   "category": "concerts",
+   "source": "https://yokanavi.com/events/274561",
+   "src_name": "Yokanavi (Fukuoka City official)",
+   "title": null,
+   "city": "FUKUOKA CITY",
+   "venue": "",
+   "time": null,
+   "price": null,
+   "description": "2026年10月31日（土曜日）〜11月3日（火曜日・祝日） 17時〜21時"
+  },
+  {
+   "title_ja": "日田イルミナージュ",
+   "desc_ja": "",
+   "when_ja": "2026年10月31日（土）～2027年1月31日（日）",
+   "venue_ja": "",
+   "city_ja": "日田市",
+   "region": "kyushu",
+   "area": "oita-other",
+   "start": "2026-10-31",
+   "end": "2027-01-31",
+   "category": "family",
+   "source": "https://www.visit-oita.jp/events/detail/14505",
+   "src_name": "Visit Oita (visit-oita.jp)",
+   "cancelled": false,
+   "title": null,
+   "city": "日田市",
+   "venue": "",
+   "time": null,
+   "price": null,
+   "description": "2026年10月31日（土）～2027年1月31日（日）"
+  },
+  {
+   "title_ja": "おおいた夢色音楽祭2026",
+   "desc_ja": "",
+   "when_ja": "2026年10月31日（土）、11月1日（日）",
+   "venue_ja": "",
+   "city_ja": "大分市",
+   "region": "kyushu",
+   "area": "oita",
+   "start": "2026-10-31",
+   "end": "2026-11-01",
+   "category": "concerts",
+   "source": "https://www.visit-oita.jp/events/detail/14500",
+   "src_name": "Visit Oita (visit-oita.jp)",
+   "cancelled": false,
+   "title": null,
+   "city": "大分市",
+   "venue": "",
+   "time": null,
+   "price": null,
+   "description": "2026年10月31日（土）、11月1日（日）"
+  },
+  {
+   "title_ja": "九重“夢”大吊橋 20周年記念 秋の大感謝祭",
+   "desc_ja": "",
+   "when_ja": "2026年10月31日（土）～11月1日（日）※小雨決行／雨天中止",
+   "venue_ja": "",
+   "city_ja": "九重町",
+   "region": "kyushu",
+   "area": "oita-other",
+   "start": "2026-10-31",
+   "end": "2026-11-01",
+   "category": "events",
+   "source": "https://www.visit-oita.jp/events/detail/14494",
+   "src_name": "Visit Oita (visit-oita.jp)",
+   "cancelled": true,
+   "title": null,
+   "city": "九重町",
+   "venue": "",
+   "time": null,
+   "price": null,
+   "description": "2026年10月31日（土）～11月1日（日）※小雨決行／雨天中止"
+  },
+  {
+   "title_ja": "マーチング・カーニバルin別府2026",
+   "desc_ja": "",
+   "when_ja": "2026年10月31日（土）、11月1日（日） ●10/31（土）：マーチングパレード、東京ディズニーリゾート® スペシャルパレード、前夜祭、ダッフィーバス展示 ●11/1（日）：マーチングフェスタ",
+   "venue_ja": "",
+   "city_ja": "別府市",
+   "region": "kyushu",
+   "area": "beppu",
+   "start": "2026-10-31",
+   "end": "2026-11-01",
+   "category": "events",
+   "source": "https://www.visit-oita.jp/events/detail/14493",
+   "src_name": "Visit Oita (visit-oita.jp)",
+   "cancelled": false,
+   "title": null,
+   "city": "Beppu, Ōita",
+   "venue": "",
+   "time": null,
+   "price": null,
+   "description": "2026年10月31日（土）、11月1日（日） ●10/31（土）：マーチングパレード、東京ディズニーリゾート® スペシャルパレード、前夜祭、ダッフィーバス展示 ●11/1（日）：マーチングフェスタ"
+  },
+  {
+   "title_ja": "つくみ秋フェスタ’26（第44回 津久見市ふるさと振興祭・第31回 つくみ“活き粋き”フェア）",
+   "desc_ja": "",
+   "when_ja": "2026年10月31日（土）",
+   "venue_ja": "",
+   "city_ja": "津久見市",
+   "region": "kyushu",
+   "area": "oita-other",
+   "start": "2026-10-31",
+   "end": "2026-10-31",
+   "category": "food",
+   "source": "https://www.visit-oita.jp/events/detail/14480",
+   "src_name": "Visit Oita (visit-oita.jp)",
+   "cancelled": false,
+   "title": null,
+   "city": "津久見市",
+   "venue": "",
+   "time": null,
+   "price": null,
+   "description": "2026年10月31日（土）"
+  },
+  {
+   "title_ja": "喜多流 竹田薪能",
+   "desc_ja": "",
+   "when_ja": "2026年10月31日（土）",
+   "venue_ja": "",
+   "city_ja": "竹田市",
+   "region": "kyushu",
+   "area": "oita-other",
+   "start": "2026-10-31",
+   "end": "2026-10-31",
+   "category": "events",
+   "source": "https://www.visit-oita.jp/events/detail/14479",
+   "src_name": "Visit Oita (visit-oita.jp)",
+   "cancelled": false,
+   "title": null,
+   "city": "Takeda-shi",
+   "venue": "",
+   "time": null,
+   "price": null,
+   "description": "2026年10月31日（土）"
+  },
+  {
+   "title_ja": "2026年 TAOの丘 秋の感謝祭",
+   "desc_ja": "",
+   "when_ja": "2026年10月31日（土）〜11月4日（水）",
+   "venue_ja": "",
+   "city_ja": "竹田市",
+   "region": "kyushu",
+   "area": "oita-other",
+   "start": "2026-10-31",
+   "end": "2026-11-04",
+   "category": "events",
+   "source": "https://www.visit-oita.jp/events/detail/14478",
+   "src_name": "Visit Oita (visit-oita.jp)",
+   "cancelled": false,
+   "title": null,
+   "city": "Takeda-shi",
+   "venue": "",
+   "time": null,
+   "price": null,
+   "description": "2026年10月31日（土）〜11月4日（水）"
   },
   {
    "title": "Book your Dive Session with Kadena Marina!",
@@ -2666,7 +3756,8 @@
     "Marina"
    ],
    "source": "https://kadenafss.com/event/book-your-dive-session-with-kadena-marina/2026-10-31",
-   "src_name": "Kadena FSS (kadenafss.com)"
+   "src_name": "Kadena FSS (kadenafss.com)",
+   "region": "okinawa"
   },
   {
    "title": "Power Boat Safety Classes",
@@ -2684,7 +3775,8 @@
     "Marina"
    ],
    "source": "https://kadenafss.com/event/power-boat-safety-classes-2-2/2026-10-31",
-   "src_name": "Kadena FSS (kadenafss.com)"
+   "src_name": "Kadena FSS (kadenafss.com)",
+   "region": "okinawa"
   },
   {
    "title": "Trolling with Taka",
@@ -2702,7 +3794,8 @@
     "Marina"
    ],
    "source": "https://kadenafss.com/event/trolling-with-taka/2026-10-31",
-   "src_name": "Kadena FSS (kadenafss.com)"
+   "src_name": "Kadena FSS (kadenafss.com)",
+   "region": "okinawa"
   },
   {
    "title": "Japanese Flower Arrangement",
@@ -2720,7 +3813,8 @@
     "Shilling Community Center"
    ],
    "source": "https://kadenafss.com/event/japanese-flower-arrangement/2026-10-31",
-   "src_name": "Kadena FSS (kadenafss.com)"
+   "src_name": "Kadena FSS (kadenafss.com)",
+   "region": "okinawa"
   },
   {
    "title": "Halloween Archery Shoot",
@@ -2739,7 +3833,8 @@
     "Outdoor Rec"
    ],
    "source": "https://kadenafss.com/event/halloween-archery-shoot",
-   "src_name": "Kadena FSS (kadenafss.com)"
+   "src_name": "Kadena FSS (kadenafss.com)",
+   "region": "okinawa"
   },
   {
    "title": "Archery Practice",
@@ -2757,7 +3852,8 @@
     "Outdoor Rec"
    ],
    "source": "https://kadenafss.com/event/archery-practice-2/2026-10-31",
-   "src_name": "Kadena FSS (kadenafss.com)"
+   "src_name": "Kadena FSS (kadenafss.com)",
+   "region": "okinawa"
   },
   {
    "title_ja": "CHURA MIKU STREET 2026",
@@ -2775,7 +3871,8 @@
    "city": "Naha-shi",
    "time": null,
    "description": "2026年11月1日(日)〜2026年12月13日(日)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "チケット好評発売中！！【宝くじ公演】TEAMパフォーマンスラボ×ガチャピン・ムックのサーカスエコロジカル",
@@ -2793,7 +3890,8 @@
    "city": "Ginowan",
    "time": null,
    "description": "2026年11月1日(日)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "Blue Lagoon Christmas 2026　Blue Lagoonイルミネーション",
@@ -2811,7 +3909,8 @@
    "city": "Onna Village",
    "time": null,
    "description": "2026年11月1日(日)〜2027年2月28日(日)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "護佐丸歴史資料図書館10周年企画芸能上演会「中城村の十五夜～獅子舞と打花鼓～」",
@@ -2829,7 +3928,8 @@
    "city": "Nakagusuku Village",
    "time": null,
    "description": "2026年11月1日(日)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "沖縄こどもの国 秋の感謝祭 2026",
@@ -2847,7 +3947,8 @@
    "city": "Okinawa",
    "time": null,
    "description": "2026年11月1日(日)〜2026年11月30日(月)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "ゆめみらいフェス",
@@ -2865,7 +3966,8 @@
    "city": "Naha-shi",
    "time": null,
    "description": "2026年11月1日(日)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "よなばる水辺のマルシェ",
@@ -2883,7 +3985,8 @@
    "city": "Yonabaru Town",
    "time": null,
    "description": "2026年11月1日(日)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "雪と光に満ちたあの美しき街で。Winter Elegance",
@@ -2901,7 +4004,8 @@
    "city": "Tomigusuku City",
    "time": null,
    "description": "2026年11月1日(日)〜2027年2月14日(日)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "≪Las Luces Season 2026年11月～2027年2月イベント情報≫パティオイルミネーション",
@@ -2919,7 +4023,8 @@
    "city": "Yomitan Village",
    "time": null,
    "description": "2026年11月1日(日)〜2027年2月28日(日)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "Adventure Museum in Kanucha",
@@ -2937,7 +4042,8 @@
    "city": "Nago City",
    "time": null,
    "description": "2026年11月1日(日)〜2027年2月14日(日)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "南国リゾートを幻想的な光が包み込む「かりゆしドリームファンタジー」開催",
@@ -2955,7 +4061,8 @@
    "city": "Onna Village",
    "time": null,
    "description": "2026年11月1日(日)〜2027年2月28日(日)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "第15回 沖芸連の日 「首里城復興 前祝いさびら」",
@@ -2973,7 +4080,8 @@
    "city": "Urasoe City",
    "time": null,
    "description": "2026年11月1日(日)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "EVENT「沖縄の冬の星空とサードプレイス 焚火ラウンジ」焚火を囲んで過ごす 冬の沖縄",
@@ -2991,7 +4099,8 @@
    "city": "Nago City",
    "time": null,
    "description": "2026年11月1日(日)〜2026年12月31日(木)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "2026年 地域コミュニティ活性化まつり　第14回　美ら里まつり",
@@ -3009,7 +4118,8 @@
    "city": "Okinawa",
    "time": null,
    "description": "2026年11月1日(日)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "「令和 8 年度 首里城復興祭」 （11/1～11/3）",
@@ -3027,7 +4137,8 @@
    "city": "Naha-shi",
    "time": null,
    "description": "2026年11月1日(日)〜2026年11月3日(火)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "第23回 琉球国王 尚巴志ハーフマラソンin南城市大会",
@@ -3045,7 +4156,28 @@
    "city": "Nanjō, Okinawa",
    "time": null,
    "description": "2026年11月1日(日)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
+  },
+  {
+   "title_ja": "福マルシェ＠アイランドシティ2026年11月1日開催！【照葉積水ハウスアリーナ東側会場（東区香椎照葉）】　～芝生で楽しむ週末ピクニック！今が “旬” な農産物・グルメ・スイーツなどが大集合！",
+   "desc_ja": "福マルシェ＠アイランドシティ開催！子どもから大人まで楽しめる「週末ピクニック」！\n会場には今が “旬” な農産物・グルメ・スイーツなど約30店舗が大集合！\n福マルシェ＠アイランドシティが2026年11月1日（日曜日）、照葉積水ハウスアリーナ東側会場で開催されます！\n今回も「農産物・グルメ・スイーツ」の食のお楽しみはもちろん、「レジャーシートプレゼント」や「わなげゲーム（無料）」など、子どもか...",
+   "when_ja": "2026年11月1日（日曜日） 10時～14時30分 ※小雨決行・荒天中止",
+   "venue_ja": "",
+   "city_ja": "福岡市",
+   "region": "kyushu",
+   "area": "fukuoka",
+   "start": "2026-11-01",
+   "end": "2026-11-01",
+   "category": "concerts",
+   "source": "https://yokanavi.com/events/274306",
+   "src_name": "Yokanavi (Fukuoka City official)",
+   "title": null,
+   "city": "FUKUOKA CITY",
+   "venue": "",
+   "time": null,
+   "price": null,
+   "description": "2026年11月1日（日曜日） 10時～14時30分 ※小雨決行・荒天中止"
   },
   {
    "title_ja": "1103_岐阜戦 - FC琉球",
@@ -3063,7 +4195,8 @@
    "city": "Okinawa",
    "time": null,
    "description": "2026年11月3日(火)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "企画展【伊波メンサー～織に込められた想い～】",
@@ -3081,7 +4214,8 @@
    "city": "Uruma City",
    "time": null,
    "description": "2026年11月3日(火)〜2027年2月28日(日)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "2026年11月03日 第４回あじ彩の会 絵画展 ～秋うらら　心に彩りを～",
@@ -3099,7 +4233,8 @@
    "city": "Naha-shi",
    "time": null,
    "description": "2026年11月3日(火)〜2026年11月8日(日)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "2026年11月03日 仲間智登志の世界 〜木彫展〜",
@@ -3117,7 +4252,8 @@
    "city": "Naha-shi",
    "time": null,
    "description": "2026年11月3日(火)〜2026年11月8日(日)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "中学生・高校生が主役！！ 首里城復興記念企画『首里の鼓動』を2026年11月3日(火・祝)に沖縄・くくる糸満で開催決定！！",
@@ -3135,7 +4271,8 @@
    "city": "Itoman, Okinawa",
    "time": null,
    "description": "2026年11月3日(火)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "島ヤギの赤ちゃん名前投票＆命名式",
@@ -3153,7 +4290,28 @@
    "city": "Okinawa",
    "time": null,
    "description": "2026年11月3日(火)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
+  },
+  {
+   "title_ja": "イルカ55周年コンサート　～あいのたね❤まこう！～ 【キャナルシティ クラフィティア劇場】2026年",
+   "desc_ja": "イルカ55周年を記念したコンサート！\nバンド編成ツアーでダイナミックにイルカの世界をお届けします！\n今年2026年は、イルカがカメ吉君と共にシュリークスとして1971年にデビューしてから、いよいよ55年目を迎えます！そのイルカ55周年を記念して2026年5月からスタートしたコンサート「イルカ 55周年コンサート ～あいのたね❤まこう！～」がいよいよキャナルシティクラフィティア劇場で開催されま...",
+   "when_ja": "2026年11月3日（火曜日・祝日） 開場：16時30分／開演：17時",
+   "venue_ja": "",
+   "city_ja": "福岡市",
+   "region": "kyushu",
+   "area": "fukuoka",
+   "start": "2026-11-03",
+   "end": "2026-11-03",
+   "category": "concerts",
+   "source": "https://yokanavi.com/events/274555",
+   "src_name": "Yokanavi (Fukuoka City official)",
+   "title": null,
+   "city": "FUKUOKA CITY",
+   "venue": "",
+   "time": null,
+   "price": null,
+   "description": "2026年11月3日（火曜日・祝日） 開場：16時30分／開演：17時"
   },
   {
    "title_ja": "「クリスマスを、1日で終わらせない」 約2カ月間にわたる「フェスティブシーズン2026」開催 〜ブッフェ、アフタヌーンティー、鉄板焼、音楽、宿泊まで多彩な体験を展開〜",
@@ -3171,7 +4329,8 @@
    "city": "Naha-shi",
    "time": null,
    "description": "2026年11月4日(水)〜2026年12月25日(金)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "ちゃんぷる～フェスティバル2026秋",
@@ -3189,7 +4348,8 @@
    "city": "Naha-shi",
    "time": null,
    "description": "2026年11月6日(金)〜2026年11月8日(日)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "なはーとジャズジャズマンス　沖縄ジャズ×アジア　関連イベント",
@@ -3207,7 +4367,8 @@
    "city": "Naha-shi",
    "time": null,
    "description": "2026年11月6日(金)〜2026年11月28日(土)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "琉球CRIT in 北谷2026 supported by SMC開催決定‼",
@@ -3225,7 +4386,8 @@
    "city": "Chatan, Okinawa",
    "time": null,
    "description": "2026年11月7日(土)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "琉球/バインミー/人形 〜コムゴンで味わう琉球人形とベトナムのお土産品〜（Ryukyu / Bánh mì / Búp bê - Thưởng lãm búp bê Ryukyu và quà lưu niệm Việt Nam tại Cơm Ngon）",
@@ -3243,7 +4405,8 @@
    "city": "Naha-shi",
    "time": null,
    "description": "2026年11月7日(土)〜2026年12月6日(日)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "令和8年度 星空観察会 ※要事前申込（主催：沖縄県地域環境センター）",
@@ -3261,7 +4424,8 @@
    "city": "Itoman, Okinawa",
    "time": null,
    "description": "2026年11月7日(土)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "【緊急開催 11/7(土)】ディスコナイトフィーバー 2026 Vol.3 開催！スペシャルゲスト「DJ TA-SHI」登場",
@@ -3279,7 +4443,8 @@
    "city": "Naha-shi",
    "time": null,
    "description": "2026年11月7日(土)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "OIST創立15周年記念コンサート",
@@ -3297,7 +4462,8 @@
    "city": "Onna Village",
    "time": null,
    "description": "2026年11月7日(土)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "2026中城村ロゲイニング大会「なかぐすくトレジャーウォーク」",
@@ -3315,7 +4481,8 @@
    "city": "Nakagusuku Village",
    "time": null,
    "description": "2026年11月7日(土)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "「第15回中城護佐丸まつり」",
@@ -3333,7 +4500,8 @@
    "city": "Nakagusuku Village",
    "time": null,
    "description": "2026年11月7日(土)〜2026年11月8日(日)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "ツール・ド・おきなわ　国際ロードレース　ジュニア国際ロードレース 100km",
@@ -3351,7 +4519,8 @@
    "city": "国頭村",
    "time": null,
    "description": "2026年11月7日(土)〜2026年11月8日(日)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "ツール・ド・おきなわ　国際ロードレース　女子国際ロードレース 100km",
@@ -3369,7 +4538,8 @@
    "city": "国頭村",
    "time": null,
    "description": "2026年11月7日(土)〜2026年11月8日(日)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "ツール・ド・おきなわ　国際ロードレース　男子チャンピオンロードレース 200km",
@@ -3387,7 +4557,8 @@
    "city": "Nago City",
    "time": null,
    "description": "2026年11月7日(土)〜2026年11月8日(日)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "ツール・ド・おきなわ　サイクリング　ワルミ大橋・古宇利大橋サイクリング42km",
@@ -3405,7 +4576,8 @@
    "city": "Nago City",
    "time": null,
    "description": "2026年11月7日(土)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "ツール・ド・おきなわ　サイクリング　伊江島ファミリーサイクリング40km",
@@ -3423,7 +4595,8 @@
    "city": "Nago City",
    "time": null,
    "description": "2026年11月7日(土)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "ツール・ド・おきなわ　サイクリング　伊平屋島サイクリング73km",
@@ -3441,7 +4614,8 @@
    "city": "Nago City",
    "time": null,
    "description": "2026年11月7日(土)〜2026年11月8日(日)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "ツール・ド・おきなわ　サイクリング　やんばるグルメライド90km",
@@ -3459,7 +4633,8 @@
    "city": "Nago City",
    "time": null,
    "description": "2026年11月7日(土)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "ツール・ド・おきなわ　サイクリング　やんばるセンチュリーライド163km",
@@ -3477,7 +4652,8 @@
    "city": "Nago City",
    "time": null,
    "description": "2026年11月7日(土)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "ツール・ド・おきなわ　サイクリング　沖縄本島一周サイクリング325km",
@@ -3495,7 +4671,8 @@
    "city": "Nago City",
    "time": null,
    "description": "2026年11月7日(土)〜2026年11月8日(日)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "MONGOL800 ga FESTIVAL  \n  What a Wonderful World!! 26",
@@ -3513,7 +4690,8 @@
    "city": "Ginowan",
    "time": null,
    "description": "2026年11月7日(土)〜2026年11月8日(日)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "アンサリー\nコンサート2026「秋月夜の歌」",
@@ -3531,7 +4709,28 @@
    "city": "Naha-shi",
    "time": null,
    "description": "2026年11月7日(土)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
+  },
+  {
+   "title_ja": "「志賀島　潮騒（しおさい）ヨイ祭り」を開催します！！",
+   "desc_ja": "好（よ）い島の景色に出会い、旨いものに酔（よ）い、秋の宵（よい）を楽しむ収穫祭！！\n海と山の恵みに感謝する「志賀島 潮騒ヨイ祭り」を、今年も開催します！\n志賀島の市営渡船場横の広場には、志賀島産コウイカのイカ焼きをはじめとした魚介類や志賀島内外のグルメなど約20店が集まる「志賀海 潮騒横丁」が出現。射的やくじ引きなど、子どもから大人まで楽しめる催しもあります。\n夕暮れからは、志賀島港から志賀...",
+   "when_ja": "2026年11月7日（土曜日）～2026年11月8日（日曜日） 12時～21時（8日は20時まで）",
+   "venue_ja": "",
+   "city_ja": "福岡市",
+   "region": "kyushu",
+   "area": "fukuoka",
+   "start": "2026-11-07",
+   "end": "2026-11-08",
+   "category": "events",
+   "source": "https://yokanavi.com/events/274405",
+   "src_name": "Yokanavi (Fukuoka City official)",
+   "title": null,
+   "city": "FUKUOKA CITY",
+   "venue": "",
+   "time": null,
+   "price": null,
+   "description": "2026年11月7日（土曜日）～2026年11月8日（日曜日） 12時～21時（8日は20時まで）"
   },
   {
    "title_ja": "Leiʻohu Ryderがやって来る！",
@@ -3549,7 +4748,8 @@
    "city": "Okinawa",
    "time": null,
    "description": "2026年11月8日(日)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "2026年　地域コミュニティ活性化まつり　第19回　越来城下まつり",
@@ -3567,7 +4767,8 @@
    "city": "Okinawa",
    "time": null,
    "description": "2026年11月8日(日)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "【入場無料】親子ちむぐくるふれあいフェス2026 in 南城市",
@@ -3585,7 +4786,8 @@
    "city": "Nanjō, Okinawa",
    "time": null,
    "description": "2026年11月8日(日)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "琉球フィルプレミアムコンサートVol.9「跳びはねてもいい音楽会」",
@@ -3603,7 +4805,8 @@
    "city": "Nishihara, Okinawa",
    "time": null,
    "description": "2026年11月8日(日)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "空手の日　記念演武祭",
@@ -3621,7 +4824,8 @@
    "city": "Naha-shi",
    "time": null,
    "description": "2026年11月8日(日)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "ツール・ド・おきなわ　市民ロードレース　小学生レース10km",
@@ -3639,7 +4843,8 @@
    "city": "Nago City",
    "time": null,
    "description": "2026年11月8日(日)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "ツール・ド・おきなわ　市民ロードレース　中学生レース50km",
@@ -3657,7 +4862,8 @@
    "city": "Nago City",
    "time": null,
    "description": "2026年11月8日(日)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "ツール・ド・おきなわ　市民ロードレース　市民レディースレース50km",
@@ -3675,7 +4881,8 @@
    "city": "Nago City",
    "time": null,
    "description": "2026年11月8日(日)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "ツール・ド・おきなわ　市民ロードレース　チャレンジレース50km",
@@ -3693,7 +4900,8 @@
    "city": "Nago City",
    "time": null,
    "description": "2026年11月8日(日)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "ツール・ド・おきなわ　市民ロードレース　チャレンジレース200km",
@@ -3711,7 +4919,8 @@
    "city": "Nago City",
    "time": null,
    "description": "2026年11月8日(日)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "ツール・ド・おきなわ　市民ロードレース　市民レース50kmオーバー60s",
@@ -3729,7 +4938,8 @@
    "city": "Nago City",
    "time": null,
    "description": "2026年11月8日(日)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "ツール・ド・おきなわ　市民ロードレース　市民レース50km50s（フィフティー）",
@@ -3747,7 +4957,8 @@
    "city": "Nago City",
    "time": null,
    "description": "2026年11月8日(日)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "第２回 アクティビティフェスティバル",
@@ -3765,7 +4976,8 @@
    "city": "Uruma City",
    "time": null,
    "description": "2026年11月8日(日)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "ツール・ド・おきなわ　市民ロードレース　市民レース100km マスターズ",
@@ -3783,7 +4995,8 @@
    "city": "国頭村",
    "time": null,
    "description": "2026年11月8日(日)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "ツール・ド・おきなわ　市民ロードレース　市民レース200km",
@@ -3801,7 +5014,28 @@
    "city": "Nago City",
    "time": null,
    "description": "2026年11月8日(日)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
+  },
+  {
+   "title_ja": "大濠公園能楽堂で幻想的な灯りに包まれて名曲を聴く夜「Candlelight: 時代を超えて愛されるクラシック名曲集」",
+   "desc_ja": "世界各地で人気を集める「Candlelight」は、会場いっぱいに灯されたキャンドルの中でクラシックや映画音楽を聴く新しい形のコンサートシリーズです。たくさんのキャンドルが揺らめく幻想的な空間と一流の弦楽器奏者が生み出す音色は、言葉の壁を超えて心に響きます。会場は檜造りの本格的な能楽堂で、普段は能や狂言が上演される日本の伝統建築です。和の空間と洋楽器の音色が響き合う、ここでしか味わえない組み...",
+   "when_ja": "2026年11月13日（金曜日） 16:15開場／16:45開演",
+   "venue_ja": "",
+   "city_ja": "福岡市",
+   "region": "kyushu",
+   "area": "fukuoka",
+   "start": "2026-11-13",
+   "end": "2026-11-13",
+   "category": "concerts",
+   "source": "https://yokanavi.com/events/274562",
+   "src_name": "Yokanavi (Fukuoka City official)",
+   "title": null,
+   "city": "FUKUOKA CITY",
+   "venue": "",
+   "time": null,
+   "price": null,
+   "description": "2026年11月13日（金曜日） 16:15開場／16:45開演"
   },
   {
    "title_ja": "ひーぷー自動車学校 のりものFESTIVAL",
@@ -3819,7 +5053,8 @@
    "city": "Okinawa",
    "time": null,
    "description": "2026年11月14日(土)〜2026年11月15日(日)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "令和8年度 聞得大君 御新下り- 2026年11月14日（土）",
@@ -3837,7 +5072,8 @@
    "city": "Nanjō, Okinawa",
    "time": null,
    "description": "2026年11月14日(土)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "世界遺産ナイトウォーク in 中城城跡　第５回",
@@ -3855,7 +5091,8 @@
    "city": "Nakagusuku Village",
    "time": null,
    "description": "2026年11月14日(土)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "「ひやみかちなはウォーク2026」申込受付開始！",
@@ -3873,7 +5110,8 @@
    "city": "Naha-shi",
    "time": null,
    "description": "2026年11月14日(土)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "第55回沖縄県芸術文化祭 開催決定！",
@@ -3891,7 +5129,8 @@
    "city": "Okinawa",
    "time": null,
    "description": "2026年11月14日(土)〜2026年11月22日(日)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "今後の大会スケジュール　パチスロハナハナプレゼンツ OZ30th & OZAKI40th ～BATTLE BIG BONUS 2026 in OKINAWA～",
@@ -3909,7 +5148,8 @@
    "city": "Naha-shi",
    "time": null,
    "description": "2026年11月14日(土)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "第4回島酒マルシェ",
@@ -3927,7 +5167,8 @@
    "city": "Naha-shi",
    "time": null,
    "description": "2026年11月14日(土)〜2026年11月15日(日)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "企画公演 国立劇場寄席(きかくこうえん こくりつげきじょうよせ)",
@@ -3945,7 +5186,28 @@
    "city": "Urasoe City",
    "time": null,
    "description": "2026年11月14日(土)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
+  },
+  {
+   "title_ja": "講談 シン・ハリマオ 昭和のヒーローが講談で蘇る！【さざんぴあ博多 多目的ホール】 2026年　＜令和8年度第63回福岡市民芸術祭参加作品＞",
+   "desc_ja": "昭和のヒーローが講談で蘇る！\n今年は講談師金印亭恵紅さんの創作講談として上演！\n二年続けてお芝居を上演してきた「シン・ハリマオ」。今年は福岡在住の講談師金印亭恵紅さんの創作講談として催されます。公演前には西日本新聞記者の坂本信博さんの講演会も行います。\n◆第一部「ハリマオと新 移民時代」講演会　13時30分～\n講師　坂本 信博\nかつてマレーシアの邦字紙記者としてマレー半島で取材し、西日本新聞...",
+   "when_ja": "2026年11月14日（土曜日） 開場：13時、開演：13時30分 ・第一部 講演会 13時30分～ ・第二部 講談 15時15分～ ・坂本信博著作本販売会　16:30～（予定）",
+   "venue_ja": "",
+   "city_ja": "福岡市",
+   "region": "kyushu",
+   "area": "fukuoka",
+   "start": "2026-11-14",
+   "end": "2026-11-14",
+   "category": "events",
+   "source": "https://yokanavi.com/events/274394",
+   "src_name": "Yokanavi (Fukuoka City official)",
+   "title": null,
+   "city": "FUKUOKA CITY",
+   "venue": "",
+   "time": null,
+   "price": null,
+   "description": "2026年11月14日（土曜日） 開場：13時、開演：13時30分 ・第一部 講演会 13時30分～ ・第二部 講談 15時15分～ ・坂本信博著作本販売会　16:30～（予定）"
   },
   {
    "title_ja": "まるっと繋がる～いのちのおまつり～",
@@ -3963,7 +5225,8 @@
    "city": "Okinawa",
    "time": null,
    "description": "2026年11月15日(日)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "おきなわ国際協力・交流フェスティバル2026",
@@ -3981,7 +5244,8 @@
    "city": "Urasoe City",
    "time": null,
    "description": "2026年11月15日(日)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "南城市制施行20周年 第7回南城市まつり",
@@ -3999,7 +5263,8 @@
    "city": "Nanjō, Okinawa",
    "time": null,
    "description": "2026年11月15日(日)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "2026年テル沖縄ヨガ＆ウェルネスフェスティバル",
@@ -4017,7 +5282,28 @@
    "city": "Okinawa",
    "time": null,
    "description": "2026年11月15日(日)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
+  },
+  {
+   "title_ja": "木村厚太郎楽団「オーケストラが奏でる未来への架け橋」【福岡シンフォニーホール】2026年　～俳優の濱田岳さんがオーケストラの指揮に挑戦！",
+   "desc_ja": "VIVANTでも活躍中の俳優・濱田岳がオーケストラの指揮に挑戦！\n「生の音」を子どもたちへ――音楽でつなぐ、福岡と未来への架け橋\nバイオリン、ピアノ、フルート、チェロ、打楽器という編成をベースに生音の素晴らしさを伝えていこうと福岡を中心に幼稚園、保育園、施設等で生の音を届ける活動を行っている木村厚太郎楽団が、2026年11月15日（日曜日）アクロス福岡シンフォニーホールにて、スペシャルオーケ...",
+   "when_ja": "2026年11月15日（日曜日） 開場：13時、開演：14時",
+   "venue_ja": "",
+   "city_ja": "福岡市",
+   "region": "kyushu",
+   "area": "fukuoka",
+   "start": "2026-11-15",
+   "end": "2026-11-15",
+   "category": "concerts",
+   "source": "https://yokanavi.com/events/274552",
+   "src_name": "Yokanavi (Fukuoka City official)",
+   "title": null,
+   "city": "FUKUOKA CITY",
+   "venue": "",
+   "time": null,
+   "price": null,
+   "description": "2026年11月15日（日曜日） 開場：13時、開演：14時"
   },
   {
    "title_ja": "2026年度 11/17（火）〜11/19（木）開催  2026年 OTV杯 マスターズゴルフ選手権大会",
@@ -4035,7 +5321,8 @@
    "city": "Onna Village",
    "time": null,
    "description": "2026年11月17日(火)〜2026年11月19日(木)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "2026沖縄本島1周サバイバルラン",
@@ -4053,7 +5340,8 @@
    "city": "Naha-shi",
    "time": null,
    "description": "2026年11月20日(金)〜2026年11月23日(月)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "第47回壺屋陶器まつり開催について",
@@ -4071,7 +5359,28 @@
    "city": "Naha-shi",
    "time": null,
    "description": "2026年11月20日(金)〜2026年11月22日(日)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
+  },
+  {
+   "title_ja": "福岡の夜の街中に、上質なクラシックが響く。「福岡クラシック音楽祭 2026」",
+   "desc_ja": "福岡を日本一のクラシックの聖地にしたい。そんな想いから2024年にスタートした「福岡クラシック音楽祭」が、今年も開催されます。多くの音楽家を輩出してきた福岡の街に、クラシックの音色が響き渡ります。\n開幕を飾るのは、11月20日にTENJIN CHRISTMAS ADVENT（福岡市役所西側ふれあい広場）で行われる入場無料のオーケストラ演奏。スペシャルゲストにはテノール歌手の秋川雅史さんを迎え...",
+   "when_ja": "2026年11月20日（金曜日）〜12月18日（金曜日）",
+   "venue_ja": "",
+   "city_ja": "福岡市",
+   "region": "kyushu",
+   "area": "fukuoka",
+   "start": "2026-11-20",
+   "end": "2026-12-18",
+   "category": "concerts",
+   "source": "https://yokanavi.com/events/274557",
+   "src_name": "Yokanavi (Fukuoka City official)",
+   "title": null,
+   "city": "FUKUOKA CITY",
+   "venue": "",
+   "time": null,
+   "price": null,
+   "description": "2026年11月20日（金曜日）〜12月18日（金曜日）"
   },
   {
    "title_ja": "令和８年度　沖縄県内ビーチバレーボール大会日程について　第29回 吉田カップ 沖縄製粉ビーチバレー トーナメント2026",
@@ -4089,7 +5398,8 @@
    "city": "Nishihara, Okinawa",
    "time": null,
    "description": "2026年11月21日(土)〜2026年11月22日(日)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "日米対抗ソフトボール2026",
@@ -4107,7 +5417,8 @@
    "city": "Naha-shi",
    "time": null,
    "description": "2026年11月21日(土)〜2026年11月22日(日)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "第２回沖縄そばグランプリ",
@@ -4125,7 +5436,8 @@
    "city": "Okinawa",
    "time": null,
    "description": "2026年11月22日(日)〜2026年11月23日(月)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "おきなわKINトライアスロン2026",
@@ -4143,7 +5455,8 @@
    "city": "金武町",
    "time": null,
    "description": "2026年11月22日(日)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "太極気功螺旋棒全国交流会",
@@ -4161,7 +5474,8 @@
    "city": "Naha-shi",
    "time": null,
    "description": "2026年11月22日(日)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "ISPSハンダ 全国中学校・高等学校選 抜ゴルフマッチプレー選 手権大会",
@@ -4179,7 +5493,8 @@
    "city": "Nago City",
    "time": null,
    "description": "2026年11月25日(水)〜2026年11月27日(金)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "🏝４名様追加募集🏝2026年11月ヨガフェスタ琉球　沖縄リトリート開催のお知らせ",
@@ -4197,7 +5512,8 @@
    "city": "Motobu Town",
    "time": null,
    "description": "2026年11月27日(金)〜2026年11月30日(月)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "ディズニー・オン・クラシック 〜まほうの夜の音楽会 2026",
@@ -4215,7 +5531,8 @@
    "city": "Ginowan",
    "time": null,
    "description": "2026年11月28日(土)〜2026年11月29日(日)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "ヨガフェスタ琉球2026開催決定！🏝️🌺",
@@ -4233,7 +5550,28 @@
    "city": "Motobu Town",
    "time": null,
    "description": "2026年11月28日(土)〜2026年11月29日(日)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
+  },
+  {
+   "title_ja": "駅チカで楽しむ夜の紅葉。100本のもみじが色づく「紅葉八幡宮 もみじ祭」開催",
+   "desc_ja": "福岡市早良区の紅葉八幡宮で、毎年恒例の「もみじ祭」が開催されます。境内には約100本の紅葉が植えられ、見頃は11月末から12月初旬の予想。駅から近く、気軽に紅葉狩りを楽しめるのが魅力です。\n11月22日（土曜日）から29日（日曜日）は、夕方から20時頃までライトアップを実施。夜の境内が鮮やかな紅葉に染まります。祭り当日の28日（土曜日）・29日（日曜日）は和傘の明かりが加わり、約15店舗の出...",
+   "when_ja": "11月28日（土曜日）〜29日（日曜日） ※ライトアップは夕方〜20時頃",
+   "venue_ja": "",
+   "city_ja": "福岡市",
+   "region": "kyushu",
+   "area": "fukuoka",
+   "start": "2026-11-28",
+   "end": "2026-11-28",
+   "category": "concerts",
+   "source": "https://yokanavi.com/events/274558",
+   "src_name": "Yokanavi (Fukuoka City official)",
+   "title": null,
+   "city": "FUKUOKA CITY",
+   "venue": "",
+   "time": null,
+   "price": null,
+   "description": "11月28日（土曜日）〜29日（日曜日） ※ライトアップは夕方〜20時頃"
   },
   {
    "title_ja": "Ｒ８うるしの日堆錦教室",
@@ -4251,7 +5589,8 @@
    "city": "Urasoe City",
    "time": null,
    "description": "2026年11月29日(日)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "沖縄ウイスキー＆スピリッツフェスティバル",
@@ -4269,7 +5608,8 @@
    "city": "Naha-shi",
    "time": null,
    "description": "2026年11月29日(日)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "第１回GLOBAL　HA-RI　OKINAWA",
@@ -4287,7 +5627,8 @@
    "city": "Nishihara, Okinawa",
    "time": null,
    "description": "2026年11月29日(日)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "沖縄文化イベント『ぬちぐすいぬ宵』第二夜 うちなー結髪師ぬ手業",
@@ -4305,7 +5646,8 @@
    "city": "Naha-shi",
    "time": null,
    "description": "2026年11月29日(日)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "Happy Smile雑貨イチ！Vol.12 ☆彡",
@@ -4323,7 +5665,8 @@
    "city": "Ginowan",
    "time": null,
    "description": "2026年11月29日(日)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "第10回 沖縄アクアスロン名護大会",
@@ -4341,7 +5684,8 @@
    "city": "Nago City",
    "time": null,
    "description": "2026年11月29日(日)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "琉球文化の宴シリーズ 第一弾　現存最古の三線と人間国宝・太鼓の音色が鳴り響く一夜",
@@ -4359,7 +5703,8 @@
    "city": "Naha-shi",
    "time": null,
    "description": "2026年12月4日(金)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "名護あけみおウォーク2026開催!参加申込み受付中！／市民ボランティアスタッフ募集中！",
@@ -4377,7 +5722,8 @@
    "city": "Nago City",
    "time": null,
    "description": "2026年12月5日(土)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "てだこランタンナイト2026 | 『願いを込めて、夜空に放つ光。』",
@@ -4395,7 +5741,8 @@
    "city": "Urasoe City",
    "time": null,
    "description": "2026年12月5日(土)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "研究公演 （二童敵討）(けんきゅうこうえん （にどうてきうち）)",
@@ -4413,7 +5760,8 @@
    "city": "Urasoe City",
    "time": null,
    "description": "2026年12月5日(土)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "LIAマルシェ",
@@ -4431,7 +5779,8 @@
    "city": "Nago City",
    "time": null,
    "description": "2026年12月6日(日)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "琉球舞踊 真境名本流　二代目家元 真境名由苗追善・三代目家元 真境名律弘襲名披露公演「紡ぐ伝統～感謝と愛をこめて～」",
@@ -4449,7 +5798,8 @@
    "city": "Urasoe City",
    "time": null,
    "description": "2026年12月6日(日)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "第40回NAHAマラソン開催決定！",
@@ -4467,7 +5817,8 @@
    "city": "Naha-shi",
    "time": null,
    "description": "2026年12月6日(日)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "第2回 沖縄残波岬夕空絶景マラソン大会",
@@ -4485,7 +5836,8 @@
    "city": "Yomitan Village",
    "time": null,
    "description": "2026年12月6日(日)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "第4回ゴールデンルート沖縄美ら海ウルトラウォーキング２０２6",
@@ -4503,7 +5855,8 @@
    "city": "Nago City",
    "time": null,
    "description": "2026年12月12日(土)〜2026年12月13日(日)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "沖縄国際ウインドサーフィン選手権",
@@ -4521,7 +5874,8 @@
    "city": "Onna Village",
    "time": null,
    "description": "2026年12月12日(土)〜2026年12月13日(日)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "【2026年12月19日～12月30日】 RYUKYU GRAND LUNCH BUFFET ～Holiday Season～開催のお知らせ",
@@ -4539,7 +5893,8 @@
    "city": "Itoman, Okinawa",
    "time": null,
    "description": "2026年12月19日(土)〜2026年12月30日(水)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "第3回ONSEN・ガストロノミーウォーキングin 沖縄県宜野座",
@@ -4557,7 +5912,8 @@
    "city": "Ginoza Village",
    "time": null,
    "description": "2026年12月19日(土)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "令和8年度冬巡業　大相撲うるま場所　開催！",
@@ -4575,7 +5931,8 @@
    "city": "Uruma City",
    "time": null,
    "description": "2026年12月19日(土)〜2026年12月20日(日)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "ホエールウォッチング",
@@ -4593,7 +5950,8 @@
    "city": "Naha-shi",
    "time": null,
    "description": "2026年12月19日(土)〜2027年4月4日(日)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "組踊公演 「忠臣身替の巻」(くみおどりこうえん 「ちゅうしんみがわりのまき」)",
@@ -4611,7 +5969,8 @@
    "city": "Urasoe City",
    "time": null,
    "description": "2026年12月19日(土)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "大会要項 | 第9回沖縄100Kウルトラマラソン【公式】",
@@ -4629,7 +5988,8 @@
    "city": "Yonabaru Town",
    "time": null,
    "description": "2026年12月20日(日)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "【12/31・1/1】「琉球の宴 in 万国津梁館」のご案内",
@@ -4647,7 +6007,8 @@
    "city": "Nago City",
    "time": null,
    "description": "2026年12月31日(木)〜2027年1月1日(金)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "2027年 南城市新春マラソン大会の開催について",
@@ -4665,7 +6026,8 @@
    "city": "Nanjō, Okinawa",
    "time": null,
    "description": "2027年1月2日(土)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "第7回ちゅらうみ海道サイクリン グ2027",
@@ -4683,7 +6045,8 @@
    "city": "Motobu Town",
    "time": null,
    "description": "2027年1月10日(日)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "プリンスアイスワールド2026-2027 THE REVUE ON ICE 沖縄公演",
@@ -4701,7 +6064,8 @@
    "city": "Okinawa",
    "time": null,
    "description": "2027年1月16日(土)〜2027年1月17日(日)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "第52回豊見城市新春健康マラソン・ウォーキング大会開催について",
@@ -4719,7 +6083,8 @@
    "city": "Tomigusuku City",
    "time": null,
    "description": "2027年1月16日(土)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "1月16日・17日 琉球舞踊公演 琉球舞踊特選会(りゅうきゅうぶようこうえん りゅうきゅうぶようとくせんかい)　2027/01/16 (土)",
@@ -4737,7 +6102,8 @@
    "city": "Urasoe City",
    "time": null,
    "description": "2027年1月16日(土)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "海洋博公園エンジョイマラソン2027",
@@ -4755,7 +6121,8 @@
    "city": "Motobu Town",
    "time": null,
    "description": "2027年1月17日(日)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "名護チャレンジRUN2027",
@@ -4773,7 +6140,8 @@
    "city": "Nago City",
    "time": null,
    "description": "2027年1月17日(日)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "第12回沖縄国際音楽祭「第九 ㏌ NAHA」",
@@ -4791,7 +6159,8 @@
    "city": "Naha-shi",
    "time": null,
    "description": "2027年1月17日(日)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "1月16日・17日 琉球舞踊公演 琉球舞踊特選会(りゅうきゅうぶようこうえん りゅうきゅうぶようとくせんかい)　2027/01/17 (日)",
@@ -4809,7 +6178,8 @@
    "city": "Urasoe City",
    "time": null,
    "description": "2027年1月17日(日)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "OKINAWA MOTOR SHOW",
@@ -4827,7 +6197,8 @@
    "city": "Okinawa",
    "time": null,
    "description": "2027年1月23日(土)〜2027年1月24日(日)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "民俗芸能公演 うるま市 島々の芸能(みんぞくげいのうこうえん うるまし しまじまのげいのう)",
@@ -4845,7 +6216,8 @@
    "city": "Urasoe City",
    "time": null,
    "description": "2027年1月24日(日)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "2月13日・14日 沖縄芝居公演 史劇「大新城忠勇伝」(おきなわしばいこうえん しげき「うふあらぐしくちゅうゆうでん」)　2027/02/13 (土)",
@@ -4863,7 +6235,8 @@
    "city": "Urasoe City",
    "time": null,
    "description": "2027年2月13日(土)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "2月13日・14日 沖縄芝居公演 史劇「大新城忠勇伝」(おきなわしばいこうえん しげき「うふあらぐしくちゅうゆうでん」)　2027/02/14 (日)",
@@ -4881,7 +6254,8 @@
    "city": "Urasoe City",
    "time": null,
    "description": "2027年2月14日(日)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "おきなわミニマラソン",
@@ -4899,7 +6273,8 @@
    "city": "Okinawa",
    "time": null,
    "description": "2027年2月20日(土)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "第31回2027おきなわマラソン",
@@ -4917,7 +6292,8 @@
    "city": "Okinawa",
    "time": null,
    "description": "2027年2月21日(日)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "第34回  読谷やちむん市",
@@ -4935,7 +6311,8 @@
    "city": "Yomitan Village",
    "time": null,
    "description": "2027年2月27日(土)〜2027年2月28日(日)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "第45回 東村つつじマラソン大会",
@@ -4953,7 +6330,8 @@
    "city": "東村",
    "time": null,
    "description": "2027年3月7日(日)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "2027年 マッスルゲート沖縄大会",
@@ -4971,7 +6349,8 @@
    "city": "Ginowan",
    "time": null,
    "description": "2027年3月20日(土)〜2027年3月21日(日)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "Japan Ballet Competition 沖縄2027",
@@ -4989,7 +6368,8 @@
    "city": "Naha-shi",
    "time": null,
    "description": "2027年6月12日(土)",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "本部グリーンパークホテル「琉球舞踊と琉装体験」",
@@ -5007,7 +6387,8 @@
    "city": "Motobu Town",
    "time": null,
    "description": "9月・10月毎週土曜日およびシルバーウィーク（9/20～22）に開催",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "第10回 とぅばらーま糸満大会",
@@ -5025,7 +6406,8 @@
    "city": "Itoman, Okinawa",
    "time": null,
    "description": "令和8年10月24日（土）                                                                                                                 アトラクション開始 午後5時 /コンクール開始 午後6時30分",
-   "price": null
+   "price": null,
+   "region": "okinawa"
   },
   {
    "title_ja": "第29回 商工会特産品フェア ありんくりん市",
@@ -5043,7 +6425,112 @@
    "city": "Naha-shi",
    "time": null,
    "description": "台風30号の接近に伴い安全確保のため中止",
-   "price": null
+   "price": null,
+   "region": "okinawa"
+  },
+  {
+   "title_ja": "【福岡検定合格者限定】福岡検定に合格して、令和７年度限定の『鴻臚北館東門一般公開前特別見学ツアー』に参加しよう！",
+   "desc_ja": "福岡検定合格者を対象に鴻臚北館東門一般公開前特別見学ツアーを開催します！\nなんと一般公開前に特別に内覧できます！\n福岡検定では、「小学生向け検定」の新設や「学生受験料無料」、福岡検定限定「博多はじき」の特典など、より多くの方々に受験していただけるよう取り組んでいます。\n今回、令和７年度福岡検定合格者限定の特別な合格特典をご用意しました！\n鴻臚北館東門一般公開前特別見学ツアー（概要）\n・開催時...",
+   "when_ja": "令和8年9月～10月ごろに実施予定",
+   "venue_ja": "",
+   "city_ja": "福岡市",
+   "region": "kyushu",
+   "area": "fukuoka",
+   "start": null,
+   "end": null,
+   "category": "events",
+   "source": "https://yokanavi.com/events/274447",
+   "src_name": "Yokanavi (Fukuoka City official)",
+   "title": null,
+   "city": "FUKUOKA CITY",
+   "venue": "",
+   "time": null,
+   "price": null,
+   "description": "令和8年9月～10月ごろに実施予定"
+  },
+  {
+   "title_ja": "第37回 別府湯けむり健康マラソン大会",
+   "desc_ja": "",
+   "when_ja": "2026年10月25（日）",
+   "venue_ja": "",
+   "city_ja": "別府市",
+   "region": "kyushu",
+   "area": "beppu",
+   "start": null,
+   "end": null,
+   "category": "outdoors",
+   "source": "https://www.visit-oita.jp/events/detail/14473",
+   "src_name": "Visit Oita (visit-oita.jp)",
+   "cancelled": false,
+   "title": null,
+   "city": "Beppu, Ōita",
+   "venue": "",
+   "time": null,
+   "price": null,
+   "description": "2026年10月25（日）"
+  },
+  {
+   "title_ja": "宇佐 ぶどう狩り",
+   "desc_ja": "",
+   "when_ja": "2026年7月中旬～10月頃",
+   "venue_ja": "",
+   "city_ja": "宇佐市",
+   "region": "kyushu",
+   "area": "nakatsu-usa",
+   "start": null,
+   "end": null,
+   "category": "family",
+   "source": "https://www.visit-oita.jp/events/detail/14017",
+   "src_name": "Visit Oita (visit-oita.jp)",
+   "cancelled": false,
+   "title": null,
+   "city": "宇佐市",
+   "venue": "",
+   "time": null,
+   "price": null,
+   "description": "2026年7月中旬～10月頃"
+  },
+  {
+   "title_ja": "庄内神楽定期公演",
+   "desc_ja": "",
+   "when_ja": "5月～10月 第3土曜日に開催",
+   "venue_ja": "",
+   "city_ja": "由布市",
+   "region": "kyushu",
+   "area": "beppu",
+   "start": null,
+   "end": null,
+   "category": "events",
+   "source": "https://www.visit-oita.jp/events/detail/13520",
+   "src_name": "Visit Oita (visit-oita.jp)",
+   "cancelled": false,
+   "title": null,
+   "city": "由布市",
+   "venue": "",
+   "time": null,
+   "price": null,
+   "description": "5月～10月 第3土曜日に開催"
+  },
+  {
+   "title_ja": "宇佐のマチュピチュ「天空の市」",
+   "desc_ja": "",
+   "when_ja": "4月～11月の毎週土日祝日",
+   "venue_ja": "",
+   "city_ja": "宇佐市",
+   "region": "kyushu",
+   "area": "nakatsu-usa",
+   "start": null,
+   "end": null,
+   "category": "food",
+   "source": "https://www.visit-oita.jp/events/detail/13866",
+   "src_name": "Visit Oita (visit-oita.jp)",
+   "cancelled": false,
+   "title": null,
+   "city": "宇佐市",
+   "venue": "",
+   "time": null,
+   "price": null,
+   "description": "4月～11月の毎週土日祝日"
   }
  ],
  "sources": [
@@ -5062,6 +6549,20 @@
    "items": 51
   },
   {
+   "name": "Yokanavi events (yokanavi.com, Fukuoka City)",
+   "url": "https://yokanavi.com/events",
+   "status": "ok",
+   "note": "",
+   "items": 32
+  },
+  {
+   "name": "Visit Oita events (visit-oita.jp: Beppu, Yufuin, Oita, Nakatsu, Usa)",
+   "url": "https://www.visit-oita.jp/events/",
+   "status": "ok",
+   "note": "",
+   "items": 27
+  },
+  {
    "name": "MCCS Okinawa events (Foster/Courtney/Kinser/Schwab)",
    "url": "https://www.okinawa.usmc-mccs.org/events",
    "status": "unavailable",
@@ -5071,7 +6572,7 @@
  ],
  "translation": {
   "provider": "MyMemory (api.mymemory.translated.net)",
-  "quota_hit": false,
-  "chars_this_run": 2506
+  "quota_hit": true,
+  "chars_this_run": 5256
  }
 }

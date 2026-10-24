@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Okinawa Now refresh script.
+"""Family Activity Planner refresh script (Okinawa + Fukuoka–Beppu).
 
 Fetches movie showtimes and events for Okinawa main island and writes
 data/movies.json and data/events.json (plus a translation cache).
@@ -33,6 +33,9 @@ TCACHE_PATH = os.path.join(DATA, "translations.json")
 try: TCACHE = json.load(open(TCACHE_PATH, encoding="utf-8"))
 except Exception: TCACHE = {}
 T_STATE = {"quota_hit": False, "chars": 0, "fails": 0}
+T0 = time.time()
+TR_BUDGET = float(os.environ.get("TRANSLATE_BUDGET_SEC", "330"))
+def budget_ok(): return time.time() - T0 < TR_BUDGET and not T_STATE["quota_hit"]
 JA_RE = re.compile(r"[\u3040-\u30ff\u3400-\u9fff]")
 
 def _mm(chunk):
@@ -51,7 +54,7 @@ def tr(text):
     text = text.strip()
     if not JA_RE.search(text): return text
     if text in TCACHE: return TCACHE[text]
-    if T_STATE["quota_hit"] or T_STATE["fails"] > 5: return None
+    if T_STATE["quota_hit"] or T_STATE["fails"] > 5 or not budget_ok(): return None
     parts, cur = [], ""
     for sent in re.split(r"(?<=[。！？])", text):
         if len(cur) + len(sent) > 400 and cur: parts.append(cur); cur = ""
@@ -432,7 +435,30 @@ def main():
               "Japanese cinemas show foreign films either Japanese-subtitled (字幕) or Japanese-dubbed (吹替); English-language audio = 字幕 showings."],
               "sources": [s for s in SOURCES]}
     n_movie_src = len(SOURCES)
+    for t in movies["theaters"]: t.setdefault("region", "okinawa")
+    sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+    import kyushu
+    try:
+        movies["theaters"] += kyushu.eiga_cinemas(S, tr, DAYS, source, log, budget_ok)
+    except Exception as e:
+        source("eiga.com theater schedules (Kyushu)", "https://cinema.eiga.com/theater/40/", False, str(e))
+    movies["notes"] += ["Fukuoka–Beppu: no cinemas in Yufuin, Nakatsu or Usa are listed on eiga.com; Beppu Bluebird Theater is Beppu's only cinema."]
+    movies["sources"] = list(SOURCES)
+    n_movie_src = len(SOURCES)
     ev = okinawastory() + kadena_fss()
+    for e in ev: e.setdefault("region", "okinawa")
+    ky = []
+    for fn in (kyushu.yokanavi, kyushu.visit_oita):
+        try: ky += fn(S, TODAY, classify, source, log)
+        except Exception as e: source(fn.__name__, "", False, str(e))
+    horizon = TODAY + dt.timedelta(days=7)
+    ky.sort(key=lambda e: e["start"] or "9")
+    for e in ky:
+        near = (not e["start"]) or dt.date.fromisoformat(e["start"]) <= horizon
+        e["title"] = (tr(e["title_ja"]) if near else TCACHE.get(e["title_ja"])) or None
+        e["city"] = TCACHE.get(e["city_ja"]) or (tr(e["city_ja"]) if near else None) or e["city_ja"]
+        e["venue"] = ""; e["time"] = None; e["price"] = None; e["description"] = e.get("when_ja")
+    ev += ky
     mccs()
     ev.sort(key=lambda e: (e.get("start") or "9", e.get("time") or ""))
     events = {"checked_at": checked, "generated": NOW.isoformat(), "items": ev, "sources": SOURCES[n_movie_src:],

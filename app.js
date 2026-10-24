@@ -1,6 +1,8 @@
 const TABS=[["movies","🎬 Movies"],["events","🎉 Events & Festivals"],["concerts","🎶 Concerts & Nightlife"],["family","🧒 Family & Kids"],["outdoors","🏖️ Outdoors & Beaches"],["food","🍜 Food & Markets"],["onbase","🇺🇸 On-Base"]];
-const AREAS=[["all","All areas"],["north","North"],["central","Central"],["south","South"]];
-const st={tab:location.hash.slice(1)||"movies",area:"all",date:"today",movieDay:null};
+const REGIONS=[["okinawa","🌺 Okinawa"],["kyushu","♨️ Fukuoka–Beppu"]];
+const AREASBY={okinawa:[["all","All areas"],["north","North"],["central","Central"],["south","South"]],
+ kyushu:[["all","All areas"],["fukuoka","Fukuoka / Dazaifu"],["kitakyushu","Kitakyushu / Kokura"],["kurume","Kurume"],["nakatsu-usa","Nakatsu / Usa"],["beppu","Beppu / Yufuin"],["oita","Oita city"],["oita-other","Rest of Oita"]]};
+const st={tab:location.hash.slice(1)||"movies",area:"all",date:"today",movieDay:null,region:localStorage.getItem("fap-region")||"okinawa"};
 let M=null,E=null;
 const $=s=>document.querySelector(s);
 const esc=s=>(s??"").toString().replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
@@ -17,15 +19,17 @@ async function load(){
 function chips(el,items,cur,fn){el.innerHTML=items.map(([k,l])=>`<button class="${k===cur?"on":""}" data-k="${k}">${l}</button>`).join("");el.querySelectorAll("button").forEach(b=>b.onclick=()=>fn(b.dataset.k))}
 function render(){
   chips($("#tabs"),TABS,st.tab,k=>{st.tab=k;location.hash=k;render();scrollTo(0,0)});
-  chips($("#areaf"),AREAS,st.area,k=>{st.area=k;render()});
+  chips($("#regionf"),REGIONS,st.region,k=>{st.region=k;st.area="all";localStorage.setItem("fap-region",k);render();scrollTo(0,0)});
+  chips($("#areaf"),AREASBY[st.region],st.area,k=>{st.area=k;render()});
   if(st.tab==="movies"){const t=jstToday();const days=(M.days||[]).filter(d=>d>=t);if(!st.movieDay||!days.includes(st.movieDay))st.movieDay=days[0]||t;
     chips($("#datef"),days.map((d,i)=>[d,i===0?"Today":i===1?"Tomorrow":nice(d)]),st.movieDay,k=>{st.movieDay=k;render()});renderMovies();}
   else{chips($("#datef"),[["today","Today"],["weekend","This weekend"],["week","This week"],["all","All upcoming"]],st.date,k=>{st.date=k;render()});renderEvents();}
   renderSources();}
+function regOk(x){return (x.region||"okinawa")===st.region}
 function areaOk(a){return st.area==="all"||a===st.area}
 function renderMovies(){
   const day=st.movieDay,now=jstNow().toISOString().slice(11,16),isToday=day===jstToday();
-  const ths=M.theaters.filter(t=>areaOk(t.area));
+  const ths=M.theaters.filter(t=>regOk(t)&&areaOk(t.area));
   let h=`<div class="jump">${ths.map(t=>`<a href="#th-${t.id}" onclick="document.getElementById('th-${t.id}').scrollIntoView({behavior:'smooth'});return false">${esc(t.name)}</a>`).join("")}</div>`;
   for(const t of ths){
     const films=t.movies.map(f=>({...f,today:f.showtimes.filter(s=>s.date===day)})).filter(f=>f.today.length);
@@ -47,10 +51,11 @@ function renderMovies(){
   $("#main").innerHTML=h;}
 function renderEvents(){
   const [a,b]=range();
-  let items=E.items.filter(e=>e.category===st.tab||(st.tab==="events"&&false)).filter(e=>areaOk(e.area)).filter(e=>{const s=e.start||a,en=e.end||s;return s<=b&&en>=a});
+  let items=E.items.filter(e=>e.category===st.tab||(st.tab==="events"&&false)).filter(e=>regOk(e)&&areaOk(e.area)).filter(e=>{const s=e.start||a,en=e.end||s;return s<=b&&en>=a});
   items.sort((x,y)=>{const sx=(x.start>=a)?0:1,sy=(y.start>=a)?0:1;return sx-sy||(x.start||"").localeCompare(y.start||"")||(x.time||"").localeCompare(y.time||"")});
   let h="";
-  if(st.tab==="onbase")h+=`<div class="card muted">Kadena FSS events come from kadenafss.com. MCCS (Foster/Courtney/Kinser/Schwab) event pages block automated reads, so check <a href="https://www.okinawa.usmc-mccs.org/" target="_blank">okinawa.usmc-mccs.org</a>. Base movie times are in the 🎬 Movies tab.</div>`;
+  if(st.tab==="onbase"&&st.region==="kyushu")h+=`<div class="card muted">There are no US bases in the Fukuoka–Beppu corridor. (Sasebo and Iwakuni are outside this area.)</div>`;
+  else if(st.tab==="onbase")h+=`<div class="card muted">Kadena FSS events come from kadenafss.com. MCCS (Foster/Courtney/Kinser/Schwab) event pages block automated reads, so check <a href="https://www.okinawa.usmc-mccs.org/" target="_blank">okinawa.usmc-mccs.org</a>. Base movie times are in the 🎬 Movies tab.</div>`;
   if(!items.length)h+=`<div class="empty">Nothing listed for this filter.</div>`;
   for(const e of items){
     const ongoing=e.start&&e.start<a;const when=e.start?(e.start===e.end||!e.end?nice(e.start):`${nice(e.start)} – ${nice(e.end)}`):"";

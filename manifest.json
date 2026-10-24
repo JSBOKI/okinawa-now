@@ -1,0 +1,15 @@
+{
+ "name": "Family Activity Planner",
+ "short_name": "Family Planner",
+ "start_url": "./",
+ "display": "standalone",
+ "background_color": "#0f1720",
+ "theme_color": "#0f1720",
+ "icons": [
+  {
+   "src": "icon.svg",
+   "sizes": "any",
+   "type": "image/svg+xml"
+  }
+ ]
+}
