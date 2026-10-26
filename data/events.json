@@ -1,6 +1,6 @@
 {
- "checked_at": "2026-10-26 06:32 JST",
- "generated": "2026-10-26T06:32:51.554450+09:00",
+ "checked_at": "2026-10-27 06:38 JST",
+ "generated": "2026-10-27T06:38:22.677435+09:00",
  "items": [
   {
    "title_ja": "滞在プログラム「首里城を彩る紅～琉球のちむぐくる～」",
@@ -394,7 +394,7 @@
    "description": "2026年8月30日（日）～11月30日（月）"
   },
   {
-   "title_ja": "秋限定『オリエンタルオクトーバーフェスト』開催 シャインマスカットとビール料理が彩る体験型ブッフェ",
+   "title_ja": "『オリエンタルオクトーバーフェスト』 シャインマスカットとビール料理が彩る体験型ブッフェ",
    "when_ja": "2026年9月1日(火)〜2026年11月3日(火)",
    "venue_ja": "オリエンタルホテル　沖縄リゾート＆スパ　ブッフェ＆グリル クワッチー",
    "area": "north",
@@ -404,7 +404,7 @@
    "category": "concerts",
    "source": "https://www.okinawastory.jp/event/600023180",
    "src_name": "Okinawa Story (okinawastory.jp)",
-   "title": "Autumn Exclusive Oriental Oktoberfest Shine Muscat and Beer Buffet",
+   "title": "Oriental Oktoberfest Shine Muscat & Beer Experience Buffet",
    "venue": "Oriental Hotel Okinawa Resort & Spa Buffet & Grill Quatchie",
    "city": "Nago City",
    "time": null,
@@ -1304,7 +1304,7 @@
    "region": "okinawa"
   },
   {
-   "title_ja": "SHIMA KAJI MENSORE 風と音と、島時間。 10/13~12/27",
+   "title_ja": "SHIMA KAJI MENSORE 風と音と、島時間。",
    "when_ja": "2026年10月13日(火)〜2026年12月27日(日)",
    "venue_ja": "ジャングリア沖縄",
    "area": "north",
@@ -1314,7 +1314,7 @@
    "category": "events",
    "source": "https://www.okinawastory.jp/event/600023292",
    "src_name": "Okinawa Story (okinawastory.jp)",
-   "title": "Shima Kaji Mensore wind, sound and island time. 10/13 ~ 12/27",
+   "title": "Shima Kaji Mensore wind, sound and island time.",
    "venue": "Jungle Okinawa",
    "city": "Nakijin Village",
    "time": null,
@@ -1323,7 +1323,7 @@
    "region": "okinawa"
   },
   {
-   "title_ja": "新里堅進原画展の開催について",
+   "title_ja": "新里堅進原画展",
    "when_ja": "2026年10月15日(木)〜2026年11月29日(日)",
    "venue_ja": "うるま市立海の文化資料館",
    "area": "central",
@@ -1333,7 +1333,7 @@
    "category": "outdoors",
    "source": "https://www.okinawastory.jp/event/600023275",
    "src_name": "Okinawa Story (okinawastory.jp)",
-   "title": "About the holding of the original art exhibition of Kenshin Niisato",
+   "title": "Kenshin Niisato Original Art Exhibition",
    "venue": "Uruma City Museum of Umi Culture",
    "city": "Uruma City",
    "time": null,
@@ -1534,25 +1534,6 @@
    "region": "okinawa"
   },
   {
-   "title_ja": "金城宏次　紅型展",
-   "when_ja": "2026年10月20日(火)〜2026年10月26日(月)",
-   "venue_ja": "デパートリウボウ　2F ryubo art gallery",
-   "area": "south",
-   "city_ja": "那覇市",
-   "start": "2026-10-20",
-   "end": "2026-10-26",
-   "category": "events",
-   "source": "https://www.okinawastory.jp/event/600023282",
-   "src_name": "Okinawa Story (okinawastory.jp)",
-   "title": "Koji Kinjo Red Shape Exhibition",
-   "venue": "Department store Ryubo 2F ryubo art gallery",
-   "city": "Naha-shi",
-   "time": null,
-   "description": "2026年10月20日(火)〜2026年10月26日(月)",
-   "price": null,
-   "region": "okinawa"
-  },
-  {
    "title_ja": "NIGHTMARE展vol.7",
    "when_ja": "2026年10月21日(水)〜2026年10月27日(火)",
    "venue_ja": "CURIOSITIES OKINAWA shop&gallery",
@@ -1629,65 +1610,7 @@
    "region": "okinawa"
   },
   {
-   "title_ja": "第38回 コザ名物 毛遊びコンサート（主催：比謝川をそ生させる会・㈱ラジオ沖縄）",
-   "when_ja": "2026年10月26日(月)",
-   "venue_ja": "沖縄こどもの国　水とみどりの広場",
-   "area": "central",
-   "city_ja": "沖縄市",
-   "start": "2026-10-26",
-   "end": "2026-10-26",
-   "category": "concerts",
-   "source": "https://www.okinawastory.jp/event/600023046",
-   "src_name": "Okinawa Story (okinawastory.jp)",
-   "title": "The 38th Koza Specialty Hair Play Concert (Organized by: Yoshigawa River Revitalization Association · Radio Okinawa Co., Ltd.)",
-   "venue": "Okinawa Kodomonokuni Water and Green Plaza",
-   "city": "Okinawa",
-   "time": null,
-   "description": "2026年10月26日(月)",
-   "price": null,
-   "region": "okinawa"
-  },
-  {
-   "title": "Power Hour",
-   "start": "2026-10-26",
-   "end": "2026-10-26",
-   "time": "14:00–15:00",
-   "venue": "",
-   "area": "central",
-   "city": "Kadena Air Base",
-   "description": "Monday – Friday • 2 – 3 pm As the new school year begins, be sure to use the Teen Center’s Power Hour Program! Do homework, get peer tutoring, form study groups, all while earning points for prizes such as gift cards, snack bar coupons, and games!",
-   "price": null,
-   "category": "onbase",
-   "tags": [
-    "Fun Events",
-    "Teen Center"
-   ],
-   "source": "https://kadenafss.com/event/power-hour-2/2026-10-26",
-   "src_name": "Kadena FSS (kadenafss.com)",
-   "region": "okinawa"
-  },
-  {
-   "title": "Salsa Night",
-   "start": "2026-10-26",
-   "end": "2026-10-26",
-   "time": "19:00–22:00",
-   "venue": "Rocker Lounge",
-   "area": "central",
-   "city": "Kadena Air Base",
-   "description": "Every Monday Night Turn up the heat and let the rhythm move you at Salsa Night at Rocker Lounge ! Join us for an evening of vibrant Latin beats, energetic dancing, and an electric atmosphere that will keep you on your feet all night long. Whether you’re a seasoned dancer or just want to learn a few moves, everyone is welcome on the dance floor. Feel the music, bring your friends, meet new people, ",
-   "price": null,
-   "category": "onbase",
-   "tags": [
-    "Fun Events",
-    "Rocker Lounge",
-    "The Rocker"
-   ],
-   "source": "https://kadenafss.com/event/salsa-night-2-2/2026-10-26",
-   "src_name": "Kadena FSS (kadenafss.com)",
-   "region": "okinawa"
-  },
-  {
-   "title_ja": "第8回世界のウチナーンチュ大会の開催日程のお知らせ",
+   "title_ja": "第8回世界のウチナーンチュ大会",
    "when_ja": "2026年10月27日(火)〜2026年10月31日(土)",
    "venue_ja": "沖縄セルラースタジアム・パーク、県立武道館、奥武山公園",
    "area": "south",
@@ -1697,7 +1620,7 @@
    "category": "outdoors",
    "source": "https://www.okinawastory.jp/event/600023296",
    "src_name": "Okinawa Story (okinawastory.jp)",
-   "title": "Notice of the schedule of the 8th World Uchinanchu Tournament",
+   "title": "The 8th World Uchinanchu Competition",
    "venue": "Okinawa Cellular Stadium Park, Prefectural Budokan, Okubuyama Park",
    "city": "Naha-shi",
    "time": null,
@@ -1706,7 +1629,7 @@
    "region": "okinawa"
   },
   {
-   "title_ja": "2026年10月27日 第3回 饒平名知健 個展 ～「永遠のまなざし」・紡いだ生の軌跡～",
+   "title_ja": "第3回 饒平名知健 個展 ～「永遠のまなざし」・紡いだ生の軌跡～",
    "when_ja": "2026年10月27日(火)〜2026年11月1日(日)",
    "venue_ja": "那覇市民ギャラリー第3展示室",
    "area": "south",
@@ -1716,7 +1639,7 @@
    "category": "events",
    "source": "https://www.okinawastory.jp/event/600023214",
    "src_name": "Okinawa Story (okinawastory.jp)",
-   "title": "October 27, 2026 The 3rd Solo Exhibition of Tomoken Raoheina - \"Eternal Gaze\" · The Trajectory of Spinning Raw Food ~",
+   "title": "The Third Solo Exhibition of Tomotake Raohei: \"Eternal Gaze\" and the Trajectory of Spinning Life",
    "venue": "Naha Citizen Gallery, Hall 3",
    "city": "Naha-shi",
    "time": null,
@@ -1758,6 +1681,25 @@
     "Library"
    ],
    "source": "https://kadenafss.com/event/new-parent-support-program-storytime/2026-10-27",
+   "src_name": "Kadena FSS (kadenafss.com)",
+   "region": "okinawa"
+  },
+  {
+   "title": "Baby Stay & Play",
+   "start": "2026-10-27",
+   "end": "2026-10-27",
+   "time": "10:30–11:30",
+   "venue": "Library, Building #451",
+   "area": "central",
+   "city": "Kadena Air Base",
+   "description": "Come play with us every Tuesday from 10:30 to 11:30 a.m.! This is a causal, self-guided play morning tailored for babies. Please note that we take a break on the last Tuesday of the month so families can attend the New Parent Support Program’s Storytime for ages 0-4.",
+   "price": null,
+   "category": "onbase",
+   "tags": [
+    "Fun Events",
+    "Library"
+   ],
+   "source": "https://kadenafss.com/event/baby-stay-play/2026-10-27",
    "src_name": "Kadena FSS (kadenafss.com)",
    "region": "okinawa"
   },
@@ -2298,6 +2240,25 @@
    "region": "okinawa"
   },
   {
+   "title": "Japanese Book Club",
+   "start": "2026-10-30",
+   "end": "2026-10-30",
+   "time": "11:00–12:00",
+   "venue": "Library, Building #451",
+   "area": "central",
+   "city": "Kadena Air Base",
+   "description": "Meets Last Friday of the Month 11:00 a.m.-12:00 p.m. Explore Japanese literature through English translations. Enjoy book discussions, themed crafts or activities and Japanese-inspired snacks. The library maintains five copies of each selected title for participants to check out. Ages 18+ Please check out kadenafss.com/library for monthly selection.",
+   "price": null,
+   "category": "onbase",
+   "tags": [
+    "Fun Events",
+    "Library"
+   ],
+   "source": "https://kadenafss.com/event/japanese-book-club/2026-10-30",
+   "src_name": "Kadena FSS (kadenafss.com)",
+   "region": "okinawa"
+  },
+  {
    "title": "Language Exchange ランゲージエクスチェンジ!!",
    "start": "2026-10-30",
    "end": "2026-10-30",
@@ -2469,7 +2430,7 @@
    "region": "okinawa"
   },
   {
-   "title_ja": "1031_鳥取戦 - FC琉球",
+   "title_ja": "鳥取戦 - FC琉球",
    "when_ja": "2026年10月31日(土)",
    "venue_ja": "沖縄県総合運動公園陸上競技場",
    "area": "central",
@@ -2479,7 +2440,7 @@
    "category": "outdoors",
    "source": "https://www.okinawastory.jp/event/600023283",
    "src_name": "Okinawa Story (okinawastory.jp)",
-   "title": "1031_Battle of Tottori - FC Ryukyu",
+   "title": "Battle of Tottori - FC Ryukyu",
    "venue": "Okinawa Prefectural General Athletic Park Athletic Stadium",
    "city": "Okinawa",
    "time": null,
@@ -2507,7 +2468,7 @@
    "region": "okinawa"
   },
   {
-   "title_ja": "（1020更新）はえばる2026ふるさと博覧会について【Topページ】　第23回はえばる2026ふるさと博覧会　第18回福祉まつり・第31回児童館まつり",
+   "title_ja": "第23回はえばる2026ふるさと博覧会　第18回福祉まつり・第31回児童館まつり",
    "when_ja": "2026年10月31日(土)〜2026年11月1日(日)",
    "venue_ja": "南風原町立中央公民館・文化センター及び周辺駐車場",
    "area": "south",
@@ -2517,7 +2478,7 @@
    "category": "events",
    "source": "https://www.okinawastory.jp/event/600023262",
    "src_name": "Okinawa Story (okinawastory.jp)",
-   "title": "(Updated 1020) About the Furusato Expo 2026 [Top page] The 23rd Furusato Expo 2026 The 18th Welfare Festival and the 31st Children's Museum Festival",
+   "title": "The 23rd 2026 Furusato Expo The 18th Welfare Festival and the 31st Children's Museum Festival",
    "venue": "Minamikazehara Municipal Central Community Center, Cultural Center, and surrounding parking lots",
    "city": "Haebaru, Okinawa",
    "time": null,
@@ -2545,7 +2506,7 @@
    "region": "okinawa"
   },
   {
-   "title_ja": "2026年10月31日（土）・11月1日（日） 『第9回ガクアルFESTA高文連軽音楽コンテスト』 （第50回沖縄県高等学校総合文化祭軽音楽部門） をうるま市きむたかホール（入場無料）で開催！",
+   "title_ja": "『第9回ガクアルFESTA高文連軽音楽コンテスト』 （第50回沖縄県高等学校総合文化祭軽音楽部門）（入場無料）",
    "when_ja": "2026年10月31日(土)〜2026年11月1日(日)",
    "venue_ja": "うるま市きむたかホール",
    "area": "central",
@@ -2555,7 +2516,7 @@
    "category": "concerts",
    "source": "https://www.okinawastory.jp/event/600023220",
    "src_name": "Okinawa Story (okinawastory.jp)",
-   "title": "On Saturday, October 31 and Sunday, November 1, 2026, the 9th Gacual Festa Kobunren Light Music Contest (the 50th Okinawa Prefectural High School General Culture Festival Light Music Section) will be held at the Kimutaka Hall in Uruma City (free admission)!",
+   "title": "\"The 9th Gakuaru Festa Kobunren Light Music Contest\" (50th Okinawa Prefectural High School Comprehensive Culture Festival Light Music Section) (free admission)",
    "venue": "Kimutaka Hall, Uruma City",
    "city": "Uruma City",
    "time": null,
@@ -2583,7 +2544,7 @@
    "region": "okinawa"
   },
   {
-   "title_ja": "【HALLOWEEN EVENT】「トリック・オア・トリート！」で焼きマシュマロをもらおう–10月31日（土）",
+   "title_ja": "【HALLOWEEN EVENT】「トリック・オア・トリート！」で焼きマシュマロをもらおう",
    "when_ja": "2026年10月31日(土)",
    "venue_ja": "TWIN-LINE HOTEL YANBARU OKINAWA JAPAN",
    "area": "north",
@@ -2593,7 +2554,7 @@
    "category": "events",
    "source": "https://www.okinawastory.jp/event/600023141",
    "src_name": "Okinawa Story (okinawastory.jp)",
-   "title": "[Halloween event] Earn Baked Marshmallows with \"Trick or Treat!\" - Saturday, October 31",
+   "title": "[Halloween event] Earn Baked Marshmallows with \"Trick or Treat!\"",
    "venue": "TWIN-LINE HOTEL YANBARU OKINAWA JAPAN",
    "city": "Nago City",
    "time": null,
@@ -2814,6 +2775,27 @@
    "time": null,
    "price": null,
    "description": "2026年10月31日（土曜日）〜11月3日（火曜日・祝日） 17時〜21時"
+  },
+  {
+   "title_ja": "久住キンダーフェスト2026",
+   "desc_ja": "",
+   "when_ja": "2026年10月31日（土）、11月1日（日）※雨天決行",
+   "venue_ja": "",
+   "city_ja": "竹田市",
+   "region": "kyushu",
+   "area": "oita-other",
+   "start": "2026-10-31",
+   "end": "2026-11-01",
+   "category": "events",
+   "source": "https://www.visit-oita.jp/events/detail/14510",
+   "src_name": "Visit Oita (visit-oita.jp)",
+   "cancelled": false,
+   "title": "Kuzu Kindafest 2026",
+   "city": "Takeda-shi",
+   "venue": "",
+   "time": null,
+   "price": null,
+   "description": "2026年10月31日（土）、11月1日（日）※雨天決行"
   },
   {
    "title_ja": "日田イルミナージュ",
@@ -3097,7 +3079,7 @@
    "region": "okinawa"
   },
   {
-   "title_ja": "チケット好評発売中！！【宝くじ公演】TEAMパフォーマンスラボ×ガチャピン・ムックのサーカスエコロジカル",
+   "title_ja": "【宝くじ公演】TEAMパフォーマンスラボ×ガチャピン・ムックのサーカスエコロジカル",
    "when_ja": "2026年11月1日(日)",
    "venue_ja": "宜野湾市民会館　大ホール",
    "area": "central",
@@ -3107,7 +3089,7 @@
    "category": "events",
    "source": "https://www.okinawastory.jp/event/600023297",
    "src_name": "Okinawa Story (okinawastory.jp)",
-   "title": "Tickets available now!! [Lottery Performance] team Performance Lab x Gachapin Mook's Circus Ecological",
+   "title": "[Lottery Performance] team Performance Lab x Gachapin Mook's Circus Ecological",
    "venue": "Ginowan Civic Center Main Hall",
    "city": "Ginowan",
    "time": null,
@@ -3344,7 +3326,7 @@
    "region": "okinawa"
   },
   {
-   "title_ja": "「令和 8 年度 首里城復興祭」 （11/1～11/3）",
+   "title_ja": "令和 8 年度 首里城復興祭",
    "when_ja": "2026年11月1日(日)〜2026年11月3日(火)",
    "venue_ja": "首里城公園内および周辺、那覇市国際通り",
    "area": "south",
@@ -3354,7 +3336,7 @@
    "category": "outdoors",
    "source": "https://www.okinawastory.jp/event/600022525",
    "src_name": "Okinawa Story (okinawastory.jp)",
-   "title": "\"Reiwa 8 Shuri Castle Reconstruction Festival\" (11/1 - 11/3)",
+   "title": "2019 Shuri Castle Reconstruction Festival",
    "venue": "In and around Shurijo Castle Park, Kokusai Street, Naha City",
    "city": "Naha-shi",
    "time": null,
@@ -3663,12 +3645,183 @@
    "category": "concerts",
    "source": "https://yokanavi.com/events/274555",
    "src_name": "Yokanavi (Fukuoka City official)",
-   "title": null,
+   "title": "Dolphin 55th Anniversary Concert ~ Ainotane Mako❤! ~ [Canal City Clafitia Theater] 2026",
    "city": "FUKUOKA CITY",
    "venue": "",
    "time": null,
    "price": null,
    "description": "2026年11月3日（火曜日・祝日） 開場：16時30分／開演：17時"
+  },
+  {
+   "title": "Post-Deployment Brief",
+   "start": "2026-11-03",
+   "end": "2026-11-03",
+   "time": "08:30–10:00",
+   "venue": "MFRC, Building #220",
+   "area": "central",
+   "city": "Kadena Air Base",
+   "description": "September 1, 8, 15, 22, 29 | 8:30 – 10 a.m. Oct. 6, 13, 20 and 27 | 8:30 – 10 a.m. Open to all members deploying for 30 days or more. Family members are encouraged to attend. Military & Family Readiness Center BLDG#220",
+   "price": null,
+   "category": "onbase",
+   "tags": [
+    "Active Duty, Career and Education Events",
+    "M&amp;FRC"
+   ],
+   "source": "https://kadenafss.com/event/post-deployment-brief/2026-11-03",
+   "src_name": "Kadena FSS (kadenafss.com)",
+   "region": "okinawa"
+  },
+  {
+   "title": "Understanding Spouse Employment",
+   "start": "2026-11-03",
+   "end": "2026-11-03",
+   "time": "09:00–11:00",
+   "venue": "Education Center | Rm 115",
+   "area": "central",
+   "city": "Kadena Air Base",
+   "description": "Tuesday, November 3 | 9 -11 a.m. Education Center, Building 59, Room 115 This class explores the different hiring agencies and processes for military spouse employment while overseas and explores the local job market. Whether new to the military community, new to the area, or just getting back to work, this will be a great way to start your job search.",
+   "price": null,
+   "category": "onbase",
+   "tags": [
+    "Active Duty, Career and Education Events",
+    "M&amp;FRC"
+   ],
+   "source": "https://kadenafss.com/event/understanding-spouse-employment",
+   "src_name": "Kadena FSS (kadenafss.com)",
+   "region": "okinawa"
+  },
+  {
+   "title": "Pre-Deployment Brief",
+   "start": "2026-11-03",
+   "end": "2026-11-03",
+   "time": "10:00–11:30",
+   "venue": "MFRC, Building #220",
+   "area": "central",
+   "city": "Kadena Air Base",
+   "description": "September 8 and 22 | 10 – 11:30 a.m. Open to all members deploying for 30 days or more. Family members are encouraged to attend. Military & Family Readiness Center, Bldg 220 , 904-0200, Japan",
+   "price": null,
+   "category": "onbase",
+   "tags": [
+    "Active Duty, Career and Education Events",
+    "M&amp;FRC"
+   ],
+   "source": "https://kadenafss.com/event/pre-deployment-brief-2/2026-11-03",
+   "src_name": "Kadena FSS (kadenafss.com)",
+   "region": "okinawa"
+  },
+  {
+   "title": "Baby Stay & Play",
+   "start": "2026-11-03",
+   "end": "2026-11-03",
+   "time": "10:30–11:30",
+   "venue": "Library, Building #451",
+   "area": "central",
+   "city": "Kadena Air Base",
+   "description": "Come play with us every Tuesday from 10:30 to 11:30 a.m.! This is a causal, self-guided play morning tailored for babies. Please note that we take a break on the last Tuesday of the month so families can attend the New Parent Support Program’s Storytime for ages 0-4.",
+   "price": null,
+   "category": "onbase",
+   "tags": [
+    "Fun Events",
+    "Library"
+   ],
+   "source": "https://kadenafss.com/event/baby-stay-play/2026-11-03",
+   "src_name": "Kadena FSS (kadenafss.com)",
+   "region": "okinawa"
+  },
+  {
+   "title": "Power Hour",
+   "start": "2026-11-03",
+   "end": "2026-11-03",
+   "time": "14:00–15:00",
+   "venue": "",
+   "area": "central",
+   "city": "Kadena Air Base",
+   "description": "Monday – Friday • 2 – 3 pm As the new school year begins, be sure to use the Teen Center’s Power Hour Program! Do homework, get peer tutoring, form study groups, all while earning points for prizes such as gift cards, snack bar coupons, and games!",
+   "price": null,
+   "category": "onbase",
+   "tags": [
+    "Fun Events",
+    "Teen Center"
+   ],
+   "source": "https://kadenafss.com/event/power-hour-2/2026-11-03",
+   "src_name": "Kadena FSS (kadenafss.com)",
+   "region": "okinawa"
+  },
+  {
+   "title": "Brick Club",
+   "start": "2026-11-03",
+   "end": "2026-11-03",
+   "time": "14:00–16:00",
+   "venue": "Library, Building #451",
+   "area": "central",
+   "city": "Kadena Air Base",
+   "description": "Tuesdays starting 10/6 Ages 3 and up. Caregiver must be present. Time: 2 p.m.- 4 p.m. Kadena Base Library BLDG. 451",
+   "price": null,
+   "category": "onbase",
+   "tags": [
+    "Fun Events",
+    "Library"
+   ],
+   "source": "https://kadenafss.com/event/brick-club/2026-11-03",
+   "src_name": "Kadena FSS (kadenafss.com)",
+   "region": "okinawa"
+  },
+  {
+   "title": "KUMON (Math / Japanese)",
+   "start": "2026-11-03",
+   "end": "2026-11-03",
+   "time": "15:00–18:00",
+   "venue": "Schilling Community Center, Building #455",
+   "area": "central",
+   "city": "Kadena Air Base",
+   "description": "Tuesdays and Fridays | 3 – 6 p.m. 1st and 3rd Thursdays | 3 – 6 p.m. 30-minute sessions $75 per month for 1 subject $150 per month for both subjects Math | ages 5 – 18 Japanese | ages 5 and over Registration required. Reservations and scheduling for all classes can be made at the Schilling Community Center front desk.",
+   "price": null,
+   "category": "onbase",
+   "tags": [
+    "Active Duty, Career and Education Events",
+    "Shilling Community Center"
+   ],
+   "source": "https://kadenafss.com/event/kumon-math-japanese/2026-11-03",
+   "src_name": "Kadena FSS (kadenafss.com)",
+   "region": "okinawa"
+  },
+  {
+   "title": "Ballroom and Salsa Dance Lessons",
+   "start": "2026-11-03",
+   "end": "2026-11-03",
+   "time": "17:45–18:45",
+   "venue": "",
+   "area": "central",
+   "city": "Kadena Air Base",
+   "description": "Tuesdays | 5:45 – 6:45 p.m. $60 for four lessons Step into the rhythm with our Ballroom and Salsa Dance Lessons! Whether you’re a beginner or want to brush up on your skills, this is your chance to learn! To register, stop by the Schilling Community Center",
+   "price": null,
+   "category": "onbase",
+   "tags": [
+    "Fun Events",
+    "Shilling Community Center"
+   ],
+   "source": "https://kadenafss.com/event/ballroom-and-salsa-dance-lessons-2/2026-11-03",
+   "src_name": "Kadena FSS (kadenafss.com)",
+   "region": "okinawa"
+  },
+  {
+   "title": "Smartphone Trivia",
+   "start": "2026-11-03",
+   "end": "2026-11-03",
+   "time": "19:00–22:00",
+   "venue": "",
+   "area": "central",
+   "city": "Kadena Air Base",
+   "description": "Free for members | $5 per nonmember Teams of two | minimum of eight participants Think you’ve got what it takes to be the trivia champ? Put your knowledge to the test at Smartphone Trivia Night at The Rocker Club ! Gather your friends, bring your phone, and get ready for a fast-paced night of fun questions, friendly competition, and plenty of laughs.",
+   "price": null,
+   "category": "onbase",
+   "tags": [
+    "Fun Events",
+    "The Rocker"
+   ],
+   "source": "https://kadenafss.com/event/smartphone-trivia/2026-11-03",
+   "src_name": "Kadena FSS (kadenafss.com)",
+   "region": "okinawa"
   },
   {
    "title_ja": "「クリスマスを、1日で終わらせない」 約2カ月間にわたる「フェスティブシーズン2026」開催 〜ブッフェ、アフタヌーンティー、鉄板焼、音楽、宿泊まで多彩な体験を展開〜",
@@ -3700,8 +3853,8 @@
    "category": "events",
    "source": "https://www.okinawastory.jp/event/600023142",
    "src_name": "Okinawa Story (okinawastory.jp)",
-   "title": null,
-   "venue": "さいおんスクエア",
+   "title": "Champuru ~ Festival 2026 Autumn",
+   "venue": "Sayon Square",
    "city": "Naha-shi",
    "time": null,
    "description": "2026年11月6日(金)〜2026年11月8日(日)",
@@ -3719,8 +3872,8 @@
    "category": "concerts",
    "source": "https://www.okinawastory.jp/event/600023067",
    "src_name": "Okinawa Story (okinawastory.jp)",
-   "title": null,
-   "venue": "那覇文化芸術劇場なはーと　小スタジオ，ロビー",
+   "title": "Nahato Jazz Jazzmans Okinawa Jazz x Asia Related Events",
+   "venue": "Naha Culture and Arts Theater Naha and Small Studio, Lobby",
    "city": "Naha-shi",
    "time": null,
    "description": "2026年11月6日(金)〜2026年11月28日(土)",
@@ -5858,14 +6011,14 @@
    "url": "https://www.okinawastory.jp/event",
    "status": "ok",
    "note": "",
-   "items": 210
+   "items": 208
   },
   {
    "name": "Kadena FSS events (kadenafss.com API)",
    "url": "https://kadenafss.com/events",
    "status": "ok",
    "note": "",
-   "items": 48
+   "items": 57
   },
   {
    "name": "Yokanavi events (yokanavi.com, Fukuoka City)",
@@ -5879,7 +6032,7 @@
    "url": "https://www.visit-oita.jp/events/",
    "status": "ok",
    "note": "",
-   "items": 23
+   "items": 24
   },
   {
    "name": "MCCS Okinawa events (Foster/Courtney/Kinser/Schwab)",
@@ -5892,6 +6045,6 @@
  "translation": {
   "provider": "MyMemory (api.mymemory.translated.net)",
   "quota_hit": false,
-  "chars_this_run": 343
+  "chars_this_run": 869
  }
 }
