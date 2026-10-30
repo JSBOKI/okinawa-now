@@ -1,6 +1,6 @@
 {
- "checked_at": "2026-10-30 06:39 JST",
- "generated": "2026-10-30T06:39:58.616119+09:00",
+ "checked_at": "2026-10-31 06:33 JST",
+ "generated": "2026-10-31T06:33:35.862949+09:00",
  "items": [
   {
    "title_ja": "滞在プログラム「首里城を彩る紅～琉球のちむぐくる～」",
@@ -778,25 +778,6 @@
    "city": "Naha-shi",
    "time": null,
    "description": "2026年9月18日(金)〜2026年11月15日(日)",
-   "price": null,
-   "region": "okinawa"
-  },
-  {
-   "title_ja": "美術館コレクションギャラリー企画展 クムイの淵に立つ巨人 山城見信 関連催事",
-   "when_ja": "2026年9月19日(土)〜2026年10月30日(金)",
-   "venue_ja": "沖縄県立博物館・美術館　講座室（美術館），コレクションギャラリー1，ホワイエ，コレクションギャラリー2，コレクションギャラリー3",
-   "area": "south",
-   "city_ja": "那覇市",
-   "start": "2026-09-19",
-   "end": "2026-10-30",
-   "category": "events",
-   "source": "https://www.okinawastory.jp/event/600023012",
-   "src_name": "Okinawa Story (okinawastory.jp)",
-   "title": "Museum Collection Gallery Exhibitions Kumui Giant Yamashiro Kishin related events",
-   "venue": "Okinawa Prefectural Museum and Art Museum Lecture Room (Museum of Art), Collection Gallery 1, Foyer, Collection Gallery 2, Collection Gallery 3",
-   "city": "Naha-shi",
-   "time": null,
-   "description": "2026年9月19日(土)〜2026年10月30日(金)",
    "price": null,
    "region": "okinawa"
   },
@@ -1706,23 +1687,24 @@
    "description": "2026年10月29日（木曜日）～11月3日（火曜日・祝日） 10時～18時（入館は17時30分） ※博多旧市街ライトアップウォーク期間中（10月31日～11月3日）は21時まで開館"
   },
   {
-   "title_ja": "カフーナ旭橋ハロウィン2026フライヤー完成しました♩　　＼カフーナ旭橋ハロウィン2026開催決定！／",
-   "when_ja": "2026年10月30日(金)",
-   "venue_ja": "カフーナ旭橋Ａ街区カフーナプラザ　モノレール旭橋駅直結　那覇バスターミナル上",
-   "area": "south",
-   "city_ja": "那覇市",
+   "title_ja": "「ボートレース福岡 天神ストリートパーク」オープニングイベント【ボートレース福岡 天神ストリートパーク】2026年",
+   "desc_ja": "「ボートレース福岡 天神ストリートパーク」10月30日開業！\n世界トップ選手のパフォーマンスから日本選手権まで2週にわたるオープニングイベントを開催\n2026年10月30日（金曜日）、ボートレース福岡に国内最大級の屋内型スケートボード場を備えた「ボートレース福岡 天神ストリートパーク」がグランドオープンします。開業にあわせ、世界トップクラスのスケーターを迎えたオープニングイベントが2週にわた...",
+   "when_ja": "「ボートレース福岡 天神ストリートパーク」オープニングイベント ・第1弾：2026年10月30日（金曜日）～11月1日（日曜日） ・第2弾：2026年11月5日（木曜日）～11月8日（日曜日）",
+   "venue_ja": "",
+   "city_ja": "福岡市",
+   "region": "kyushu",
+   "area": "fukuoka",
    "start": "2026-10-30",
-   "end": "2026-10-30",
-   "category": "family",
-   "source": "https://www.okinawastory.jp/event/600023234",
-   "src_name": "Okinawa Story (okinawastory.jp)",
-   "title": "Kahuna Asahibashi Halloween 2026 Flyer Completed♩\\ Kahuna Asahibashi Halloween 2026 will be held!/",
-   "venue": "Kahuna Asahibashi Block A On the Naha Bus Terminal directly connected to Kahuna Plaza Monorail Asahibashi Station",
-   "city": "Naha-shi",
+   "end": "2026-11-08",
+   "category": "food",
+   "source": "https://yokanavi.com/events/274564",
+   "src_name": "Yokanavi (Fukuoka City official)",
+   "title": "\"Boat Race Fukuoka Tenjin Street Park\" Opening Event [Boat Race Fukuoka Tenjin Street Park] 2026",
+   "city": "FUKUOKA CITY",
+   "venue": "",
    "time": null,
-   "description": "2026年10月30日(金)",
    "price": null,
-   "region": "okinawa"
+   "description": "「ボートレース福岡 天神ストリートパーク」オープニングイベント ・第1弾：2026年10月30日（金曜日）～11月1日（日曜日） ・第2弾：2026年11月5日（木曜日）～11月8日（日曜日）"
   },
   {
    "title_ja": "『チームラボ 福岡城跡 光ノ祭』、10月30日(金)から7年ぶりに開催。～作品紹介・チケット・イベントスケジュール。",
@@ -1764,291 +1746,6 @@
    "time": null,
    "price": null,
    "description": "2026年10月30日（金）～2027年2月14日（日）"
-  },
-  {
-   "title": "Power Boat Safety Classes",
-   "start": "2026-10-30",
-   "end": "2026-10-30",
-   "time": "09:00",
-   "venue": "Kadena Marina",
-   "area": "central",
-   "city": "Kadena Air Base",
-   "description": "Fridays and Saturdays • 9 am Online certification and hands-on safety training. This class is required to rent power boats at Kadena Marina.",
-   "price": null,
-   "category": "onbase",
-   "tags": [
-    "Active Duty, Career and Education Events",
-    "Marina"
-   ],
-   "source": "https://kadenafss.com/event/power-boat-safety-classes-2-2/2026-10-30",
-   "src_name": "Kadena FSS (kadenafss.com)",
-   "region": "okinawa"
-  },
-  {
-   "title": "Rock and Country Music",
-   "start": "2026-10-30",
-   "end": "2026-10-31",
-   "time": "09:00",
-   "venue": "",
-   "area": "central",
-   "city": "Kadena Air Base",
-   "description": "Join Hanabi’s for a fun night of Rock and Country Music.",
-   "price": null,
-   "category": "onbase",
-   "tags": [
-    "Fun Events",
-    "Hanabis",
-    "The Rocker"
-   ],
-   "source": "https://kadenafss.com/event/rock-and-country-music/2026-10-30",
-   "src_name": "Kadena FSS (kadenafss.com)",
-   "region": "okinawa"
-  },
-  {
-   "title": "Jet Ski Training Course",
-   "start": "2026-10-30",
-   "end": "2026-10-30",
-   "time": "09:00–11:00",
-   "venue": "Kadena Marina",
-   "area": "central",
-   "city": "Kadena Air Base",
-   "description": "Fridays • 9 – 11 am",
-   "price": null,
-   "category": "onbase",
-   "tags": [
-    "Active Duty, Career and Education Events",
-    "Marina"
-   ],
-   "source": "https://kadenafss.com/event/jet-ski-training-course-2/2026-10-30",
-   "src_name": "Kadena FSS (kadenafss.com)",
-   "region": "okinawa"
-  },
-  {
-   "title": "Trolling with Taka",
-   "start": "2026-10-30",
-   "end": "2026-10-30",
-   "time": "09:00–14:00",
-   "venue": "Kadena Marina",
-   "area": "central",
-   "city": "Kadena Air Base",
-   "description": "Fridays, Saturdays and Sundays | 9 a.m. – 2 p.m. Ages 10 and over | $70 per person Head out on the water with Taka for a guided trolling adventure. Whether you’re an experienced angler or trying fishing for the first time, enjoy a day on the water while learning local fishing techniques and reeling in your next big catch.",
-   "price": null,
-   "category": "onbase",
-   "tags": [
-    "Fun Events",
-    "Marina"
-   ],
-   "source": "https://kadenafss.com/event/trolling-with-taka/2026-10-30",
-   "src_name": "Kadena FSS (kadenafss.com)",
-   "region": "okinawa"
-  },
-  {
-   "title": "Not So Spooky Halloween",
-   "start": "2026-10-30",
-   "end": "2026-10-30",
-   "time": "10:30–14:30",
-   "venue": "Library, Building #451",
-   "area": "central",
-   "city": "Kadena Air Base",
-   "description": "October 30 | 10:30 a.m.–2:30 p.m. A fun-filled Halloween experience for little ones ages 2–5, featuring a festive craft, photo opportunity, and candy! Costumes are encouraged. Kadena Base Library",
-   "price": null,
-   "category": "onbase",
-   "tags": [
-    "Library"
-   ],
-   "source": "https://kadenafss.com/event/not-so-spooky-halloween",
-   "src_name": "Kadena FSS (kadenafss.com)",
-   "region": "okinawa"
-  },
-  {
-   "title": "Japanese Book Club",
-   "start": "2026-10-30",
-   "end": "2026-10-30",
-   "time": "11:00–12:00",
-   "venue": "Library, Building #451",
-   "area": "central",
-   "city": "Kadena Air Base",
-   "description": "Meets Last Friday of the Month 11:00 a.m.-12:00 p.m. Explore Japanese literature through English translations. Enjoy book discussions, themed crafts or activities and Japanese-inspired snacks. The library maintains five copies of each selected title for participants to check out. Ages 18+ Please check out kadenafss.com/library for monthly selection.",
-   "price": null,
-   "category": "onbase",
-   "tags": [
-    "Fun Events",
-    "Library"
-   ],
-   "source": "https://kadenafss.com/event/japanese-book-club/2026-10-30",
-   "src_name": "Kadena FSS (kadenafss.com)",
-   "region": "okinawa"
-  },
-  {
-   "title": "Language Exchange ランゲージエクスチェンジ!!",
-   "start": "2026-10-30",
-   "end": "2026-10-30",
-   "time": "11:30–12:30",
-   "venue": "MFRC, Building #220",
-   "area": "central",
-   "city": "Kadena Air Base",
-   "description": "11:30 a.m. – 12:30 p.m. Military & Family Readiness Center, Bldg 220 A language exchange group for both Japanese and English speakers. Learn about language and culture from native speakers and practice your conversation skills. If you would like to cancel, please call Military & Family Readiness Center DSN (315) 634-3366 or Commercial 098-961-3366 お昼休みに英会話練習しませんか？ ランゲージエクスチェンジ募集！ 嘉手納基地へアクセスできる方はどな",
-   "price": null,
-   "category": "onbase",
-   "tags": [
-    "Active Duty, Career and Education Events",
-    "M&amp;FRC"
-   ],
-   "source": "https://kadenafss.com/event/language-exchange-%e3%83%a9%e3%83%b3%e3%82%b2%e3%83%bc%e3%82%b8%e3%82%a8%e3%82%af%e3%82%b9%e3%83%81%e3%82%a7%e3%83%b3%e3%82%b8/2026-10-30",
-   "src_name": "Kadena FSS (kadenafss.com)",
-   "region": "okinawa"
-  },
-  {
-   "title": "Power Hour",
-   "start": "2026-10-30",
-   "end": "2026-10-30",
-   "time": "14:00–15:00",
-   "venue": "",
-   "area": "central",
-   "city": "Kadena Air Base",
-   "description": "Monday – Friday • 2 – 3 pm As the new school year begins, be sure to use the Teen Center’s Power Hour Program! Do homework, get peer tutoring, form study groups, all while earning points for prizes such as gift cards, snack bar coupons, and games!",
-   "price": null,
-   "category": "onbase",
-   "tags": [
-    "Fun Events",
-    "Teen Center"
-   ],
-   "source": "https://kadenafss.com/event/power-hour-2/2026-10-30",
-   "src_name": "Kadena FSS (kadenafss.com)",
-   "region": "okinawa"
-  },
-  {
-   "title": "Camping at the Marina",
-   "start": "2026-10-30",
-   "end": "2026-10-31",
-   "time": "15:00",
-   "venue": "",
-   "area": "central",
-   "city": "Kadena Air Base",
-   "description": "Camping at the Marina Marina Pavilions Oct. 30 – 31 $10 per site | pay in advance through WebTrac or at Outdoor Recreation Check-in: Oct. 30 at 3 p.m. Check-out: Oct. 31 at noon Halloween-themed movie: 6 p.m. Ten spots available. Spots are first come, first served. Pets are welcome. Camping equipment is available for rent at Outdoor Recreation, Bldg. 313.",
-   "price": null,
-   "category": "onbase",
-   "tags": [
-    "Fun Events",
-    "Outdoor Rec"
-   ],
-   "source": "https://kadenafss.com/event/camping-at-the-marina",
-   "src_name": "Kadena FSS (kadenafss.com)",
-   "region": "okinawa"
-  },
-  {
-   "title": "KUMON (Math / Japanese)",
-   "start": "2026-10-30",
-   "end": "2026-10-30",
-   "time": "15:00–18:00",
-   "venue": "Schilling Community Center, Building #455",
-   "area": "central",
-   "city": "Kadena Air Base",
-   "description": "Tuesdays and Fridays | 3 – 6 p.m. 1st and 3rd Thursdays | 3 – 6 p.m. 30-minute sessions $75 per month for 1 subject $150 per month for both subjects Math | ages 5 – 18 Japanese | ages 5 and over Registration required. Reservations and scheduling for all classes can be made at the Schilling Community Center front desk.",
-   "price": null,
-   "category": "onbase",
-   "tags": [
-    "Active Duty, Career and Education Events",
-    "Shilling Community Center"
-   ],
-   "source": "https://kadenafss.com/event/kumon-math-japanese/2026-10-30",
-   "src_name": "Kadena FSS (kadenafss.com)",
-   "region": "okinawa"
-  },
-  {
-   "title": "Membership Appreciation Day",
-   "start": "2026-10-30",
-   "end": "2026-10-30",
-   "time": "15:30–17:00",
-   "venue": "Youth Center, Building #1849",
-   "area": "central",
-   "city": "Kadena Air Base",
-   "description": "Youth Center Members Only Friday, October 30 | 3:30 p.m. We will have a costume contest! Bring out your best spooky or silly costume.",
-   "price": null,
-   "category": "onbase",
-   "tags": [
-    "Fun Events",
-    "Youth Center"
-   ],
-   "source": "https://kadenafss.com/event/membership-appreciation-day",
-   "src_name": "Kadena FSS (kadenafss.com)",
-   "region": "okinawa"
-  },
-  {
-   "title": "Halloween Movie Night",
-   "start": "2026-10-30",
-   "end": "2026-10-30",
-   "time": "16:30–21:00",
-   "venue": "",
-   "area": "central",
-   "city": "Kadena Air Base",
-   "description": "ODR Building 614 All ages welcome! Get ready for a spooky night of outdoor fun. Enjoy yard games and bouncers before settling in for a Halloween movie on our jumbo screen. Free popcorn is included —Bring your blankets and chairs for a cozy night under the stars.",
-   "price": null,
-   "category": "onbase",
-   "tags": [
-    "Fun Events",
-    "Outdoor Rec"
-   ],
-   "source": "https://kadenafss.com/event/halloween-movie-night",
-   "src_name": "Kadena FSS (kadenafss.com)",
-   "region": "okinawa"
-  },
-  {
-   "title": "Weekly Friday Social Hour",
-   "start": "2026-10-30",
-   "end": "2026-10-30",
-   "time": "17:00–19:00",
-   "venue": "The Rocker Club, Building #622",
-   "area": "central",
-   "city": "Kadena Air Base",
-   "description": "Rocker Lounge Kick off the weekend with light refreshments, hors d’oeuvres and prize drawings. Enter for a chance to win $75, $125 or the progressive jackpot. Open to club members and civilian equivalents ages 18 and older.",
-   "price": null,
-   "category": "onbase",
-   "tags": [
-    "Fun Events",
-    "The Rocker"
-   ],
-   "source": "https://kadenafss.com/event/weekly-friday-social-hour/2026-10-30",
-   "src_name": "Kadena FSS (kadenafss.com)",
-   "region": "okinawa"
-  },
-  {
-   "title": "Kid’s Halloween Bash",
-   "start": "2026-10-30",
-   "end": "2026-10-30",
-   "time": "18:00–21:00",
-   "venue": "Emery Lanes / Strikers",
-   "area": "central",
-   "city": "Kadena Air Base",
-   "description": "Friday, October 30 | 6 – 9 p.m. $25 per lane Includes 2 1⁄2 hours of bowling and shoe rental Maximum of four people per lane The costume contest begins promptly at 7:30 p.m. Categories include: • Most Unique • Scariest • Best Overall Winners will receive gift cards, and all participants will receive a prize.",
-   "price": null,
-   "category": "onbase",
-   "tags": [
-    "Emery Lanes",
-    "Fun Events"
-   ],
-   "source": "https://kadenafss.com/event/kids-halloween-bash",
-   "src_name": "Kadena FSS (kadenafss.com)",
-   "region": "okinawa"
-  },
-  {
-   "title": "Halloween Night Golf",
-   "start": "2026-10-30",
-   "end": "2026-10-30",
-   "time": "18:30–21:00",
-   "venue": "",
-   "area": "central",
-   "city": "Kadena Air Base",
-   "description": "Friday, October 30 9-hole four-person scramble Shotgun start | 6:30 p.m. $35 per person | Includes green fee and two glow balls. Grab your clubs, put on your favorite costume and get ready for a spooky evening on the course. After the round, celebrate with pizza, prize presentations and a costume contest. Whether you’re playing to win or showing off your Halloween spirit, it’s sure tobe a fun-fill",
-   "price": null,
-   "category": "onbase",
-   "tags": [
-    "Chibana Golf Course",
-    "Fun Events"
-   ],
-   "source": "https://kadenafss.com/event/halloween-night-golf",
-   "src_name": "Kadena FSS (kadenafss.com)",
-   "region": "okinawa"
   },
   {
    "title_ja": "【26.10.31.Sat】ANTEROOM HALLOWEEN 2026",
@@ -2453,27 +2150,6 @@
    "time": null,
    "price": null,
    "description": "2026年10月31日（土曜日）〜11月3日（火曜日・祝日） 17時〜21時"
-  },
-  {
-   "title_ja": "日田イルミナージュ2026",
-   "desc_ja": "",
-   "when_ja": "2026年10月31日（土）～2027年1月31日（日）",
-   "venue_ja": "",
-   "city_ja": "日田市",
-   "region": "kyushu",
-   "area": "oita-other",
-   "start": "2026-10-31",
-   "end": "2027-01-31",
-   "category": "events",
-   "source": "https://www.visit-oita.jp/events/detail/14528",
-   "src_name": "Visit Oita (visit-oita.jp)",
-   "cancelled": false,
-   "title": "Hita Illuminage 2026",
-   "city": "Hita, Ōita",
-   "venue": "",
-   "time": null,
-   "price": null,
-   "description": "2026年10月31日（土）～2027年1月31日（日）"
   },
   {
    "title_ja": "ゆふいん音楽祭2026",
@@ -3985,6 +3661,26 @@
    "region": "okinawa"
   },
   {
+   "title": "Rock and Country Music",
+   "start": "2026-11-06",
+   "end": "2026-11-07",
+   "time": "09:00",
+   "venue": "",
+   "area": "central",
+   "city": "Kadena Air Base",
+   "description": "Join Hanabi’s for a fun night of Rock and Country Music.",
+   "price": null,
+   "category": "onbase",
+   "tags": [
+    "Fun Events",
+    "Hanabis",
+    "The Rocker"
+   ],
+   "source": "https://kadenafss.com/event/rock-and-country-music/2026-11-06",
+   "src_name": "Kadena FSS (kadenafss.com)",
+   "region": "okinawa"
+  },
+  {
    "title": "Jet Ski Training Course",
    "start": "2026-11-06",
    "end": "2026-11-06",
@@ -4517,6 +4213,45 @@
    "region": "okinawa"
   },
   {
+   "title": "Kadena Cup Championship",
+   "start": "2026-11-07",
+   "end": "2026-11-07",
+   "time": null,
+   "venue": "Banyan Tree Golf Course",
+   "area": "central",
+   "city": "Kadena Air Base",
+   "description": "Saturday, November 7 Format: individual stroke play Entry Fee: $75, plus applicable green fees Sign up by November 2.",
+   "price": null,
+   "category": "onbase",
+   "tags": [
+    "Banyan Golf Course",
+    "Fun Events"
+   ],
+   "source": "https://kadenafss.com/event/kadena-cup-championship",
+   "src_name": "Kadena FSS (kadenafss.com)",
+   "region": "okinawa"
+  },
+  {
+   "title_ja": "長浜鮮魚市場「市民感謝デー」（2026年11月7日）＜第167回＞開催！【長浜鮮魚市場】　～11月の市民感謝デーの概要や見どころ、スケジュール。お見逃しなく！",
+   "desc_ja": "長浜鮮魚市場の一部を一般開放する「市民感謝デー」。11月の市民感謝デーは11月7日に開催！！\n今回も新鮮な魚介類・冷凍品・加工品や様々なイベントが目白押し！\n長浜鮮魚市場では、仲卸売場棟など市場の一部を一般開放します。新鮮な魚介類・冷凍品・加工品などが目白押し！市場内を見学するもよし！お目当ての物を買うもよし！ぜひお越しください！\n※次回開催は12月12日（土曜日）です！\n☆定例イベント☆\n...",
+   "when_ja": "2026年11月7日（土曜日） 9時～12時（※仲卸売場での鮮魚販売は11時まで） ※次回の開催は2026年12月12日（土曜日）",
+   "venue_ja": "",
+   "city_ja": "福岡市",
+   "region": "kyushu",
+   "area": "fukuoka",
+   "start": "2026-11-07",
+   "end": "2026-12-12",
+   "category": "food",
+   "source": "https://yokanavi.com/events/274303",
+   "src_name": "Yokanavi (Fukuoka City official)",
+   "title": "Nagahama Fresh Fish Market \"Citizen Appreciation Day\" (November 7, 2026) < 167th > held! Nagahama Fresh Fish Market Overview, highlights, and schedule for Citizens' Appreciation Day in November. Don't miss out!",
+   "city": "FUKUOKA CITY",
+   "venue": "",
+   "time": null,
+   "price": null,
+   "description": "2026年11月7日（土曜日） 9時～12時（※仲卸売場での鮮魚販売は11時まで） ※次回の開催は2026年12月12日（土曜日）"
+  },
+  {
    "title_ja": "「志賀島　潮騒（しおさい）ヨイ祭り」を開催します！！",
    "desc_ja": "好（よ）い島の景色に出会い、旨いものに酔（よ）い、秋の宵（よい）を楽しむ収穫祭！！\n海と山の恵みに感謝する「志賀島 潮騒ヨイ祭り」を、今年も開催します！\n志賀島の市営渡船場横の広場には、志賀島産コウイカのイカ焼きをはじめとした魚介類や志賀島内外のグルメなど約20店が集まる「志賀海 潮騒横丁」が出現。射的やくじ引きなど、子どもから大人まで楽しめる催しもあります。\n夕暮れからは、志賀島港から志賀...",
    "when_ja": "2026年11月7日（土曜日）～2026年11月8日（日曜日） 12時～21時（8日は20時まで）",
@@ -4529,12 +4264,107 @@
    "category": "events",
    "source": "https://yokanavi.com/events/274405",
    "src_name": "Yokanavi (Fukuoka City official)",
-   "title": null,
+   "title": "The Shiga Island Shio-Sai Yoi Festival will be held!!",
    "city": "FUKUOKA CITY",
    "venue": "",
    "time": null,
    "price": null,
    "description": "2026年11月7日（土曜日）～2026年11月8日（日曜日） 12時～21時（8日は20時まで）"
+  },
+  {
+   "title": "Book your Dive Session with Kadena Marina!",
+   "start": "2026-11-07",
+   "end": "2026-11-07",
+   "time": "08:00–15:00",
+   "venue": "Kadena Marina",
+   "area": "central",
+   "city": "Kadena Air Base",
+   "description": "Dive Season | Starts Saturday, April 4 Registration begins | March 6 Saturdays and Sundays | 8 a.m. – 3 p.m. Ages 8 and over Book your adventure today at Kadena Marina.",
+   "price": null,
+   "category": "onbase",
+   "tags": [
+    "Fun Events",
+    "Marina"
+   ],
+   "source": "https://kadenafss.com/event/book-your-dive-session-with-kadena-marina/2026-11-07",
+   "src_name": "Kadena FSS (kadenafss.com)",
+   "region": "okinawa"
+  },
+  {
+   "title": "Power Boat Safety Classes",
+   "start": "2026-11-07",
+   "end": "2026-11-07",
+   "time": "09:00",
+   "venue": "Kadena Marina",
+   "area": "central",
+   "city": "Kadena Air Base",
+   "description": "Fridays and Saturdays • 9 am Online certification and hands-on safety training. This class is required to rent power boats at Kadena Marina.",
+   "price": null,
+   "category": "onbase",
+   "tags": [
+    "Active Duty, Career and Education Events",
+    "Marina"
+   ],
+   "source": "https://kadenafss.com/event/power-boat-safety-classes-2-2/2026-11-07",
+   "src_name": "Kadena FSS (kadenafss.com)",
+   "region": "okinawa"
+  },
+  {
+   "title": "Trolling with Taka",
+   "start": "2026-11-07",
+   "end": "2026-11-07",
+   "time": "09:00–14:00",
+   "venue": "Kadena Marina",
+   "area": "central",
+   "city": "Kadena Air Base",
+   "description": "Fridays, Saturdays and Sundays | 9 a.m. – 2 p.m. Ages 10 and over | $70 per person Head out on the water with Taka for a guided trolling adventure. Whether you’re an experienced angler or trying fishing for the first time, enjoy a day on the water while learning local fishing techniques and reeling in your next big catch.",
+   "price": null,
+   "category": "onbase",
+   "tags": [
+    "Fun Events",
+    "Marina"
+   ],
+   "source": "https://kadenafss.com/event/trolling-with-taka/2026-11-07",
+   "src_name": "Kadena FSS (kadenafss.com)",
+   "region": "okinawa"
+  },
+  {
+   "title": "Japanese Flower Arrangement",
+   "start": "2026-11-07",
+   "end": "2026-11-07",
+   "time": "11:00–12:00",
+   "venue": "Schilling Community Center, Building #455",
+   "area": "central",
+   "city": "Kadena Air Base",
+   "description": "Learn how to create Japanese Flower Arrangements. Happening every Saturday from 11 a.m. – 12 p.m. $50 registration fee | Includes Three Classes",
+   "price": null,
+   "category": "onbase",
+   "tags": [
+    "Fun Events",
+    "Shilling Community Center"
+   ],
+   "source": "https://kadenafss.com/event/japanese-flower-arrangement/2026-11-07",
+   "src_name": "Kadena FSS (kadenafss.com)",
+   "region": "okinawa"
+  },
+  {
+   "title": "Archery Practice",
+   "start": "2026-11-07",
+   "end": "2026-11-07",
+   "time": "16:00–18:00",
+   "venue": "Outdoor Recreation",
+   "area": "central",
+   "city": "Kadena Air Base",
+   "description": "Get outside and practice archery with ODR! Every Saturday | 4 – 6 p.m.",
+   "price": null,
+   "category": "onbase",
+   "tags": [
+    "Fun Events",
+    "Outdoor Rec"
+   ],
+   "source": "https://kadenafss.com/event/archery-practice-2/2026-11-07",
+   "src_name": "Kadena FSS (kadenafss.com)",
+   "region": "okinawa"
   },
   {
    "title_ja": "GRAVITY on Stage 2026 楽園 @Okinawa URUMA CITY 〜祈りの歌が聴こえる碧き星にて〜 HY 新里英之 主演決定！",
@@ -6515,28 +6345,28 @@
    "url": "https://www.okinawastory.jp/event",
    "status": "ok",
    "note": "",
-   "items": 231
+   "items": 229
   },
   {
    "name": "Kadena FSS events (kadenafss.com API)",
    "url": "https://kadenafss.com/events",
    "status": "ok",
    "note": "",
-   "items": 57
+   "items": 49
   },
   {
    "name": "Yokanavi events (yokanavi.com, Fukuoka City)",
    "url": "https://yokanavi.com/events",
    "status": "ok",
    "note": "",
-   "items": 23
+   "items": 25
   },
   {
    "name": "Visit Oita events (visit-oita.jp: Beppu, Yufuin, Oita, Nakatsu, Usa)",
    "url": "https://www.visit-oita.jp/events/",
    "status": "ok",
    "note": "",
-   "items": 27
+   "items": 26
   },
   {
    "name": "MCCS Okinawa events (Foster/Courtney/Kinser/Schwab)",
@@ -6549,6 +6379,6 @@
  "translation": {
   "provider": "MyMemory (api.mymemory.translated.net)",
   "quota_hit": false,
-  "chars_this_run": 6120
+  "chars_this_run": 901
  }
 }
