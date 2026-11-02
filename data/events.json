@@ -1,6 +1,6 @@
 {
- "checked_at": "2026-11-02 06:31 JST",
- "generated": "2026-11-02T06:31:57.037412+09:00",
+ "checked_at": "2026-11-03 06:32 JST",
+ "generated": "2026-11-03T06:32:17.742669+09:00",
  "items": [
   {
    "title_ja": "滞在プログラム「首里城を彩る紅～琉球のちむぐくる～」",
@@ -1112,25 +1112,6 @@
    "region": "okinawa"
   },
   {
-   "title_ja": "世界キツネザルの日2026",
-   "when_ja": "2026年10月17日(土)〜2026年11月2日(月)",
-   "venue_ja": "ネオパークオキナワ　園内「希少種の森」レムール展示場",
-   "area": "north",
-   "city_ja": "名護市",
-   "start": "2026-10-17",
-   "end": "2026-11-02",
-   "category": "events",
-   "source": "https://www.okinawastory.jp/event/600023198",
-   "src_name": "Okinawa Story (okinawastory.jp)",
-   "title": "World Fox Monkey Day 2026",
-   "venue": "Neopark Okinawa \"Rare Species Forest\" Lemur Exhibition Hall",
-   "city": "Nago City",
-   "time": null,
-   "description": "2026年10月17日(土)〜2026年11月2日(月)",
-   "price": null,
-   "region": "okinawa"
-  },
-  {
    "title_ja": "「知花均作品展 境界性を巡って1990-2024」",
    "when_ja": "2026年10月17日(土)〜2026年11月23日(月)",
    "venue_ja": "世界遺産座喜味城跡ユンタンザミュージアム新館2階 企画展示室",
@@ -1228,25 +1209,6 @@
    "region": "okinawa"
   },
   {
-   "title_ja": "『戦前の与那原のまちと集落 -韓国済州国立大学所蔵の空中写真でみる与那原-』",
-   "when_ja": "2026年10月19日(月)〜2026年11月2日(月)",
-   "venue_ja": "与那原町コミュニティーセンター　2階ロビー",
-   "area": "south",
-   "city_ja": "与那原町",
-   "start": "2026-10-19",
-   "end": "2026-11-02",
-   "category": "events",
-   "source": "https://www.okinawastory.jp/event/600023209",
-   "src_name": "Okinawa Story (okinawastory.jp)",
-   "title": "\"Prewar Yonahara Towns and Villages - Yonahara in Aerial Photos Collected by Jeju National University, Korea -\"",
-   "venue": "Yonabaru-cho Community Center 2F Lobby",
-   "city": "Yonabaru Town",
-   "time": null,
-   "description": "2026年10月19日(月)〜2026年11月2日(月)",
-   "price": null,
-   "region": "okinawa"
-  },
-  {
    "title_ja": "【RYUBO FOOD HALL 1周年アニバーサリー🎉】",
    "when_ja": "2026年10月22日(木)〜2026年11月15日(日)",
    "venue_ja": "RYUBO FOOD HALL",
@@ -1319,25 +1281,6 @@
    "city": "Okinawa",
    "time": null,
    "description": "2026年10月23日(金)〜2027年5月23日(日)",
-   "price": null,
-   "region": "okinawa"
-  },
-  {
-   "title_ja": "左右田薫 アート展PEACE,LOVE＆SHUREI",
-   "when_ja": "2026年10月27日(火)〜2026年11月2日(月)",
-   "venue_ja": "デパートリウボウ 2F ryubo art gallery",
-   "area": "south",
-   "city_ja": "那覇市",
-   "start": "2026-10-27",
-   "end": "2026-11-02",
-   "category": "events",
-   "source": "https://www.okinawastory.jp/event/600023323",
-   "src_name": "Okinawa Story (okinawastory.jp)",
-   "title": "Kaoru Sakata Art Exhibition peace, love & Shurei",
-   "venue": "Department store Ryubo 2F ryubo art gallery",
-   "city": "Naha-shi",
-   "time": null,
-   "description": "2026年10月27日(火)〜2026年11月2日(月)",
    "price": null,
    "region": "okinawa"
   },
@@ -1793,83 +1736,6 @@
    "time": null,
    "price": null,
    "description": "2026年11月1日（日）～12月12日（土）"
-  },
-  {
-   "title": "Maintenance Day",
-   "start": "2026-11-02",
-   "end": "2026-11-02",
-   "time": null,
-   "venue": "The Rocker Club, Building #622",
-   "area": "central",
-   "city": "Kadena Air Base",
-   "description": "Rocker Enlisted Club is closed for Maintenance.",
-   "price": null,
-   "category": "onbase",
-   "tags": [
-    "Base Wide Events",
-    "The Rocker"
-   ],
-   "source": "https://kadenafss.com/event/maintenance-day-4-2-2-2-2/2026-11-02",
-   "src_name": "Kadena FSS (kadenafss.com)",
-   "region": "okinawa"
-  },
-  {
-   "title": "TSP Millionaire",
-   "start": "2026-11-02",
-   "end": "2026-11-02",
-   "time": "09:00–11:00",
-   "venue": "MFRC, Building #220",
-   "area": "central",
-   "city": "Kadena Air Base",
-   "description": "9:00am – 11:00am Military & Family Readiness Center, Bldg 220 , 904-0200, Japan This workshop provides an overview of the TSP Roth and Traditional savings/retirement plan.",
-   "price": null,
-   "category": "onbase",
-   "tags": [
-    "Active Duty, Career and Education Events",
-    "M&amp;FRC"
-   ],
-   "source": "https://kadenafss.com/event/tsp-millionaire/2026-11-02",
-   "src_name": "Kadena FSS (kadenafss.com)",
-   "region": "okinawa"
-  },
-  {
-   "title": "Power Hour",
-   "start": "2026-11-02",
-   "end": "2026-11-02",
-   "time": "14:00–15:00",
-   "venue": "",
-   "area": "central",
-   "city": "Kadena Air Base",
-   "description": "Monday – Friday • 2 – 3 pm As the new school year begins, be sure to use the Teen Center’s Power Hour Program! Do homework, get peer tutoring, form study groups, all while earning points for prizes such as gift cards, snack bar coupons, and games!",
-   "price": null,
-   "category": "onbase",
-   "tags": [
-    "Fun Events",
-    "Teen Center"
-   ],
-   "source": "https://kadenafss.com/event/power-hour-2/2026-11-02",
-   "src_name": "Kadena FSS (kadenafss.com)",
-   "region": "okinawa"
-  },
-  {
-   "title": "Salsa Night",
-   "start": "2026-11-02",
-   "end": "2026-11-02",
-   "time": "19:00–22:00",
-   "venue": "Rocker Lounge",
-   "area": "central",
-   "city": "Kadena Air Base",
-   "description": "Every Monday Night Turn up the heat and let the rhythm move you at Salsa Night at Rocker Lounge ! Join us for an evening of vibrant Latin beats, energetic dancing, and an electric atmosphere that will keep you on your feet all night long. Whether you’re a seasoned dancer or just want to learn a few moves, everyone is welcome on the dance floor. Feel the music, bring your friends, meet new people, ",
-   "price": null,
-   "category": "onbase",
-   "tags": [
-    "Fun Events",
-    "Rocker Lounge",
-    "The Rocker"
-   ],
-   "source": "https://kadenafss.com/event/salsa-night-2-2/2026-11-02",
-   "src_name": "Kadena FSS (kadenafss.com)",
-   "region": "okinawa"
   },
   {
    "title_ja": "スポーツフィエスタ",
@@ -4080,6 +3946,139 @@
    "region": "okinawa"
   },
   {
+   "title": "Post-Deployment Brief",
+   "start": "2026-11-10",
+   "end": "2026-11-10",
+   "time": "08:30–10:00",
+   "venue": "MFRC, Building #220",
+   "area": "central",
+   "city": "Kadena Air Base",
+   "description": "September 1, 8, 15, 22, 29 | 8:30 – 10 a.m. Oct. 6, 13, 20 and 27 | 8:30 – 10 a.m. Open to all members deploying for 30 days or more. Family members are encouraged to attend. Military & Family Readiness Center BLDG#220",
+   "price": null,
+   "category": "onbase",
+   "tags": [
+    "Active Duty, Career and Education Events",
+    "M&amp;FRC"
+   ],
+   "source": "https://kadenafss.com/event/post-deployment-brief/2026-11-10",
+   "src_name": "Kadena FSS (kadenafss.com)",
+   "region": "okinawa"
+  },
+  {
+   "title": "Baby Stay & Play",
+   "start": "2026-11-10",
+   "end": "2026-11-10",
+   "time": "10:30–11:30",
+   "venue": "Library, Building #451",
+   "area": "central",
+   "city": "Kadena Air Base",
+   "description": "Come play with us every Tuesday from 10:30 to 11:30 a.m.! This is a causal, self-guided play morning tailored for babies. Please note that we take a break on the last Tuesday of the month so families can attend the New Parent Support Program’s Storytime for ages 0-4.",
+   "price": null,
+   "category": "onbase",
+   "tags": [
+    "Fun Events",
+    "Library"
+   ],
+   "source": "https://kadenafss.com/event/baby-stay-play/2026-11-10",
+   "src_name": "Kadena FSS (kadenafss.com)",
+   "region": "okinawa"
+  },
+  {
+   "title": "Power Hour",
+   "start": "2026-11-10",
+   "end": "2026-11-10",
+   "time": "14:00–15:00",
+   "venue": "",
+   "area": "central",
+   "city": "Kadena Air Base",
+   "description": "Monday – Friday • 2 – 3 pm As the new school year begins, be sure to use the Teen Center’s Power Hour Program! Do homework, get peer tutoring, form study groups, all while earning points for prizes such as gift cards, snack bar coupons, and games!",
+   "price": null,
+   "category": "onbase",
+   "tags": [
+    "Fun Events",
+    "Teen Center"
+   ],
+   "source": "https://kadenafss.com/event/power-hour-2/2026-11-10",
+   "src_name": "Kadena FSS (kadenafss.com)",
+   "region": "okinawa"
+  },
+  {
+   "title": "Brick Club",
+   "start": "2026-11-10",
+   "end": "2026-11-10",
+   "time": "14:00–16:00",
+   "venue": "Library, Building #451",
+   "area": "central",
+   "city": "Kadena Air Base",
+   "description": "Tuesdays starting 10/6 Ages 3 and up. Caregiver must be present. Time: 2 p.m.- 4 p.m. Kadena Base Library BLDG. 451",
+   "price": null,
+   "category": "onbase",
+   "tags": [
+    "Fun Events",
+    "Library"
+   ],
+   "source": "https://kadenafss.com/event/brick-club/2026-11-10",
+   "src_name": "Kadena FSS (kadenafss.com)",
+   "region": "okinawa"
+  },
+  {
+   "title": "KUMON (Math / Japanese)",
+   "start": "2026-11-10",
+   "end": "2026-11-10",
+   "time": "15:00–18:00",
+   "venue": "Schilling Community Center, Building #455",
+   "area": "central",
+   "city": "Kadena Air Base",
+   "description": "Tuesdays and Fridays | 3 – 6 p.m. 1st and 3rd Thursdays | 3 – 6 p.m. 30-minute sessions $75 per month for 1 subject $150 per month for both subjects Math | ages 5 – 18 Japanese | ages 5 and over Registration required. Reservations and scheduling for all classes can be made at the Schilling Community Center front desk.",
+   "price": null,
+   "category": "onbase",
+   "tags": [
+    "Active Duty, Career and Education Events",
+    "Shilling Community Center"
+   ],
+   "source": "https://kadenafss.com/event/kumon-math-japanese/2026-11-10",
+   "src_name": "Kadena FSS (kadenafss.com)",
+   "region": "okinawa"
+  },
+  {
+   "title": "Ballroom and Salsa Dance Lessons",
+   "start": "2026-11-10",
+   "end": "2026-11-10",
+   "time": "17:45–18:45",
+   "venue": "",
+   "area": "central",
+   "city": "Kadena Air Base",
+   "description": "Tuesdays | 5:45 – 6:45 p.m. $60 for four lessons Step into the rhythm with our Ballroom and Salsa Dance Lessons! Whether you’re a beginner or want to brush up on your skills, this is your chance to learn! To register, stop by the Schilling Community Center",
+   "price": null,
+   "category": "onbase",
+   "tags": [
+    "Fun Events",
+    "Shilling Community Center"
+   ],
+   "source": "https://kadenafss.com/event/ballroom-and-salsa-dance-lessons-2/2026-11-10",
+   "src_name": "Kadena FSS (kadenafss.com)",
+   "region": "okinawa"
+  },
+  {
+   "title": "Smartphone Trivia",
+   "start": "2026-11-10",
+   "end": "2026-11-10",
+   "time": "19:00–22:00",
+   "venue": "",
+   "area": "central",
+   "city": "Kadena Air Base",
+   "description": "Free for members | $5 per nonmember Teams of two | minimum of eight participants Think you’ve got what it takes to be the trivia champ? Put your knowledge to the test at Smartphone Trivia Night at The Rocker Club ! Gather your friends, bring your phone, and get ready for a fast-paced night of fun questions, friendly competition, and plenty of laughs.",
+   "price": null,
+   "category": "onbase",
+   "tags": [
+    "Fun Events",
+    "The Rocker"
+   ],
+   "source": "https://kadenafss.com/event/smartphone-trivia/2026-11-10",
+   "src_name": "Kadena FSS (kadenafss.com)",
+   "region": "okinawa"
+  },
+  {
    "title_ja": "大濠公園能楽堂で幻想的な灯りに包まれて名曲を聴く夜「Candlelight: 時代を超えて愛されるクラシック名曲集」",
    "desc_ja": "世界各地で人気を集める「Candlelight」は、会場いっぱいに灯されたキャンドルの中でクラシックや映画音楽を聴く新しい形のコンサートシリーズです。たくさんのキャンドルが揺らめく幻想的な空間と一流の弦楽器奏者が生み出す音色は、言葉の壁を超えて心に響きます。会場は檜造りの本格的な能楽堂で、普段は能や狂言が上演される日本の伝統建築です。和の空間と洋楽器の音色が響き合う、ここでしか味わえない組み...",
    "when_ja": "2026年11月13日（金曜日） 16:15開場／16:45開演",
@@ -5717,14 +5716,14 @@
    "url": "https://www.okinawastory.jp/event",
    "status": "ok",
    "note": "",
-   "items": 192
+   "items": 189
   },
   {
    "name": "Kadena FSS events (kadenafss.com API)",
    "url": "https://kadenafss.com/events",
    "status": "ok",
    "note": "",
-   "items": 45
+   "items": 48
   },
   {
    "name": "Yokanavi events (yokanavi.com, Fukuoka City)",
@@ -5751,6 +5750,6 @@
  "translation": {
   "provider": "MyMemory (api.mymemory.translated.net)",
   "quota_hit": false,
-  "chars_this_run": 0
+  "chars_this_run": 392
  }
 }
