@@ -1,6 +1,6 @@
 {
- "checked_at": "2026-11-04 06:31 JST",
- "generated": "2026-11-04T06:31:14.729952+09:00",
+ "checked_at": "2026-11-05 06:36 JST",
+ "generated": "2026-11-05T06:36:11.682666+09:00",
  "items": [
   {
    "title_ja": "滞在プログラム「首里城を彩る紅～琉球のちむぐくる～」",
@@ -1287,27 +1287,6 @@
    "description": "2026年10月31日（土）～2027年1月31日（日）"
   },
   {
-   "title_ja": "2026年 TAOの丘 秋の感謝祭",
-   "desc_ja": "",
-   "when_ja": "2026年10月31日（土）〜11月4日（水）",
-   "venue_ja": "",
-   "city_ja": "竹田市",
-   "region": "kyushu",
-   "area": "oita-other",
-   "start": "2026-10-31",
-   "end": "2026-11-04",
-   "category": "events",
-   "source": "https://www.visit-oita.jp/events/detail/14478",
-   "src_name": "Visit Oita (visit-oita.jp)",
-   "cancelled": false,
-   "title": "Tao's Hill Autumn Thanksgiving 2026",
-   "city": "Takeda-shi",
-   "venue": "",
-   "time": null,
-   "price": null,
-   "description": "2026年10月31日（土）〜11月4日（水）"
-  },
-  {
    "title_ja": "CHURA MIKU STREET 2026",
    "when_ja": "2026年11月1日(日)〜2026年12月13日(日)",
    "venue_ja": "沖縄県 国際通り・首里 周辺",
@@ -1599,25 +1578,6 @@
    "description": "2026年11月3日（火・祝） ～ 23日（月・祝）※ライトアップは11月7日・13日・20日・ 21日・22日"
   },
   {
-   "title_ja": "令和８年度沖縄県地産地消シンポジウム",
-   "when_ja": "2026年11月4日(水)",
-   "venue_ja": "イーアス沖縄豊崎",
-   "area": "south",
-   "city_ja": "豊見城市",
-   "start": "2026-11-04",
-   "end": "2026-11-04",
-   "category": "events",
-   "source": "https://www.okinawastory.jp/event/600023315",
-   "src_name": "Okinawa Story (okinawastory.jp)",
-   "title": "2019 Okinawa Prefecture Local Consumption Symposium",
-   "venue": "EAS Okinawa Toyosaki",
-   "city": "Tomigusuku City",
-   "time": null,
-   "description": "2026年11月4日(水)",
-   "price": null,
-   "region": "okinawa"
-  },
-  {
    "title_ja": "リブランド5周年記念「感謝祭フェア」を11月4日(水)～12月10日(木)に開催 旧オリエンタルホテルより受け継がれた“幻のメニュー”を期間限定で復刻",
    "when_ja": "2026年11月4日(水)〜2026年12月10日(木)",
    "venue_ja": "オリエンタルホテル　沖縄リゾート＆スパ　Buffet & Grill QWACHI（クワッチー）",
@@ -1653,122 +1613,6 @@
    "time": null,
    "description": "2026年11月4日(水)〜2026年12月25日(金)",
    "price": null,
-   "region": "okinawa"
-  },
-  {
-   "title": "Pre-Separation Brief",
-   "start": "2026-11-04",
-   "end": "2026-11-04",
-   "time": "08:00–11:00",
-   "venue": "Education Center | Rm 115",
-   "area": "central",
-   "city": "Kadena Air Base",
-   "description": "Education Center, Bldg. 59, Room 115 Step 2 of the congressionally mandated Transition Assistance Program (TAP) for service members preparing for separation or retirement from the military.",
-   "price": null,
-   "category": "onbase",
-   "tags": [
-    "Active Duty, Career and Education Events",
-    "M&amp;FRC"
-   ],
-   "source": "https://kadenafss.com/event/pre-separation-brief-2/2026-11-04",
-   "src_name": "Kadena FSS (kadenafss.com)",
-   "region": "okinawa"
-  },
-  {
-   "title": "Face-to-Face TA Brief",
-   "start": "2026-11-04",
-   "end": "2026-11-04",
-   "time": "08:00–17:00",
-   "venue": "",
-   "area": "central",
-   "city": "Kadena Air Base",
-   "description": "2 – 3 p.m. Kadena Education & Training Office, Bldg. 59, third floor Register in AFVEC → the Education Center info banner (right side) → Education Center Events.",
-   "price": null,
-   "category": "onbase",
-   "tags": [
-    "Active Duty, Career and Education Events",
-    "Education"
-   ],
-   "source": "https://kadenafss.com/event/face-to-face-ta-brief-for-first-time-ta-users/2026-11-04",
-   "src_name": "Kadena FSS (kadenafss.com)",
-   "region": "okinawa"
-  },
-  {
-   "title": "Japanese Calligraphy",
-   "start": "2026-11-04",
-   "end": "2026-11-04",
-   "time": "10:00–11:30",
-   "venue": "Education Center | Rm 115",
-   "area": "central",
-   "city": "Kadena Air Base",
-   "description": "10 – 11:30 a.m. Learn how to write Kanji with an ink brush! This class is designed specifically for adults; all supplies are provided. Ages 16+",
-   "price": null,
-   "category": "onbase",
-   "tags": [
-    "Family and School Age Events",
-    "M&amp;FRC"
-   ],
-   "source": "https://kadenafss.com/event/japanese-calligraphy/2026-11-04",
-   "src_name": "Kadena FSS (kadenafss.com)",
-   "region": "okinawa"
-  },
-  {
-   "title": "Power Hour",
-   "start": "2026-11-04",
-   "end": "2026-11-04",
-   "time": "14:00–15:00",
-   "venue": "",
-   "area": "central",
-   "city": "Kadena Air Base",
-   "description": "Monday – Friday • 2 – 3 pm As the new school year begins, be sure to use the Teen Center’s Power Hour Program! Do homework, get peer tutoring, form study groups, all while earning points for prizes such as gift cards, snack bar coupons, and games!",
-   "price": null,
-   "category": "onbase",
-   "tags": [
-    "Fun Events",
-    "Teen Center"
-   ],
-   "source": "https://kadenafss.com/event/power-hour-2/2026-11-04",
-   "src_name": "Kadena FSS (kadenafss.com)",
-   "region": "okinawa"
-  },
-  {
-   "title": "Kids Night Special",
-   "start": "2026-11-04",
-   "end": "2026-11-04",
-   "time": "16:00–21:00",
-   "venue": "Hanabi’s, The Rocker",
-   "area": "central",
-   "city": "Kadena Air Base",
-   "description": "Wednesdays | 4-9 p.m. 50% off | ages 5 – 12 Free | ages 4 and under Bring the whole family. Children 12 and under receive special pricing with the purchase of an adult entrée. Dine-in only.",
-   "price": null,
-   "category": "onbase",
-   "tags": [
-    "Food Events",
-    "Kazoku",
-    "The Rocker"
-   ],
-   "source": "https://kadenafss.com/event/kids-night-special/2026-11-04",
-   "src_name": "Kadena FSS (kadenafss.com)",
-   "region": "okinawa"
-  },
-  {
-   "title": "Country Line Dancing",
-   "start": "2026-11-04",
-   "end": "2026-11-04",
-   "time": "19:00–22:00",
-   "venue": "Rocker Lounge",
-   "area": "central",
-   "city": "Kadena Air Base",
-   "description": "Experience Country Line Dancing at the Rocker Lounge on Kadena Air Base, where music, movement, and community come together for a fun night out. Whether you’re a beginner or seasoned dancer, enjoy easy-to-follow lessons, popular country hits, and a welcoming atmosphere perfect for groups, date nights, and anyone looking to learn and dance on base.",
-   "price": null,
-   "category": "onbase",
-   "tags": [
-    "Fun Events",
-    "Rocker Lounge",
-    "The Rocker"
-   ],
-   "source": "https://kadenafss.com/event/country-line-dancing-2-2-2/2026-11-04",
-   "src_name": "Kadena FSS (kadenafss.com)",
    "region": "okinawa"
   },
   {
@@ -3080,6 +2924,27 @@
    "region": "okinawa"
   },
   {
+   "title_ja": "竹田市消防フェスティバル2026",
+   "desc_ja": "",
+   "when_ja": "2026年11月8日（日）※雨天決行。大雨警報・土砂災害警報等が発表された場合は中止となる場合があります",
+   "venue_ja": "",
+   "city_ja": "竹田市",
+   "region": "kyushu",
+   "area": "oita-other",
+   "start": "2026-11-08",
+   "end": "2026-11-08",
+   "category": "events",
+   "source": "https://www.visit-oita.jp/events/detail/14548",
+   "src_name": "Visit Oita (visit-oita.jp)",
+   "cancelled": true,
+   "title": "Takeda City Fire Festival 2026",
+   "city": "Takeda-shi",
+   "venue": "",
+   "time": null,
+   "price": null,
+   "description": "2026年11月8日（日）※雨天決行。大雨警報・土砂災害警報等が発表された場合は中止となる場合があります"
+  },
+  {
    "title_ja": "ぶんごおおのフェスタ2026",
    "desc_ja": "",
    "when_ja": "2026年11月8日（日）",
@@ -3454,6 +3319,122 @@
    "region": "okinawa"
   },
   {
+   "title": "Department of Labor Employment Track",
+   "start": "2026-11-12",
+   "end": "2026-11-12",
+   "time": "08:00–16:30",
+   "venue": "Education Center | Rm 115",
+   "area": "central",
+   "city": "Kadena Air Base",
+   "description": "8 a.m. – 4:30 p.m. Wednesday October 28 – Thursday October 29 Thursday and Friday, November 12 – 13 Education Center , Bldg 59, Room 115 Part of the congressionally mandated Transition Assistance Program (TAP) for service members preparing for separation or retirement from the military. Open to transitioning service members who have completed the TAP Workshop and their spouses.",
+   "price": null,
+   "category": "onbase",
+   "tags": [
+    "Active Duty, Career and Education Events",
+    "M&amp;FRC"
+   ],
+   "source": "https://kadenafss.com/event/department-of-labor-employment-track/2026-11-12",
+   "src_name": "Kadena FSS (kadenafss.com)",
+   "region": "okinawa"
+  },
+  {
+   "title": "Power Hour",
+   "start": "2026-11-12",
+   "end": "2026-11-12",
+   "time": "14:00–15:00",
+   "venue": "",
+   "area": "central",
+   "city": "Kadena Air Base",
+   "description": "Monday – Friday • 2 – 3 pm As the new school year begins, be sure to use the Teen Center’s Power Hour Program! Do homework, get peer tutoring, form study groups, all while earning points for prizes such as gift cards, snack bar coupons, and games!",
+   "price": null,
+   "category": "onbase",
+   "tags": [
+    "Fun Events",
+    "Teen Center"
+   ],
+   "source": "https://kadenafss.com/event/power-hour-2/2026-11-12",
+   "src_name": "Kadena FSS (kadenafss.com)",
+   "region": "okinawa"
+  },
+  {
+   "title": "STEM Science",
+   "start": "2026-11-12",
+   "end": "2026-11-12",
+   "time": "16:00–17:00",
+   "venue": "Schilling Community Center, Building #455",
+   "area": "central",
+   "city": "Kadena Air Base",
+   "description": "Thursdays • 4 – 5 pm • $40 per month 1st & 3rd Thursday • Ages 6 – 9 2nd & 4th Thursday • Ages 10 – 12 Registration required.",
+   "price": null,
+   "category": "onbase",
+   "tags": [
+    "Family and School Age Events",
+    "Shilling Community Center"
+   ],
+   "source": "https://kadenafss.com/event/stem-science-2/2026-11-12",
+   "src_name": "Kadena FSS (kadenafss.com)",
+   "region": "okinawa"
+  },
+  {
+   "title": "Mongolian BBQ Night",
+   "start": "2026-11-12",
+   "end": "2026-11-12",
+   "time": "16:00–21:00",
+   "venue": "The Rocker Club, Building #622",
+   "area": "central",
+   "city": "Kadena Air Base",
+   "description": "Build your own stir-fry meal with fresh ingredients. Please note Kazoku Place will serve Mongolian BBQ only. The regular menu will not be offered.",
+   "price": null,
+   "category": "onbase",
+   "tags": [
+    "Food Events",
+    "Kazoku"
+   ],
+   "source": "https://kadenafss.com/event/mongolian-bbq-night-2/2026-11-12",
+   "src_name": "Kadena FSS (kadenafss.com)",
+   "region": "okinawa"
+  },
+  {
+   "title": "Drive-By Dinners",
+   "start": "2026-11-12",
+   "end": "2026-11-12",
+   "time": "16:30–18:30",
+   "venue": "Hanabi’s, The Rocker",
+   "area": "central",
+   "city": "Kadena Air Base",
+   "description": "Thursdays | 4:30 – 6:30 p.m. $12 per person (10% member discount) Oct. 1: Spaghetti and Meatballs with garlic bread and house salad Oct. 8: Chimichanga with refried beans and Mexican rice Oct. 15: BBQ Ribs with macaroni salad and corn muffin Oct. 22: Green Curry Chicken with steamed rice and spring roll Oct. 29: Tapsilog (marinated beef, fried egg and garlic fried rice) Pull up to the curb at the ",
+   "price": null,
+   "category": "onbase",
+   "tags": [
+    "Food Events",
+    "Hanabis",
+    "The Rocker"
+   ],
+   "source": "https://kadenafss.com/event/drive-by-dinners-2/2026-11-12",
+   "src_name": "Kadena FSS (kadenafss.com)",
+   "region": "okinawa"
+  },
+  {
+   "title": "Karaoke",
+   "start": "2026-11-12",
+   "end": "2026-11-12",
+   "time": "19:00–22:00",
+   "venue": "Rocker Lounge",
+   "area": "central",
+   "city": "Kadena Air Base",
+   "description": "Step up to the mic and show us what you’ve got at Karaoke Night at Rocker Lounge ! Whether you’re a powerhouse vocalist, a shower singer, or just here for the fun, it’s your time to shine. Sing your heart out at Karaoke Night at the Rocker Club on Kadena Air Base, where great music, a lively crowd, and a wide song selection create an unforgettable night of entertainment. Whether you’re a seasoned ",
+   "price": null,
+   "category": "onbase",
+   "tags": [
+    "Fun Events",
+    "Rocker Lounge",
+    "The Rocker"
+   ],
+   "source": "https://kadenafss.com/event/karaoke-2-2-2/2026-11-12",
+   "src_name": "Kadena FSS (kadenafss.com)",
+   "region": "okinawa"
+  },
+  {
    "title_ja": "大濠公園能楽堂で幻想的な灯りに包まれて名曲を聴く夜「Candlelight: 時代を超えて愛されるクラシック名曲集」",
    "desc_ja": "世界各地で人気を集める「Candlelight」は、会場いっぱいに灯されたキャンドルの中でクラシックや映画音楽を聴く新しい形のコンサートシリーズです。たくさんのキャンドルが揺らめく幻想的な空間と一流の弦楽器奏者が生み出す音色は、言葉の壁を超えて心に響きます。会場は檜造りの本格的な能楽堂で、普段は能や狂言が上演される日本の伝統建築です。和の空間と洋楽器の音色が響き合う、ここでしか味わえない組み...",
    "when_ja": "2026年11月13日（金曜日） 16:15開場／16:45開演",
@@ -3780,7 +3761,7 @@
    "category": "family",
    "source": "https://www.okinawastory.jp/event/600023228",
    "src_name": "Okinawa Story (okinawastory.jp)",
-   "title": null,
+   "title": "Connecting Together ~ Festival of Life ~",
    "venue": "Okinawa Kodomonokuni Water and Green Plaza",
    "city": "Okinawa",
    "time": null,
@@ -3799,8 +3780,8 @@
    "category": "events",
    "source": "https://www.okinawastory.jp/event/600023140",
    "src_name": "Okinawa Story (okinawastory.jp)",
-   "title": null,
-   "venue": "JICA沖縄",
+   "title": "Okinawa International Cooperation and Exchange Festival 2026",
+   "venue": "JICA Okinawa",
    "city": "Urasoe City",
    "time": null,
    "description": "2026年11月15日(日)",
@@ -3818,8 +3799,8 @@
    "category": "events",
    "source": "https://www.okinawastory.jp/event/600023137",
    "src_name": "Okinawa Story (okinawastory.jp)",
-   "title": null,
-   "venue": "南城市公共駐車場（南城市役所となり）",
+   "title": "Nanjo Municipal System 20th Anniversary 7th Nanjo Matsuri",
+   "venue": "Nanjo City Public Parking (to become Nanjo City Hall)",
    "city": "Nanjō, Okinawa",
    "time": null,
    "description": "2026年11月15日(日)",
@@ -3837,8 +3818,8 @@
    "category": "outdoors",
    "source": "https://www.okinawastory.jp/event/600023077",
    "src_name": "Okinawa Story (okinawastory.jp)",
-   "title": null,
-   "venue": "八重島公園",
+   "title": "Tell Okinawa Yoga & Wellness Festival 2026",
+   "venue": "Yaeshima Park",
    "city": "Okinawa",
    "time": null,
    "description": "2026年11月15日(日)",
@@ -4726,6 +4707,25 @@
    "region": "okinawa"
   },
   {
+   "title_ja": "ワークショップ「クリスマスツリーを作ろう！」",
+   "when_ja": "2026年12月12日(土)",
+   "venue_ja": "浦添市美術館",
+   "area": "central",
+   "city_ja": "浦添市",
+   "start": "2026-12-12",
+   "end": "2026-12-12",
+   "category": "family",
+   "source": "https://www.okinawastory.jp/event/600023348",
+   "src_name": "Okinawa Story (okinawastory.jp)",
+   "title": null,
+   "venue": "Urasoe City Museum of Art",
+   "city": "Urasoe City",
+   "time": null,
+   "description": "2026年12月12日(土)",
+   "price": null,
+   "region": "okinawa"
+  },
+  {
    "title_ja": "第4回ゴールデンルート沖縄美ら海ウルトラウォーキング２０２6",
    "when_ja": "2026年12月12日(土)〜2026年12月13日(日)",
    "venue_ja": "２１世紀の森公園　イベントドーム（第2球場 海側）、那覇市　沖縄県庁前　県民広場",
@@ -5377,6 +5377,6 @@
  "translation": {
   "provider": "MyMemory (api.mymemory.translated.net)",
   "quota_hit": false,
-  "chars_this_run": 1611
+  "chars_this_run": 501
  }
 }
